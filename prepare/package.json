@@ -1,0 +1,8 @@
+{
+  "name": "is-she-the-wolf-script-japanese-tools",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "prepare:data": "node ./scripts/build-dataset.mjs", "validate:data": "node ./scripts/validate-dataset.mjs" },
+  "dependencies": { "kuroshiro": "^1.2.0", "kuroshiro-analyzer-kuromoji": "^1.1.0" }
+}

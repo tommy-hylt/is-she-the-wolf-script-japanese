@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+*-chrome.png
+http-load*.png
+exact-url*.png
