@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import './App.css';
 
 type TextSegment = string | { kanji: string; reading: string };
@@ -60,9 +60,9 @@ function readingLineKey(episodeId: string, lessonIndex: number) {
 }
 
 const speakerPhotos: Record<string, string> = {
-  '桜子': 'Sakurako.jpg', 'ギャビー': 'Gyabii.jpg', 'じゅり': 'Juri.jpg', 'ほのか': 'Honoka.jpg', 'Mikako': 'Mikako.jpg', 'Ｍｉｋａｋｏ': 'Mikako.jpg',
-  'トモキ': 'Tomoki.jpg', 'Who-ya': 'Who-ya.jpg', 'マサキ': 'Masaki.jpg', '大珠': 'Daiju.jpg', 'ロビン': 'Robin.jpg',
-  '横澤': 'mc-yokosawa.jpg', '滝沢': 'mc-takizawa.jpg', 'ＲＩＫＵ': 'mc-riku.jpg', 'RIKU': 'mc-riku.jpg', '矢吹': 'mc-yabuki.jpg', '屋敷': 'mc-yashiki.jpg',
+  '桜子': 'Sakurako-redraw-v2.png', 'ギャビー': 'Gyabii-redraw-v2.png', 'じゅり': 'Juri-redraw-v2.png', 'ほのか': 'Honoka-redraw-v2.png', 'Mikako': 'Mikako-redraw-v2.png', 'Ｍｉｋａｋｏ': 'Mikako-redraw-v2.png',
+  'トモキ': 'Tomoki-redraw-v2.png', 'Who-ya': 'Who-ya-redraw-v2.png', 'マサキ': 'Masaki-redraw-v2.png', '大珠': 'Daiju-redraw-v2.png', 'ロビン': 'Robin-redraw-v2.png',
+  '横澤': 'mc-yokosawa-redraw-v2.png', '滝沢': 'mc-takizawa-redraw-v2.png', 'ＲＩＫＵ': 'mc-riku-redraw-v2.png', 'RIKU': 'mc-riku-redraw-v2.png', '矢吹': 'mc-yabuki-redraw-v2.png', '屋敷': 'mc-yashiki-redraw-v2.png',
 };
 
 function getSpeakerPhoto(character: string) {
@@ -121,6 +121,17 @@ function App() {
   }, []);
 
   useEffect(() => {
+    const script = document.querySelector('.script');
+    if (!script) return;
+    const handleClick = (event: Event) => {
+      const cue = (event.target as HTMLElement).closest('.cue');
+      if (cue && script.contains(cue)) cue.classList.toggle('photo-visible');
+    };
+    script.addEventListener('click', handleClick);
+    return () => script.removeEventListener('click', handleClick);
+  }, [lesson, loading]);
+
+  useEffect(() => {
     if (loading || lesson.length === 0) return;
 
     const savedCueId = localStorage.getItem(readingLineKey(episode.id, lessonIndex));
@@ -162,20 +173,20 @@ function App() {
     };
   }, [episode.id, lesson, lessonIndex, loading]);
 
-  const nextLesson = () => {
+  const nextLesson = useCallback(() => {
     const next = (lessonIndex + 1) % episode.lessons;
     setLessonIndex(next);
     localStorage.setItem(`wolf-position-${episode.id}`, String(next));
     writeRoute(episode.id, next);
     window.scrollTo({ top: 0, behavior: 'smooth' });
-  };
-  const previousLesson = () => {
+  }, [episode.id, episode.lessons, lessonIndex]);
+  const previousLesson = useCallback(() => {
     const previous = (lessonIndex - 1 + episode.lessons) % episode.lessons;
     setLessonIndex(previous);
     localStorage.setItem(`wolf-position-${episode.id}`, String(previous));
     writeRoute(episode.id, previous);
     window.scrollTo({ top: 0, behavior: 'smooth' });
-  };
+  }, [episode.id, episode.lessons, lessonIndex]);
   const selectEpisode = (id: string) => {
     const nextLesson = Number(localStorage.getItem(`wolf-position-${id}`) || 0);
     setEpisodeId(id);
@@ -183,6 +194,40 @@ function App() {
     localStorage.setItem('wolf-episode', id);
     writeRoute(id, nextLesson);
   };
+
+  useEffect(() => {
+    if (loading) return;
+    const topActions = document.querySelector('.lesson-bar .lesson-actions');
+    const topButtons = topActions?.querySelectorAll('button');
+    if (!topButtons || topButtons.length < 2) return;
+    const previousTop = topButtons[0] as HTMLButtonElement;
+    const nextTop = topButtons[1] as HTMLButtonElement;
+    previousTop.textContent = 'Previous';
+    nextTop.textContent = 'Next';
+    previousTop.hidden = lessonIndex === 0;
+    nextTop.hidden = lessonIndex === episode.lessons - 1;
+
+    const bottomActions = document.createElement('div');
+    bottomActions.className = 'lesson-actions lesson-actions-bottom';
+    if (lessonIndex > 0) {
+      const previous = document.createElement('button');
+      previous.type = 'button';
+      previous.textContent = 'Previous';
+      previous.addEventListener('click', previousLesson);
+      bottomActions.append(previous);
+    }
+    if (lessonIndex < episode.lessons - 1) {
+      const next = document.createElement('button');
+      next.type = 'button';
+      next.textContent = 'Next';
+      next.addEventListener('click', nextLesson);
+      bottomActions.append(next);
+    }
+    document.querySelector('.script')?.insertAdjacentElement('afterend', bottomActions);
+    return () => {
+      bottomActions.remove();
+    };
+  }, [episode.lessons, lessonIndex, loading, nextLesson, previousLesson]);
 
   let activeSpeaker = '';
   // The lesson renderer carries the last explicit speaker into continuation cues.

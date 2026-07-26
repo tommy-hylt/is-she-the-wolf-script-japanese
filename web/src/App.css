@@ -269,3 +269,9 @@ footer {
 .speaker-photo{left:auto!important;right:0!important;width:auto!important;max-width:46%!important;height:100%!important;object-fit:contain!important;object-position:right center!important}
 .en{display:none!important}
 .hero p{display:none!important}
+.cue { cursor: pointer; -webkit-tap-highlight-color: transparent; }
+.cue:focus { outline: none; }
+.speaker-photo { display: none !important; }
+.cue.photo-visible .speaker-photo { display: block !important; }
+.lesson-actions-bottom { justify-content: flex-end; margin-top: 1rem; padding: 0 1rem; }
+.lesson-actions-bottom button { border: 1px solid #b84658; background: #b84658; color: #fff; padding: 0.65rem 0.85rem; border-radius: 3px; }
