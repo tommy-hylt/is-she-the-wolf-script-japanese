@@ -14,7 +14,7 @@
     "id": "wolf-02-0004",
     "time": "00:01:13,156",
     "timeEnd": "00:01:16,409",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "やっぱり ",
       {
@@ -35,7 +35,7 @@
     "id": "wolf-02-0005",
     "time": "00:01:16,493",
     "timeEnd": "00:01:20,580",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "うーん ",
       {
@@ -51,7 +51,7 @@
     "id": "wolf-02-0006",
     "time": "00:01:24,375",
     "timeEnd": "00:01:30,715",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "なんか ",
       {
@@ -107,7 +107,7 @@
     "id": "wolf-02-0008",
     "time": "00:01:35,095",
     "timeEnd": "00:01:36,513",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "うん"
     ],
@@ -118,7 +118,7 @@
     "id": "wolf-02-0009",
     "time": "00:01:36,596",
     "timeEnd": "00:01:39,140",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "オオカミ やらないといけない"
     ],
@@ -129,7 +129,7 @@
     "id": "wolf-02-0010",
     "time": "00:01:41,142",
     "timeEnd": "00:01:42,644",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "ハァ…"
     ],
@@ -140,7 +140,7 @@
     "id": "wolf-02-0011",
     "time": "00:01:43,603",
     "timeEnd": "00:01:48,900",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "でも ",
       {
@@ -161,7 +161,7 @@
     "id": "wolf-02-0012",
     "time": "00:01:54,781",
     "timeEnd": "00:01:56,241",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "どうしたらいいんだろ"
     ],
@@ -209,7 +209,7 @@
     "id": "wolf-02-0015",
     "time": "00:02:34,571",
     "timeEnd": "00:02:35,488",
-    "character": "桜子",
+    "character": "",
     "segments": [
       "ありがとうございます"
     ],
@@ -220,7 +220,7 @@
     "id": "wolf-02-0016",
     "time": "00:02:35,572",
     "timeEnd": "00:02:37,240",
-    "character": "桜子",
+    "character": "",
     "segments": [
       "なんか わがまま",
       {
@@ -328,7 +328,7 @@
     "id": "wolf-02-0022",
     "time": "00:02:45,623",
     "timeEnd": "00:02:48,626",
-    "character": "RIKU / 滝沢",
+    "character": "",
     "segments": [
       "でも ",
       {
@@ -354,7 +354,7 @@
     "id": "wolf-02-0023",
     "time": "00:02:48,710",
     "timeEnd": "00:02:51,212",
-    "character": "RIKU / 滝沢",
+    "character": "",
     "segments": [
       {
         "kanji": "確",
@@ -411,7 +411,7 @@
     "id": "wolf-02-0027",
     "time": "00:03:06,019",
     "timeEnd": "00:03:10,273",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "ずっと なんか したいっていうのは １つの",
       {
@@ -469,7 +469,7 @@
     "id": "wolf-02-0030",
     "time": "00:03:15,737",
     "timeEnd": "00:03:17,155",
-    "character": "桜子",
+    "character": "",
     "segments": [
       "いやいや ",
       {
@@ -591,7 +591,7 @@
     "id": "wolf-02-0039",
     "time": "00:03:51,189",
     "timeEnd": "00:03:52,398",
-    "character": "トモキ",
+    "character": "",
     "segments": [
       {
         "kanji": "気",
@@ -637,7 +637,7 @@
     "id": "wolf-02-0042",
     "time": "00:04:02,075",
     "timeEnd": "00:04:05,411",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "えっ じゃあ ",
       {
@@ -669,7 +669,7 @@
     "id": "wolf-02-0044",
     "time": "00:04:06,788",
     "timeEnd": "00:04:08,289",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "ずっと いいやつ やってないでしょ？"
     ],
@@ -705,7 +705,7 @@
     "id": "wolf-02-0046",
     "time": "00:04:10,583",
     "timeEnd": "00:04:13,211",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "いいやつだったら ",
       {
@@ -721,7 +721,7 @@
     "id": "wolf-02-0047",
     "time": "00:04:13,294",
     "timeEnd": "00:04:14,629",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "ロビンでいいよ ロビンにしようよ"
     ],
@@ -732,7 +732,7 @@
     "id": "wolf-02-0048",
     "time": "00:04:14,712",
     "timeEnd": "00:04:16,756",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "えー ロビンは なんか ちょっと",
       {
@@ -764,7 +764,7 @@
     "id": "wolf-02-0050",
     "time": "00:04:19,676",
     "timeEnd": "00:04:21,010",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       {
         "kanji": "今日",
@@ -784,7 +784,7 @@
     "id": "wolf-02-0051",
     "time": "00:04:21,094",
     "timeEnd": "00:04:24,305",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "はい… はい はい"
     ],
@@ -795,7 +795,7 @@
     "id": "wolf-02-0052",
     "time": "00:04:31,729",
     "timeEnd": "00:04:33,898",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "なんか ",
       {
@@ -832,7 +832,7 @@
     "id": "wolf-02-0054",
     "time": "00:04:35,733",
     "timeEnd": "00:04:38,778",
-    "character": "トモキ",
+    "character": "",
     "segments": [
       "うん ",
       {
@@ -948,7 +948,7 @@
     "id": "wolf-02-0062",
     "time": "00:04:49,831",
     "timeEnd": "00:04:53,501",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "やっぱり ",
       {
@@ -974,7 +974,7 @@
     "id": "wolf-02-0063",
     "time": "00:04:53,584",
     "timeEnd": "00:04:57,046",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "だけど ドキドキしてました"
     ],
@@ -985,7 +985,7 @@
     "id": "wolf-02-0064",
     "time": "00:04:57,547",
     "timeEnd": "00:05:01,509",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "あと かわいくしていこうと ",
       {
@@ -1119,7 +1119,7 @@
     "id": "wolf-02-0072",
     "time": "00:05:14,605",
     "timeEnd": "00:05:16,691",
-    "character": "じゅり / 桜子",
+    "character": "",
     "segments": [
       "これ めちゃめちゃ",
       {
@@ -1181,7 +1181,7 @@
     "id": "wolf-02-0076",
     "time": "00:05:23,197",
     "timeEnd": "00:05:24,532",
-    "character": "Who-ya / Mikako",
+    "character": "",
     "segments": [
       "せーの！"
     ],
@@ -1203,7 +1203,7 @@
     "id": "wolf-02-0078",
     "time": "00:05:26,075",
     "timeEnd": "00:05:26,909",
-    "character": "ギャビー",
+    "character": "",
     "segments": [
       "かわいい！"
     ],
@@ -1325,7 +1325,7 @@
     "id": "wolf-02-0086",
     "time": "00:05:36,836",
     "timeEnd": "00:05:38,296",
-    "character": "Mikako",
+    "character": "",
     "segments": [
       "ここが みんなの ",
       {
@@ -1367,7 +1367,7 @@
     "id": "wolf-02-0089",
     "time": "00:05:42,341",
     "timeEnd": "00:05:45,636",
-    "character": "横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "課題",
@@ -1402,7 +1402,7 @@
     "id": "wolf-02-0090",
     "time": "00:05:45,720",
     "timeEnd": "00:05:48,598",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "メンバーが ",
       {
@@ -1427,7 +1427,7 @@
     "id": "wolf-02-0091",
     "time": "00:05:48,681",
     "timeEnd": "00:05:50,933",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "こちらで いろんなドラマがね ",
       {
@@ -1480,7 +1480,7 @@
     "id": "wolf-02-0094",
     "time": "00:05:55,855",
     "timeEnd": "00:05:56,689",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       "みんなで わちゃわちゃ グランピングしてたのに"
     ],
@@ -1502,7 +1502,7 @@
     "id": "wolf-02-0096",
     "time": "00:05:56,689",
     "timeEnd": "00:05:57,899",
-    "character": "Mikako･ギャビー",
+    "character": "",
     "segments": [
       "みんなで わちゃわちゃ グランピングしてたのに"
     ],
@@ -1560,7 +1560,7 @@
     "id": "wolf-02-0099",
     "time": "00:06:04,363",
     "timeEnd": "00:06:05,823",
-    "character": "Mikako / Who-ya",
+    "character": "",
     "segments": [
       "すごい なんかあるよね ",
       {
@@ -1602,7 +1602,7 @@
     "id": "wolf-02-0102",
     "time": "00:06:10,036",
     "timeEnd": "00:06:11,162",
-    "character": "Mikako",
+    "character": "",
     "segments": [
       {
         "kanji": "途中",
@@ -1626,7 +1626,7 @@
     "id": "wolf-02-0103",
     "time": "00:06:11,788",
     "timeEnd": "00:06:13,331",
-    "character": "Mikako",
+    "character": "",
     "segments": [
       "なんかあった？"
     ],
@@ -1637,7 +1637,7 @@
     "id": "wolf-02-0104",
     "time": "00:06:13,414",
     "timeEnd": "00:06:16,250",
-    "character": "Mikako",
+    "character": "",
     "segments": [
       "でも あれ マサキは",
       {
@@ -1653,7 +1653,7 @@
     "id": "wolf-02-0105",
     "time": "00:06:16,334",
     "timeEnd": "00:06:18,836",
-    "character": "Mikako",
+    "character": "",
     "segments": [
       "その",
       {
@@ -1679,7 +1679,7 @@
     "id": "wolf-02-0106",
     "time": "00:06:18,920",
     "timeEnd": "00:06:20,671",
-    "character": "Mikako",
+    "character": "",
     "segments": [
       "ないよ もう ",
       {
@@ -1713,7 +1713,7 @@
     "id": "wolf-02-0108",
     "time": "00:06:39,440",
     "timeEnd": "00:06:41,692",
-    "character": "ほのか / マサキ",
+    "character": "",
     "segments": [
       "お",
       {
@@ -1729,7 +1729,7 @@
     "id": "wolf-02-0109",
     "time": "00:06:42,068",
     "timeEnd": "00:06:43,027",
-    "character": "ほのか / マサキ",
+    "character": "",
     "segments": [
       "すげえ"
     ],
@@ -1751,7 +1751,7 @@
     "id": "wolf-02-0111",
     "time": "00:07:00,962",
     "timeEnd": "00:07:03,339",
-    "character": "ほのか",
+    "character": "",
     "segments": [
       "あんまりご",
       {
@@ -1798,7 +1798,7 @@
     "id": "wolf-02-0113",
     "time": "00:07:05,466",
     "timeEnd": "00:07:07,176",
-    "character": "横澤 / 屋敷",
+    "character": "",
     "segments": [
       "この",
       {
@@ -1885,7 +1885,7 @@
     "id": "wolf-02-0118",
     "time": "00:07:35,705",
     "timeEnd": "00:07:37,081",
-    "character": "アラーム / 男性",
+    "character": "",
     "segments": [
       {
         "kanji": "最後",
@@ -2030,7 +2030,7 @@
     "id": "wolf-02-0127",
     "time": "00:07:57,226",
     "timeEnd": "00:07:58,352",
-    "character": "マサキ",
+    "character": "",
     "segments": [
       "まあ もう…"
     ],
@@ -2057,7 +2057,7 @@
     "id": "wolf-02-0129",
     "time": "00:08:00,646",
     "timeEnd": "00:08:02,440",
-    "character": "マサキ",
+    "character": "",
     "segments": [
       "それまで こっち",
       {
@@ -2073,7 +2073,7 @@
     "id": "wolf-02-0130",
     "time": "00:08:02,523",
     "timeEnd": "00:08:04,984",
-    "character": "マサキ",
+    "character": "",
     "segments": [
       "そうだね ちょっと",
       {
@@ -2120,7 +2120,7 @@
     "id": "wolf-02-0132",
     "time": "00:08:09,739",
     "timeEnd": "00:08:11,073",
-    "character": "大珠",
+    "character": "",
     "segments": [
       {
         "kanji": "話",
@@ -2135,7 +2135,7 @@
     "id": "wolf-02-0133",
     "time": "00:08:13,493",
     "timeEnd": "00:08:15,328",
-    "character": "大珠",
+    "character": "",
     "segments": [
       "ファーストコロンのことも ここで",
       {
@@ -2173,7 +2173,7 @@
     "id": "wolf-02-0136",
     "time": "00:08:22,210",
     "timeEnd": "00:08:23,211",
-    "character": "ロビン / 桜子",
+    "character": "",
     "segments": [
       {
         "kanji": "寒",
@@ -2188,7 +2188,7 @@
     "id": "wolf-02-0137",
     "time": "00:08:23,794",
     "timeEnd": "00:08:24,795",
-    "character": "ロビン / 桜子",
+    "character": "",
     "segments": [
       "いくよ…"
     ],
@@ -2210,7 +2210,7 @@
     "id": "wolf-02-0141",
     "time": "00:08:32,386",
     "timeEnd": "00:08:33,721",
-    "character": "桜子とロビンの笑い声",
+    "character": "",
     "segments": [
       {
         "kanji": "僕",
@@ -2230,7 +2230,7 @@
     "id": "wolf-02-0142",
     "time": "00:08:33,804",
     "timeEnd": "00:08:36,557",
-    "character": "桜子とロビンの笑い声",
+    "character": "",
     "segments": [
       {
         "kanji": "今",
@@ -2250,7 +2250,7 @@
     "id": "wolf-02-0143",
     "time": "00:08:38,184",
     "timeEnd": "00:08:39,810",
-    "character": "桜子とロビンの笑い声",
+    "character": "",
     "segments": [
       "いいよ ",
       {
@@ -2271,7 +2271,7 @@
     "id": "wolf-02-0144",
     "time": "00:08:42,688",
     "timeEnd": "00:08:44,982",
-    "character": "桜子とロビンの笑い声",
+    "character": "",
     "segments": [
       "これ ",
       {
@@ -2336,7 +2336,7 @@
     "id": "wolf-02-0147",
     "time": "00:08:53,407",
     "timeEnd": "00:08:55,117",
-    "character": "屋敷 / 横澤",
+    "character": "",
     "segments": [
       "たまらんわ"
     ],
@@ -2347,7 +2347,7 @@
     "id": "wolf-02-0148",
     "time": "00:08:59,497",
     "timeEnd": "00:09:00,790",
-    "character": "屋敷 / 横澤",
+    "character": "",
     "segments": [
       "ありがとうございます"
     ],
@@ -2358,7 +2358,7 @@
     "id": "wolf-02-0149",
     "time": "00:09:00,873",
     "timeEnd": "00:09:04,877",
-    "character": "屋敷 / 横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "人",
@@ -2388,7 +2388,7 @@
     "id": "wolf-02-0150",
     "time": "00:09:04,961",
     "timeEnd": "00:09:06,546",
-    "character": "屋敷 / 横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "誰",
@@ -2423,7 +2423,7 @@
     "id": "wolf-02-0152",
     "time": "00:09:10,216",
     "timeEnd": "00:09:11,509",
-    "character": "じゅり / ロビン",
+    "character": "",
     "segments": [
       "ないな"
     ],
@@ -2500,7 +2500,7 @@
     "id": "wolf-02-0159",
     "time": "00:09:31,612",
     "timeEnd": "00:09:32,446",
-    "character": "トモキ",
+    "character": "",
     "segments": [
       "いくよ"
     ],
@@ -2522,7 +2522,7 @@
     "id": "wolf-02-0161",
     "time": "00:09:36,534",
     "timeEnd": "00:09:37,618",
-    "character": "桜子",
+    "character": "",
     "segments": [
       "イエス！"
     ],
@@ -2548,7 +2548,7 @@
     "id": "wolf-02-0163",
     "time": "00:09:43,791",
     "timeEnd": "00:09:46,043",
-    "character": "桜子",
+    "character": "",
     "segments": [
       "あっ すごい すごい ちょっと",
       {
@@ -2579,7 +2579,7 @@
     "id": "wolf-02-0165",
     "time": "00:09:56,178",
     "timeEnd": "00:09:58,139",
-    "character": "桜子",
+    "character": "",
     "segments": [
       "ロビンくんの",
       {
@@ -2595,7 +2595,7 @@
     "id": "wolf-02-0166",
     "time": "00:09:58,222",
     "timeEnd": "00:10:00,349",
-    "character": "桜子",
+    "character": "",
     "segments": [
       {
         "kanji": "一緒",
@@ -2610,7 +2610,7 @@
     "id": "wolf-02-0167",
     "time": "00:10:00,433",
     "timeEnd": "00:10:03,144",
-    "character": "桜子",
+    "character": "",
     "segments": [
       {
         "kanji": "写真",
@@ -2673,7 +2673,7 @@
     "id": "wolf-02-0171",
     "time": "00:10:12,403",
     "timeEnd": "00:10:13,946",
-    "character": "ロビン / 桜子",
+    "character": "",
     "segments": [
       {
         "kanji": "私",
@@ -2699,7 +2699,7 @@
     "id": "wolf-02-0173",
     "time": "00:10:16,449",
     "timeEnd": "00:10:19,493",
-    "character": "トモキ / じゅり",
+    "character": "",
     "segments": [
       "もうちょっと ",
       {
@@ -2849,7 +2849,7 @@
     "id": "wolf-02-0181",
     "time": "00:10:42,767",
     "timeEnd": "00:10:44,727",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "なんか ロビン ムカついてきたな ちょっと"
     ],
@@ -2860,7 +2860,7 @@
     "id": "wolf-02-0182",
     "time": "00:10:45,353",
     "timeEnd": "00:10:47,021",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "こういう",
       {
@@ -2923,7 +2923,7 @@
     "id": "wolf-02-0185",
     "time": "00:10:52,902",
     "timeEnd": "00:10:54,028",
-    "character": "ほのか / 大珠",
+    "character": "",
     "segments": [
       "いつも",
       {
@@ -2949,7 +2949,7 @@
     "id": "wolf-02-0186",
     "time": "00:10:54,111",
     "timeEnd": "00:10:55,696",
-    "character": "ほのか / 大珠",
+    "character": "",
     "segments": [
       "すごかった マジで"
     ],
@@ -2960,7 +2960,7 @@
     "id": "wolf-02-0187",
     "time": "00:10:55,780",
     "timeEnd": "00:11:00,993",
-    "character": "ほのか / 大珠",
+    "character": "",
     "segments": [
       "でも ",
       {
@@ -2996,7 +2996,7 @@
     "id": "wolf-02-0188",
     "time": "00:11:01,077",
     "timeEnd": "00:11:04,580",
-    "character": "ほのか / 大珠",
+    "character": "",
     "segments": [
       "そう なんか ",
       {
@@ -3038,7 +3038,7 @@
     "id": "wolf-02-0190",
     "time": "00:11:06,707",
     "timeEnd": "00:11:09,710",
-    "character": "ほのか",
+    "character": "",
     "segments": [
       "その ",
       {
@@ -3131,7 +3131,7 @@
     "id": "wolf-02-0194",
     "time": "00:11:19,637",
     "timeEnd": "00:11:23,182",
-    "character": "大珠",
+    "character": "",
     "segments": [
       "うわ マジで ",
       {
@@ -3147,7 +3147,7 @@
     "id": "wolf-02-0195",
     "time": "00:11:23,974",
     "timeEnd": "00:11:26,477",
-    "character": "大珠",
+    "character": "",
     "segments": [
       "うん よかった マジでよかった"
     ],
@@ -3173,7 +3173,7 @@
     "id": "wolf-02-0197",
     "time": "00:11:30,022",
     "timeEnd": "00:11:31,941",
-    "character": "ほのか",
+    "character": "",
     "segments": [
       {
         "kanji": "生放送",
@@ -3228,7 +3228,7 @@
     "id": "wolf-02-0200",
     "time": "00:11:36,987",
     "timeEnd": "00:11:39,031",
-    "character": "ほのか",
+    "character": "",
     "segments": [
       "しょうがないね ",
       {
@@ -3255,7 +3255,7 @@
     "id": "wolf-02-0202",
     "time": "00:11:41,784",
     "timeEnd": "00:11:43,911",
-    "character": "ほのか",
+    "character": "",
     "segments": [
       "ほんの",
       {
@@ -3338,7 +3338,7 @@
     "id": "wolf-02-0206",
     "time": "00:11:55,464",
     "timeEnd": "00:11:58,217",
-    "character": "大珠",
+    "character": "",
     "segments": [
       "“",
       {
@@ -3391,7 +3391,7 @@
     "id": "wolf-02-0210",
     "time": "00:12:06,726",
     "timeEnd": "00:12:07,893",
-    "character": "ほのか",
+    "character": "",
     "segments": [
       "ありがとう"
     ],
@@ -3402,7 +3402,7 @@
     "id": "wolf-02-0211",
     "time": "00:12:13,441",
     "timeEnd": "00:12:14,525",
-    "character": "ほのか",
+    "character": "",
     "segments": [
       {
         "kanji": "大",
@@ -3432,7 +3432,7 @@
     "id": "wolf-02-0213",
     "time": "00:12:14,525",
     "timeEnd": "00:12:15,317",
-    "character": "横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "大",
@@ -3525,7 +3525,7 @@
     "id": "wolf-02-0219",
     "time": "00:12:24,827",
     "timeEnd": "00:12:29,790",
-    "character": "桜子",
+    "character": "",
     "segments": [
       "この４",
       {
@@ -3556,7 +3556,7 @@
     "id": "wolf-02-0220",
     "time": "00:12:29,874",
     "timeEnd": "00:12:31,083",
-    "character": "桜子",
+    "character": "",
     "segments": [
       "そうだね"
     ],
@@ -3567,7 +3567,7 @@
     "id": "wolf-02-0221",
     "time": "00:12:32,168",
     "timeEnd": "00:12:34,128",
-    "character": "桜子",
+    "character": "",
     "segments": [
       "“ロビン”って さっき",
       {
@@ -3626,7 +3626,7 @@
     "id": "wolf-02-0225",
     "time": "00:12:39,425",
     "timeEnd": "00:12:40,259",
-    "character": "桜子 / トモキ",
+    "character": "",
     "segments": [
       "そっか"
     ],
@@ -3637,7 +3637,7 @@
     "id": "wolf-02-0226",
     "time": "00:12:45,222",
     "timeEnd": "00:12:48,434",
-    "character": "桜子 / トモキ",
+    "character": "",
     "segments": [
       "なんか ",
       {
@@ -3653,7 +3653,7 @@
     "id": "wolf-02-0227",
     "time": "00:12:48,517",
     "timeEnd": "00:12:52,521",
-    "character": "桜子 / トモキ",
+    "character": "",
     "segments": [
       {
         "kanji": "今日",
@@ -3668,7 +3668,7 @@
     "id": "wolf-02-0228",
     "time": "00:12:52,605",
     "timeEnd": "00:12:56,025",
-    "character": "桜子 / トモキ",
+    "character": "",
     "segments": [
       "デートというか ",
       {
@@ -3684,7 +3684,7 @@
     "id": "wolf-02-0229",
     "time": "00:12:56,108",
     "timeEnd": "00:12:59,987",
-    "character": "桜子 / トモキ",
+    "character": "",
     "segments": [
       {
         "kanji": "参加",
@@ -3704,7 +3704,7 @@
     "id": "wolf-02-0230",
     "time": "00:13:00,696",
     "timeEnd": "00:13:03,491",
-    "character": "桜子 / トモキ",
+    "character": "",
     "segments": [
       "でも",
       {
@@ -3730,7 +3730,7 @@
     "id": "wolf-02-0231",
     "time": "00:13:07,828",
     "timeEnd": "00:13:11,040",
-    "character": "桜子 / トモキ",
+    "character": "",
     "segments": [
       {
         "kanji": "自分",
@@ -3755,7 +3755,7 @@
     "id": "wolf-02-0232",
     "time": "00:13:13,501",
     "timeEnd": "00:13:17,087",
-    "character": "桜子 / トモキ",
+    "character": "",
     "segments": [
       {
         "kanji": "自分",
@@ -3780,7 +3780,7 @@
     "id": "wolf-02-0233",
     "time": "00:13:19,256",
     "timeEnd": "00:13:24,428",
-    "character": "桜子 / トモキ",
+    "character": "",
     "segments": [
       {
         "kanji": "桜子",
@@ -3805,7 +3805,7 @@
     "id": "wolf-02-0234",
     "time": "00:13:26,597",
     "timeEnd": "00:13:32,603",
-    "character": "桜子 / トモキ",
+    "character": "",
     "segments": [
       "それが",
       {
@@ -3842,7 +3842,7 @@
     "id": "wolf-02-0236",
     "time": "00:13:45,032",
     "timeEnd": "00:13:48,118",
-    "character": "桜子",
+    "character": "",
     "segments": [
       {
         "kanji": "太陽",
@@ -3862,7 +3862,7 @@
     "id": "wolf-02-0237",
     "time": "00:13:48,202",
     "timeEnd": "00:13:53,082",
-    "character": "桜子",
+    "character": "",
     "segments": [
       "そうだね なんか その ",
       {
@@ -3888,7 +3888,7 @@
     "id": "wolf-02-0238",
     "time": "00:13:55,042",
     "timeEnd": "00:13:58,754",
-    "character": "桜子",
+    "character": "",
     "segments": [
       {
         "kanji": "正直",
@@ -3929,7 +3929,7 @@
     "id": "wolf-02-0240",
     "time": "00:14:00,256",
     "timeEnd": "00:14:06,053",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "でも それより ２",
       {
@@ -3945,7 +3945,7 @@
     "id": "wolf-02-0241",
     "time": "00:14:08,973",
     "timeEnd": "00:14:10,933",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "それは ちょっと",
       {
@@ -3961,7 +3961,7 @@
     "id": "wolf-02-0242",
     "time": "00:14:11,016",
     "timeEnd": "00:14:12,184",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "うん"
     ],
@@ -3972,7 +3972,7 @@
     "id": "wolf-02-0243",
     "time": "00:14:12,268",
     "timeEnd": "00:14:13,644",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "ごめんね"
     ],
@@ -3994,7 +3994,7 @@
     "id": "wolf-02-0245",
     "time": "00:14:15,062",
     "timeEnd": "00:14:16,021",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       {
         "kanji": "邪魔",
@@ -4049,7 +4049,7 @@
     "id": "wolf-02-0248",
     "time": "00:14:22,987",
     "timeEnd": "00:14:26,073",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "そんなこと ",
       {
@@ -4075,7 +4075,7 @@
     "id": "wolf-02-0249",
     "time": "00:14:26,156",
     "timeEnd": "00:14:27,157",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       {
         "kanji": "本当",
@@ -4090,7 +4090,7 @@
     "id": "wolf-02-0250",
     "time": "00:14:28,075",
     "timeEnd": "00:14:29,827",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "めっちゃモテそう"
     ],
@@ -4101,7 +4101,7 @@
     "id": "wolf-02-0251",
     "time": "00:14:29,910",
     "timeEnd": "00:14:32,538",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "まだね ",
       {
@@ -4117,7 +4117,7 @@
     "id": "wolf-02-0252",
     "time": "00:14:33,664",
     "timeEnd": "00:14:36,792",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "すごい",
       {
@@ -4133,7 +4133,7 @@
     "id": "wolf-02-0253",
     "time": "00:14:37,751",
     "timeEnd": "00:14:41,380",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       {
         "kanji": "大人",
@@ -4148,7 +4148,7 @@
     "id": "wolf-02-0254",
     "time": "00:14:42,673",
     "timeEnd": "00:14:45,718",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "なんだろね わがままなロビンも",
       {
@@ -4168,7 +4168,7 @@
     "id": "wolf-02-0255",
     "time": "00:14:48,429",
     "timeEnd": "00:14:52,349",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "そういう",
       {
@@ -4203,7 +4203,7 @@
     "id": "wolf-02-0256",
     "time": "00:14:52,433",
     "timeEnd": "00:14:53,726",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "うん"
     ],
@@ -4238,7 +4238,7 @@
     "id": "wolf-02-0258",
     "time": "00:14:57,146",
     "timeEnd": "00:14:59,273",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       {
         "kanji": "頭",
@@ -4263,7 +4263,7 @@
     "id": "wolf-02-0259",
     "time": "00:14:59,356",
     "timeEnd": "00:15:02,568",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "なんか そういうのを ずっと",
       {
@@ -4279,7 +4279,7 @@
     "id": "wolf-02-0260",
     "time": "00:15:03,444",
     "timeEnd": "00:15:07,364",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "じゅりが",
       {
@@ -4300,7 +4300,7 @@
     "id": "wolf-02-0261",
     "time": "00:15:07,448",
     "timeEnd": "00:15:09,825",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "わがまま",
       {
@@ -4316,7 +4316,7 @@
     "id": "wolf-02-0262",
     "time": "00:15:12,328",
     "timeEnd": "00:15:15,372",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "うれしい",
       {
@@ -4337,7 +4337,7 @@
     "id": "wolf-02-0263",
     "time": "00:15:21,879",
     "timeEnd": "00:15:24,882",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       {
         "kanji": "今",
@@ -4367,7 +4367,7 @@
     "id": "wolf-02-0264",
     "time": "00:15:25,883",
     "timeEnd": "00:15:27,843",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "うれしいよ ありがとう"
     ],
@@ -4378,7 +4378,7 @@
     "id": "wolf-02-0266",
     "time": "00:15:48,489",
     "timeEnd": "00:15:50,824",
-    "character": "ロビンと桜子の笑い声",
+    "character": "",
     "segments": [
       "でも こんな",
       {
@@ -4399,7 +4399,7 @@
     "id": "wolf-02-0267",
     "time": "00:15:50,908",
     "timeEnd": "00:15:53,577",
-    "character": "ロビンと桜子の笑い声",
+    "character": "",
     "segments": [
       "ちょっと",
       {
@@ -4415,7 +4415,7 @@
     "id": "wolf-02-0268",
     "time": "00:15:53,661",
     "timeEnd": "00:15:57,623",
-    "character": "ロビンと桜子の笑い声",
+    "character": "",
     "segments": [
       "ぶっ",
       {
@@ -4472,7 +4472,7 @@
     "id": "wolf-02-0270",
     "time": "00:16:03,545",
     "timeEnd": "00:16:05,714",
-    "character": "ほのか",
+    "character": "",
     "segments": [
       "そういう",
       {
@@ -4510,7 +4510,7 @@
     "id": "wolf-02-0274",
     "time": "00:16:42,084",
     "timeEnd": "00:16:44,169",
-    "character": "ロビンの叫び声",
+    "character": "",
     "segments": [
       {
         "kanji": "弱",
@@ -4530,7 +4530,7 @@
     "id": "wolf-02-0275",
     "time": "00:16:48,382",
     "timeEnd": "00:16:50,384",
-    "character": "ロビンの叫び声",
+    "character": "",
     "segments": [
       "〈もっと あなたのことが",
       {
@@ -4546,7 +4546,7 @@
     "id": "wolf-02-0276",
     "time": "00:16:50,467",
     "timeEnd": "00:16:53,554",
-    "character": "ロビンの叫び声",
+    "character": "",
     "segments": [
       "〈",
       {
@@ -4578,7 +4578,7 @@
     "id": "wolf-02-0278",
     "time": "00:17:00,102",
     "timeEnd": "00:17:03,313",
-    "character": "滝沢",
+    "character": "",
     "segments": [
       "もう",
       {
@@ -4609,7 +4609,7 @@
     "id": "wolf-02-0279",
     "time": "00:17:03,397",
     "timeEnd": "00:17:06,316",
-    "character": "滝沢",
+    "character": "",
     "segments": [
       {
         "kanji": "切",
@@ -4645,7 +4645,7 @@
     "id": "wolf-02-0281",
     "time": "00:17:07,526",
     "timeEnd": "00:17:11,530",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "なんか どんな",
       {
@@ -4666,7 +4666,7 @@
     "id": "wolf-02-0282",
     "time": "00:17:11,613",
     "timeEnd": "00:17:13,282",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "“",
       {
@@ -4682,7 +4682,7 @@
     "id": "wolf-02-0283",
     "time": "00:17:13,365",
     "timeEnd": "00:17:14,908",
-    "character": "横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "冗談",
@@ -4702,7 +4702,7 @@
     "id": "wolf-02-0284",
     "time": "00:17:14,992",
     "timeEnd": "00:17:16,994",
-    "character": "横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "本気",
@@ -4742,7 +4742,7 @@
     "id": "wolf-02-0286",
     "time": "00:17:19,204",
     "timeEnd": "00:17:22,041",
-    "character": "横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "桜子",
@@ -4762,7 +4762,7 @@
     "id": "wolf-02-0287",
     "time": "00:17:22,124",
     "timeEnd": "00:17:24,251",
-    "character": "横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "本来",
@@ -4792,7 +4792,7 @@
     "id": "wolf-02-0288",
     "time": "00:17:24,334",
     "timeEnd": "00:17:26,336",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "オオカミを",
       {
@@ -4808,7 +4808,7 @@
     "id": "wolf-02-0289",
     "time": "00:17:26,420",
     "timeEnd": "00:17:27,963",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "このジレンマが すごすぎて"
     ],
@@ -4819,7 +4819,7 @@
     "id": "wolf-02-0290",
     "time": "00:17:28,046",
     "timeEnd": "00:17:30,549",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "でもロビンは もう",
       {
@@ -4840,7 +4840,7 @@
     "id": "wolf-02-0291",
     "time": "00:17:30,549",
     "timeEnd": "00:17:32,217",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "いやー そうなのよ でもロビンは もう",
       {
@@ -4861,7 +4861,7 @@
     "id": "wolf-02-0292",
     "time": "00:17:32,301",
     "timeEnd": "00:17:34,470",
-    "character": "横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "結局",
@@ -4881,7 +4881,7 @@
     "id": "wolf-02-0293",
     "time": "00:17:34,553",
     "timeEnd": "00:17:36,180",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "しゃべってみたい っていうのはあったけど"
     ],
@@ -4892,7 +4892,7 @@
     "id": "wolf-02-0294",
     "time": "00:17:36,263",
     "timeEnd": "00:17:37,890",
-    "character": "横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "今回",
@@ -4912,7 +4912,7 @@
     "id": "wolf-02-0295",
     "time": "00:17:37,973",
     "timeEnd": "00:17:39,933",
-    "character": "横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "持",
@@ -4927,7 +4927,7 @@
     "id": "wolf-02-0296",
     "time": "00:17:40,017",
     "timeEnd": "00:17:41,060",
-    "character": "横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "絶対",
@@ -4963,7 +4963,7 @@
     "id": "wolf-02-0298",
     "time": "00:17:43,687",
     "timeEnd": "00:17:47,649",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "でも トモキの あの",
       {
@@ -5010,7 +5010,7 @@
     "id": "wolf-02-0301",
     "time": "00:17:50,694",
     "timeEnd": "00:17:52,362",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "より",
       {
@@ -5031,7 +5031,7 @@
     "id": "wolf-02-0302",
     "time": "00:17:52,446",
     "timeEnd": "00:17:54,114",
-    "character": "横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "今日",
@@ -5051,7 +5051,7 @@
     "id": "wolf-02-0303",
     "time": "00:17:54,198",
     "timeEnd": "00:17:57,117",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "あれが",
       {
@@ -5082,7 +5082,7 @@
     "id": "wolf-02-0304",
     "time": "00:17:57,201",
     "timeEnd": "00:17:59,745",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "ちょっと",
       {
@@ -5107,7 +5107,7 @@
     "id": "wolf-02-0305",
     "time": "00:17:59,828",
     "timeEnd": "00:18:00,996",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "いや ２",
       {
@@ -5133,7 +5133,7 @@
     "id": "wolf-02-0306",
     "time": "00:18:01,080",
     "timeEnd": "00:18:03,916",
-    "character": "横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "俺",
@@ -5163,7 +5163,7 @@
     "id": "wolf-02-0307",
     "time": "00:18:03,999",
     "timeEnd": "00:18:05,751",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "もう",
       {
@@ -5183,7 +5183,7 @@
     "id": "wolf-02-0308",
     "time": "00:18:05,834",
     "timeEnd": "00:18:08,462",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "それに",
       {
@@ -5239,7 +5239,7 @@
     "id": "wolf-02-0310",
     "time": "00:18:10,964",
     "timeEnd": "00:18:14,134",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "ちょっと なんか ",
       {
@@ -5290,7 +5290,7 @@
     "id": "wolf-02-0312",
     "time": "00:18:18,097",
     "timeEnd": "00:18:21,058",
-    "character": "ギャビー",
+    "character": "",
     "segments": [
       "ってなると そういう",
       {
@@ -5306,7 +5306,7 @@
     "id": "wolf-02-0313",
     "time": "00:18:21,141",
     "timeEnd": "00:18:22,851",
-    "character": "ギャビー",
+    "character": "",
     "segments": [
       "えっ？ あらっ"
     ],
@@ -5328,7 +5328,7 @@
     "id": "wolf-02-0315",
     "time": "00:18:24,770",
     "timeEnd": "00:18:25,896",
-    "character": "Mikako / ギャビー",
+    "character": "",
     "segments": [
       "おはようございます"
     ],
@@ -5454,7 +5454,7 @@
     "id": "wolf-02-0322",
     "time": "00:18:42,746",
     "timeEnd": "00:18:44,206",
-    "character": "Mikako",
+    "character": "",
     "segments": [
       {
         "kanji": "何",
@@ -5485,7 +5485,7 @@
     "id": "wolf-02-0324",
     "time": "00:18:45,958",
     "timeEnd": "00:18:47,751",
-    "character": "Mikako / Who-ya",
+    "character": "",
     "segments": [
       {
         "kanji": "何",
@@ -5505,7 +5505,7 @@
     "id": "wolf-02-0325",
     "time": "00:18:47,835",
     "timeEnd": "00:18:48,710",
-    "character": "Mikako / Who-ya",
+    "character": "",
     "segments": [
       {
         "kanji": "今日",
@@ -5525,7 +5525,7 @@
     "id": "wolf-02-0326",
     "time": "00:18:48,794",
     "timeEnd": "00:18:49,920",
-    "character": "Mikako / Who-ya",
+    "character": "",
     "segments": [
       "いや そうなの！"
     ],
@@ -5536,7 +5536,7 @@
     "id": "wolf-02-0327",
     "time": "00:18:50,003",
     "timeEnd": "00:18:52,297",
-    "character": "Mikako / Who-ya",
+    "character": "",
     "segments": [
       {
         "kanji": "何",
@@ -5587,7 +5587,7 @@
     "id": "wolf-02-0330",
     "time": "00:19:00,013",
     "timeEnd": "00:19:03,141",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "えっと ",
       {
@@ -5684,7 +5684,7 @@
     "id": "wolf-02-0334",
     "time": "00:19:11,483",
     "timeEnd": "00:19:16,363",
-    "character": "Mikako / Who-ya",
+    "character": "",
     "segments": [
       "なんかさ ",
       {
@@ -5705,7 +5705,7 @@
     "id": "wolf-02-0335",
     "time": "00:19:16,446",
     "timeEnd": "00:19:17,531",
-    "character": "Mikako / Who-ya",
+    "character": "",
     "segments": [
       "え？ そうなの？"
     ],
@@ -5736,7 +5736,7 @@
     "id": "wolf-02-0337",
     "time": "00:19:20,075",
     "timeEnd": "00:19:21,159",
-    "character": "Who-ya / Mikako",
+    "character": "",
     "segments": [
       "いやいや いやいや…"
     ],
@@ -5747,7 +5747,7 @@
     "id": "wolf-02-0338",
     "time": "00:19:21,243",
     "timeEnd": "00:19:26,039",
-    "character": "Who-ya / Mikako",
+    "character": "",
     "segments": [
       "でも なんかね こう ",
       {
@@ -5763,7 +5763,7 @@
     "id": "wolf-02-0339",
     "time": "00:19:26,123",
     "timeEnd": "00:19:29,459",
-    "character": "Who-ya / Mikako",
+    "character": "",
     "segments": [
       "やっぱ その",
       {
@@ -5795,7 +5795,7 @@
     "id": "wolf-02-0341",
     "time": "00:19:30,460",
     "timeEnd": "00:19:34,631",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       "だから",
       {
@@ -5841,7 +5841,7 @@
     "id": "wolf-02-0343",
     "time": "00:19:36,592",
     "timeEnd": "00:19:39,428",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "なんか うん… いいと",
       {
@@ -5857,7 +5857,7 @@
     "id": "wolf-02-0344",
     "time": "00:19:40,846",
     "timeEnd": "00:19:42,014",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       {
         "kanji": "人",
@@ -5877,7 +5877,7 @@
     "id": "wolf-02-0345",
     "time": "00:19:43,181",
     "timeEnd": "00:19:44,600",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "そこ ニヤニヤしない！"
     ],
@@ -5888,7 +5888,7 @@
     "id": "wolf-02-0346",
     "time": "00:19:45,225",
     "timeEnd": "00:19:47,144",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "その２",
       {
@@ -5909,7 +5909,7 @@
     "id": "wolf-02-0347",
     "time": "00:19:47,227",
     "timeEnd": "00:19:48,729",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "バレてた"
     ],
@@ -5920,7 +5920,7 @@
     "id": "wolf-02-0348",
     "time": "00:19:55,319",
     "timeEnd": "00:19:57,237",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "じゅりちゃん どんな",
       {
@@ -5988,7 +5988,7 @@
     "id": "wolf-02-0352",
     "time": "00:20:04,453",
     "timeEnd": "00:20:05,412",
-    "character": "ギャビー",
+    "character": "",
     "segments": [
       "１",
       {
@@ -6288,7 +6288,7 @@
     "id": "wolf-02-0369",
     "time": "00:21:46,304",
     "timeEnd": "00:21:47,180",
-    "character": "マサキ",
+    "character": "",
     "segments": [
       {
         "kanji": "準備",
@@ -6324,7 +6324,7 @@
     "id": "wolf-02-0371",
     "time": "00:21:48,765",
     "timeEnd": "00:21:50,392",
-    "character": "一同",
+    "character": "",
     "segments": [
       "いきます！ １",
       {
@@ -6397,7 +6397,7 @@
     "id": "wolf-02-0376",
     "time": "00:22:02,654",
     "timeEnd": "00:22:04,614",
-    "character": "ほのか / ロビン",
+    "character": "",
     "segments": [
       "えー やっぱ めっちゃ むずいんやな"
     ],
@@ -6419,7 +6419,7 @@
     "id": "wolf-02-0378",
     "time": "00:22:07,159",
     "timeEnd": "00:22:09,494",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "オートで ",
       {
@@ -6435,7 +6435,7 @@
     "id": "wolf-02-0379",
     "time": "00:22:09,578",
     "timeEnd": "00:22:11,038",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "いきます！"
     ],
@@ -6516,7 +6516,7 @@
     "id": "wolf-02-0385",
     "time": "00:22:27,554",
     "timeEnd": "00:22:29,723",
-    "character": "ロビン / Mikako",
+    "character": "",
     "segments": [
       "せーの ドン！"
     ],
@@ -6631,7 +6631,7 @@
     "id": "wolf-02-0392",
     "time": "00:22:51,078",
     "timeEnd": "00:22:55,332",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "せっかくだったらさ ちょっと リーダーを",
       {
@@ -6647,7 +6647,7 @@
     "id": "wolf-02-0393",
     "time": "00:22:55,415",
     "timeEnd": "00:22:56,249",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "おっ"
     ],
@@ -6658,7 +6658,7 @@
     "id": "wolf-02-0394",
     "time": "00:22:57,167",
     "timeEnd": "00:22:59,961",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       {
         "kanji": "俺",
@@ -6714,7 +6714,7 @@
     "id": "wolf-02-0397",
     "time": "00:23:03,590",
     "timeEnd": "00:23:06,051",
-    "character": "ギャビー",
+    "character": "",
     "segments": [
       "みんなと",
       {
@@ -6745,7 +6745,7 @@
     "id": "wolf-02-0398",
     "time": "00:23:06,134",
     "timeEnd": "00:23:08,053",
-    "character": "ギャビー",
+    "character": "",
     "segments": [
       "そうしたいです ",
       {
@@ -6761,7 +6761,7 @@
     "id": "wolf-02-0399",
     "time": "00:23:08,136",
     "timeEnd": "00:23:10,347",
-    "character": "ギャビー",
+    "character": "",
     "segments": [
       "じゃあ ギャビーが リーダーということで ",
       {
@@ -6807,7 +6807,7 @@
     "id": "wolf-02-0403",
     "time": "00:23:15,310",
     "timeEnd": "00:23:17,979",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       {
         "kanji": "助手",
@@ -6849,7 +6849,7 @@
     "id": "wolf-02-0407",
     "time": "00:23:25,153",
     "timeEnd": "00:23:26,988",
-    "character": "ロビン / Mikako",
+    "character": "",
     "segments": [
       "えっ じゃあ やっていいですか？"
     ],
@@ -6882,7 +6882,7 @@
     "id": "wolf-02-0410",
     "time": "00:23:31,118",
     "timeEnd": "00:23:32,661",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "やっぱ トモキのこと すごい",
       {
@@ -6909,7 +6909,7 @@
     "id": "wolf-02-0412",
     "time": "00:23:32,661",
     "timeEnd": "00:23:33,870",
-    "character": "滝沢",
+    "character": "",
     "segments": [
       "やっぱ トモキのこと すごい",
       {
@@ -6936,7 +6936,7 @@
     "id": "wolf-02-0414",
     "time": "00:23:35,622",
     "timeEnd": "00:23:38,458",
-    "character": "横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "初回",
@@ -7010,7 +7010,7 @@
     "id": "wolf-02-0417",
     "time": "00:23:44,589",
     "timeEnd": "00:23:50,345",
-    "character": "ギャビー",
+    "character": "",
     "segments": [
       "まず カメラを",
       {
@@ -7079,7 +7079,7 @@
     "id": "wolf-02-0421",
     "time": "00:23:58,311",
     "timeEnd": "00:24:00,730",
-    "character": "マサキ / ロビン",
+    "character": "",
     "segments": [
       "どっちもやりたい？ どっちもやりたい？"
     ],
@@ -7165,7 +7165,7 @@
     "id": "wolf-02-0426",
     "time": "00:24:07,571",
     "timeEnd": "00:24:10,532",
-    "character": "Mikako",
+    "character": "",
     "segments": [
       "ここから",
       {
@@ -7181,7 +7181,7 @@
     "id": "wolf-02-0427",
     "time": "00:24:10,615",
     "timeEnd": "00:24:12,784",
-    "character": "Mikako",
+    "character": "",
     "segments": [
       "ラインが",
       {
@@ -7202,7 +7202,7 @@
     "id": "wolf-02-0428",
     "time": "00:24:12,868",
     "timeEnd": "00:24:14,411",
-    "character": "Mikako",
+    "character": "",
     "segments": [
       "おっ きた"
     ],
@@ -7349,7 +7349,7 @@
     "id": "wolf-02-0436",
     "time": "00:24:34,139",
     "timeEnd": "00:24:36,057",
-    "character": "ロビン / 桜子",
+    "character": "",
     "segments": [
       "ほら また",
       {
@@ -7370,7 +7370,7 @@
     "id": "wolf-02-0437",
     "time": "00:24:36,141",
     "timeEnd": "00:24:37,767",
-    "character": "ロビン / 桜子",
+    "character": "",
     "segments": [
       {
         "kanji": "近",
@@ -7410,7 +7410,7 @@
     "id": "wolf-02-0439",
     "time": "00:24:42,481",
     "timeEnd": "00:24:44,733",
-    "character": "屋敷",
+    "character": "",
     "segments": [
       "すごい なんかさ ",
       {
@@ -7547,7 +7547,7 @@
     "id": "wolf-02-0449",
     "time": "00:25:08,924",
     "timeEnd": "00:25:11,843",
-    "character": "トモキ",
+    "character": "",
     "segments": [
       "えっ ほのかちゃん ",
       {
@@ -7621,7 +7621,7 @@
     "id": "wolf-02-0454",
     "time": "00:25:21,811",
     "timeEnd": "00:25:26,191",
-    "character": "トモキ",
+    "character": "",
     "segments": [
       "なんか",
       {
@@ -7642,7 +7642,7 @@
     "id": "wolf-02-0455",
     "time": "00:25:26,274",
     "timeEnd": "00:25:29,277",
-    "character": "トモキ",
+    "character": "",
     "segments": [
       "その",
       {
@@ -7699,7 +7699,7 @@
     "id": "wolf-02-0457",
     "time": "00:25:31,863",
     "timeEnd": "00:25:34,741",
-    "character": "トモキ / ほのか",
+    "character": "",
     "segments": [
       "だから ",
       {
@@ -7725,7 +7725,7 @@
     "id": "wolf-02-0458",
     "time": "00:25:34,824",
     "timeEnd": "00:25:37,369",
-    "character": "トモキ / ほのか",
+    "character": "",
     "segments": [
       "おー うれしい それは"
     ],
@@ -7736,7 +7736,7 @@
     "id": "wolf-02-0459",
     "time": "00:25:37,452",
     "timeEnd": "00:25:38,578",
-    "character": "トモキ / ほのか",
+    "character": "",
     "segments": [
       "ありがとう"
     ],
@@ -7747,7 +7747,7 @@
     "id": "wolf-02-0460",
     "time": "00:25:43,083",
     "timeEnd": "00:25:46,419",
-    "character": "トモキ / ほのか",
+    "character": "",
     "segments": [
       {
         "kanji": "別",
@@ -7776,7 +7776,7 @@
     "id": "wolf-02-0461",
     "time": "00:25:49,547",
     "timeEnd": "00:25:51,258",
-    "character": "トモキ / ほのか",
+    "character": "",
     "segments": [
       "みんな",
       {
@@ -7792,7 +7792,7 @@
     "id": "wolf-02-0462",
     "time": "00:25:55,095",
     "timeEnd": "00:25:55,929",
-    "character": "トモキ / ほのか",
+    "character": "",
     "segments": [
       {
         "kanji": "飲",
@@ -7807,7 +7807,7 @@
     "id": "wolf-02-0463",
     "time": "00:25:59,015",
     "timeEnd": "00:26:00,684",
-    "character": "トモキ / ほのか",
+    "character": "",
     "segments": [
       "やけどした"
     ],
@@ -7818,7 +7818,7 @@
     "id": "wolf-02-0464",
     "time": "00:26:01,726",
     "timeEnd": "00:26:03,103",
-    "character": "トモキ / ほのか",
+    "character": "",
     "segments": [
       {
         "kanji": "無理",
@@ -7874,7 +7874,7 @@
     "id": "wolf-02-0468",
     "time": "00:26:09,234",
     "timeEnd": "00:26:11,236",
-    "character": "ほのか / トモキ",
+    "character": "",
     "segments": [
       "うん もう",
       {
@@ -7890,7 +7890,7 @@
     "id": "wolf-02-0469",
     "time": "00:26:13,113",
     "timeEnd": "00:26:14,155",
-    "character": "ほのか / トモキ",
+    "character": "",
     "segments": [
       "うん"
     ],
@@ -7901,7 +7901,7 @@
     "id": "wolf-02-0470",
     "time": "00:26:15,615",
     "timeEnd": "00:26:16,992",
-    "character": "ほのか / トモキ",
+    "character": "",
     "segments": [
       "そんな",
       {
@@ -7917,7 +7917,7 @@
     "id": "wolf-02-0471",
     "time": "00:26:22,038",
     "timeEnd": "00:26:22,998",
-    "character": "ほのか / トモキ",
+    "character": "",
     "segments": [
       {
         "kanji": "怪",
@@ -7947,7 +7947,7 @@
     "id": "wolf-02-0473",
     "time": "00:26:26,167",
     "timeEnd": "00:26:27,669",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "いや…"
     ],
@@ -7958,7 +7958,7 @@
     "id": "wolf-02-0474",
     "time": "00:26:27,752",
     "timeEnd": "00:26:30,046",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "いや そんな ",
       {
@@ -7979,7 +7979,7 @@
     "id": "wolf-02-0475",
     "time": "00:26:30,130",
     "timeEnd": "00:26:31,631",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "いや そうなんだよね"
     ],
@@ -7990,7 +7990,7 @@
     "id": "wolf-02-0476",
     "time": "00:26:31,715",
     "timeEnd": "00:26:34,175",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "なんか まだ",
       {
@@ -8016,7 +8016,7 @@
     "id": "wolf-02-0477",
     "time": "00:26:34,259",
     "timeEnd": "00:26:35,385",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "なんか",
       {
@@ -8032,7 +8032,7 @@
     "id": "wolf-02-0478",
     "time": "00:26:35,468",
     "timeEnd": "00:26:39,472",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "この",
       {
@@ -8063,7 +8063,7 @@
     "id": "wolf-02-0479",
     "time": "00:26:39,556",
     "timeEnd": "00:26:40,890",
-    "character": "横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "強",
@@ -8104,7 +8104,7 @@
     "id": "wolf-02-0481",
     "time": "00:26:43,268",
     "timeEnd": "00:26:45,895",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       "だけど なんか ",
       {
@@ -8120,7 +8120,7 @@
     "id": "wolf-02-0482",
     "time": "00:26:45,979",
     "timeEnd": "00:26:51,109",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       {
         "kanji": "俺",
@@ -8155,7 +8155,7 @@
     "id": "wolf-02-0483",
     "time": "00:26:51,192",
     "timeEnd": "00:26:57,198",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       {
         "kanji": "実際",
@@ -8185,7 +8185,7 @@
     "id": "wolf-02-0484",
     "time": "00:26:57,282",
     "timeEnd": "00:26:59,200",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       {
         "kanji": "全然",
@@ -8200,7 +8200,7 @@
     "id": "wolf-02-0485",
     "time": "00:27:00,577",
     "timeEnd": "00:27:01,661",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       "なんか そこが"
     ],
@@ -8211,7 +8211,7 @@
     "id": "wolf-02-0486",
     "time": "00:27:01,745",
     "timeEnd": "00:27:04,956",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       "なんか おんなじものを ",
       {
@@ -8227,7 +8227,7 @@
     "id": "wolf-02-0487",
     "time": "00:27:06,541",
     "timeEnd": "00:27:08,960",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       {
         "kanji": "私",
@@ -8256,7 +8256,7 @@
     "id": "wolf-02-0488",
     "time": "00:27:09,044",
     "timeEnd": "00:27:11,796",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       "ステージ… ステージに",
       {
@@ -8282,7 +8282,7 @@
     "id": "wolf-02-0489",
     "time": "00:27:11,880",
     "timeEnd": "00:27:13,506",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       "そうなんだけど"
     ],
@@ -8293,7 +8293,7 @@
     "id": "wolf-02-0490",
     "time": "00:27:13,590",
     "timeEnd": "00:27:17,927",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       "そうじゃないところを ",
       {
@@ -8319,7 +8319,7 @@
     "id": "wolf-02-0491",
     "time": "00:27:18,011",
     "timeEnd": "00:27:20,597",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       "だから",
       {
@@ -8345,7 +8345,7 @@
     "id": "wolf-02-0492",
     "time": "00:27:20,680",
     "timeEnd": "00:27:21,639",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       "けど こういうことを ",
       {
@@ -8371,7 +8371,7 @@
     "id": "wolf-02-0493",
     "time": "00:27:20,680",
     "timeEnd": "00:27:21,639",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       {
         "kanji": "出",
@@ -8386,7 +8386,7 @@
     "id": "wolf-02-0494",
     "time": "00:27:21,639",
     "timeEnd": "00:27:25,018",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       "けど こういうことを ",
       {
@@ -8427,7 +8427,7 @@
     "id": "wolf-02-0496",
     "time": "00:27:26,227",
     "timeEnd": "00:27:28,605",
-    "character": "Who-ya / Mikako",
+    "character": "",
     "segments": [
       {
         "kanji": "本当",
@@ -8442,7 +8442,7 @@
     "id": "wolf-02-0497",
     "time": "00:27:30,440",
     "timeEnd": "00:27:34,611",
-    "character": "Who-ya / Mikako",
+    "character": "",
     "segments": [
       "じゃあ ",
       {
@@ -8468,7 +8468,7 @@
     "id": "wolf-02-0498",
     "time": "00:27:37,155",
     "timeEnd": "00:27:42,410",
-    "character": "Who-ya / Mikako",
+    "character": "",
     "segments": [
       "いい",
       {
@@ -8509,7 +8509,7 @@
     "id": "wolf-02-0499",
     "time": "00:27:42,494",
     "timeEnd": "00:27:43,995",
-    "character": "Who-ya / Mikako",
+    "character": "",
     "segments": [
       "うん"
     ],
@@ -8541,7 +8541,7 @@
     "id": "wolf-02-0501",
     "time": "00:27:49,167",
     "timeEnd": "00:27:50,293",
-    "character": "Mikako",
+    "character": "",
     "segments": [
       "うん…"
     ],
@@ -8568,7 +8568,7 @@
     "id": "wolf-02-0503",
     "time": "00:27:53,046",
     "timeEnd": "00:27:54,255",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "なんか",
       {
@@ -8605,7 +8605,7 @@
     "id": "wolf-02-0505",
     "time": "00:27:54,255",
     "timeEnd": "00:27:55,382",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "なんか",
       {
@@ -8626,7 +8626,7 @@
     "id": "wolf-02-0506",
     "time": "00:27:55,465",
     "timeEnd": "00:27:56,800",
-    "character": "横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "聞",
@@ -8652,7 +8652,7 @@
     "id": "wolf-02-0508",
     "time": "00:27:58,009",
     "timeEnd": "00:28:01,012",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "“",
       {
@@ -8683,7 +8683,7 @@
     "id": "wolf-02-0509",
     "time": "00:28:01,096",
     "timeEnd": "00:28:02,514",
-    "character": "横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "捉",
@@ -8797,7 +8797,7 @@
     "id": "wolf-02-0517",
     "time": "00:28:32,669",
     "timeEnd": "00:28:36,673",
-    "character": "トモキ",
+    "character": "",
     "segments": [
       "なんか どう？ こういうタイプと",
       {
@@ -8813,7 +8813,7 @@
     "id": "wolf-02-0518",
     "time": "00:28:38,174",
     "timeEnd": "00:28:39,884",
-    "character": "トモキ",
+    "character": "",
     "segments": [
       "こう… うーん"
     ],
@@ -8824,7 +8824,7 @@
     "id": "wolf-02-0519",
     "time": "00:28:43,555",
     "timeEnd": "00:28:48,435",
-    "character": "トモキ",
+    "character": "",
     "segments": [
       {
         "kanji": "俺",
@@ -8874,7 +8874,7 @@
     "id": "wolf-02-0521",
     "time": "00:28:50,270",
     "timeEnd": "00:28:55,483",
-    "character": "ギャビー / トモキ",
+    "character": "",
     "segments": [
       "けどさ そうやって ",
       {
@@ -8895,7 +8895,7 @@
     "id": "wolf-02-0522",
     "time": "00:28:56,025",
     "timeEnd": "00:28:58,319",
-    "character": "ギャビー / トモキ",
+    "character": "",
     "segments": [
       "やっぱり うれしいし"
     ],
@@ -8906,7 +8906,7 @@
     "id": "wolf-02-0523",
     "time": "00:28:59,904",
     "timeEnd": "00:29:03,658",
-    "character": "ギャビー / トモキ",
+    "character": "",
     "segments": [
       "ごめんね ",
       {
@@ -8932,7 +8932,7 @@
     "id": "wolf-02-0524",
     "time": "00:29:03,742",
     "timeEnd": "00:29:08,580",
-    "character": "ギャビー / トモキ",
+    "character": "",
     "segments": [
       {
         "kanji": "最初",
@@ -8962,7 +8962,7 @@
     "id": "wolf-02-0525",
     "time": "00:29:08,663",
     "timeEnd": "00:29:11,082",
-    "character": "ギャビー / トモキ",
+    "character": "",
     "segments": [
       {
         "kanji": "本当",
@@ -9002,7 +9002,7 @@
     "id": "wolf-02-0527",
     "time": "00:29:14,669",
     "timeEnd": "00:29:18,339",
-    "character": "ギャビー",
+    "character": "",
     "segments": [
       "なんか そうやって",
       {
@@ -9028,7 +9028,7 @@
     "id": "wolf-02-0528",
     "time": "00:29:18,423",
     "timeEnd": "00:29:21,760",
-    "character": "ギャビー",
+    "character": "",
     "segments": [
       "それは いっぱい",
       {
@@ -9049,7 +9049,7 @@
     "id": "wolf-02-0529",
     "time": "00:29:27,557",
     "timeEnd": "00:29:30,185",
-    "character": "ギャビー",
+    "character": "",
     "segments": [
       "もうさ トモキからしたら ",
       {
@@ -9182,7 +9182,7 @@
     "id": "wolf-02-0535",
     "time": "00:29:56,961",
     "timeEnd": "00:29:58,254",
-    "character": "Ｍｉｋａｋｏ",
+    "character": "",
     "segments": [
       {
         "kanji": "話",
@@ -9197,7 +9197,7 @@
     "id": "wolf-02-0536",
     "time": "00:29:59,589",
     "timeEnd": "00:30:01,049",
-    "character": "Ｍｉｋａｋｏ",
+    "character": "",
     "segments": [
       {
         "kanji": "何",
@@ -9217,7 +9217,7 @@
     "id": "wolf-02-0537",
     "time": "00:30:01,633",
     "timeEnd": "00:30:04,135",
-    "character": "Ｍｉｋａｋｏ",
+    "character": "",
     "segments": [
       {
         "kanji": "普通",
@@ -9236,7 +9236,7 @@
     "id": "wolf-02-0538",
     "time": "00:30:04,219",
     "timeEnd": "00:30:05,345",
-    "character": "Ｍｉｋａｋｏ",
+    "character": "",
     "segments": [
       "いろいろ",
       {
@@ -9318,7 +9318,7 @@
     "id": "wolf-02-0542",
     "time": "00:30:24,072",
     "timeEnd": "00:30:27,575",
-    "character": "Mikako / Who-ya",
+    "character": "",
     "segments": [
       "マサキはさ ",
       {
@@ -9334,7 +9334,7 @@
     "id": "wolf-02-0543",
     "time": "00:30:27,659",
     "timeEnd": "00:30:30,328",
-    "character": "Mikako / Who-ya",
+    "character": "",
     "segments": [
       "３",
       {
@@ -9355,7 +9355,7 @@
     "id": "wolf-02-0544",
     "time": "00:30:30,411",
     "timeEnd": "00:30:31,663",
-    "character": "Mikako / Who-ya",
+    "character": "",
     "segments": [
       {
         "kanji": "無駄",
@@ -9401,7 +9401,7 @@
     "id": "wolf-02-0546",
     "time": "00:30:34,165",
     "timeEnd": "00:30:35,124",
-    "character": "横澤",
+    "character": "",
     "segments": [
       {
         "kanji": "崩",
@@ -9442,7 +9442,7 @@
     "id": "wolf-02-0548",
     "time": "00:30:37,502",
     "timeEnd": "00:30:39,379",
-    "character": "矢吹",
+    "character": "",
     "segments": [
       "だから３",
       {
@@ -9479,7 +9479,7 @@
     "id": "wolf-02-0550",
     "time": "00:30:41,506",
     "timeEnd": "00:30:43,716",
-    "character": "屋敷",
+    "character": "",
     "segments": [
       {
         "kanji": "男",
@@ -9509,7 +9509,7 @@
     "id": "wolf-02-0551",
     "time": "00:30:43,800",
     "timeEnd": "00:30:45,843",
-    "character": "屋敷",
+    "character": "",
     "segments": [
       {
         "kanji": "一緒",
@@ -9524,7 +9524,7 @@
     "id": "wolf-02-0552",
     "time": "00:30:45,927",
     "timeEnd": "00:30:47,679",
-    "character": "屋敷",
+    "character": "",
     "segments": [
       {
         "kanji": "多分",
@@ -9544,7 +9544,7 @@
     "id": "wolf-02-0553",
     "time": "00:30:47,762",
     "timeEnd": "00:30:49,389",
-    "character": "屋敷",
+    "character": "",
     "segments": [
       "“なんの",
       {
@@ -9560,7 +9560,7 @@
     "id": "wolf-02-0554",
     "time": "00:30:49,472",
     "timeEnd": "00:30:51,474",
-    "character": "屋敷",
+    "character": "",
     "segments": [
       "“なんの",
       {
@@ -9592,7 +9592,7 @@
     "id": "wolf-02-0556",
     "time": "00:30:52,475",
     "timeEnd": "00:30:56,229",
-    "character": "滝沢",
+    "character": "",
     "segments": [
       "それさ ",
       {
@@ -9686,7 +9686,7 @@
     "id": "wolf-02-0560",
     "time": "00:31:03,027",
     "timeEnd": "00:31:04,821",
-    "character": "屋敷",
+    "character": "",
     "segments": [
       "そうですね"
     ],
@@ -9697,7 +9697,7 @@
     "id": "wolf-02-0561",
     "time": "00:31:04,904",
     "timeEnd": "00:31:07,615",
-    "character": "屋敷",
+    "character": "",
     "segments": [
       "それにしてもさ ",
       {
@@ -9727,7 +9727,7 @@
     "id": "wolf-02-0562",
     "time": "00:31:07,699",
     "timeEnd": "00:31:09,450",
-    "character": "屋敷",
+    "character": "",
     "segments": [
       "いやいやいや どうしたの って",
       {
@@ -9743,7 +9743,7 @@
     "id": "wolf-02-0563",
     "time": "00:31:09,534",
     "timeEnd": "00:31:10,368",
-    "character": "屋敷",
+    "character": "",
     "segments": [
       "うん"
     ],
@@ -9770,7 +9770,7 @@
     "id": "wolf-02-0565",
     "time": "00:31:13,079",
     "timeEnd": "00:31:16,583",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "なんか トモキに",
       {
@@ -9811,7 +9811,7 @@
     "id": "wolf-02-0567",
     "time": "00:31:18,585",
     "timeEnd": "00:31:20,795",
-    "character": "屋敷",
+    "character": "",
     "segments": [
       "ずっと",
       {
@@ -9832,7 +9832,7 @@
     "id": "wolf-02-0568",
     "time": "00:31:20,879",
     "timeEnd": "00:31:23,715",
-    "character": "屋敷",
+    "character": "",
     "segments": [
       {
         "kanji": "一切",
@@ -9857,7 +9857,7 @@
     "id": "wolf-02-0569",
     "time": "00:31:23,798",
     "timeEnd": "00:31:24,674",
-    "character": "屋敷",
+    "character": "",
     "segments": [
       "オオカミやったら ちょっと"
     ],
@@ -9868,7 +9868,7 @@
     "id": "wolf-02-0570",
     "time": "00:31:24,757",
     "timeEnd": "00:31:26,259",
-    "character": "屋敷",
+    "character": "",
     "segments": [
       {
         "kanji": "獲物",
@@ -9888,7 +9888,7 @@
     "id": "wolf-02-0571",
     "time": "00:31:26,342",
     "timeEnd": "00:31:28,303",
-    "character": "屋敷",
+    "character": "",
     "segments": [
       {
         "kanji": "気",
@@ -9908,7 +9908,7 @@
     "id": "wolf-02-0572",
     "time": "00:31:28,386",
     "timeEnd": "00:31:29,387",
-    "character": "屋敷",
+    "character": "",
     "segments": [
       "こうなっとったから"
     ],
@@ -9919,7 +9919,7 @@
     "id": "wolf-02-0573",
     "time": "00:31:29,470",
     "timeEnd": "00:31:31,598",
-    "character": "屋敷",
+    "character": "",
     "segments": [
       "ホンマにロビンのこと ",
       {
@@ -9955,7 +9955,7 @@
     "id": "wolf-02-0575",
     "time": "00:31:33,099",
     "timeEnd": "00:31:35,184",
-    "character": "横澤 / 屋敷",
+    "character": "",
     "segments": [
       "だから ほのかちゃんが やっぱ だいぶ",
       {
@@ -9971,7 +9971,7 @@
     "id": "wolf-02-0576",
     "time": "00:31:35,935",
     "timeEnd": "00:31:38,938",
-    "character": "横澤 / 屋敷",
+    "character": "",
     "segments": [
       "いきなり",
       {
@@ -10001,7 +10001,7 @@
     "id": "wolf-02-0577",
     "time": "00:31:39,022",
     "timeEnd": "00:31:41,065",
-    "character": "横澤 / 屋敷",
+    "character": "",
     "segments": [
       "あと すごい こう ずっと",
       {
@@ -10027,7 +10027,7 @@
     "id": "wolf-02-0578",
     "time": "00:31:41,149",
     "timeEnd": "00:31:43,109",
-    "character": "横澤 / 屋敷",
+    "character": "",
     "segments": [
       {
         "kanji": "落",
@@ -10047,7 +10047,7 @@
     "id": "wolf-02-0579",
     "time": "00:31:43,192",
     "timeEnd": "00:31:44,736",
-    "character": "横澤 / 屋敷",
+    "character": "",
     "segments": [
       "そうなんですよね"
     ],
@@ -10187,7 +10187,7 @@
     "id": "wolf-02-0586",
     "time": "00:32:03,504",
     "timeEnd": "00:32:06,507",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       {
         "kanji": "俺",
@@ -10233,7 +10233,7 @@
     "id": "wolf-02-0588",
     "time": "00:32:09,761",
     "timeEnd": "00:32:11,846",
-    "character": "トモキ",
+    "character": "",
     "segments": [
       "えっ？ でも なんか ",
       {
@@ -10254,7 +10254,7 @@
     "id": "wolf-02-0589",
     "time": "00:32:11,846",
     "timeEnd": "00:32:13,097",
-    "character": "トモキ",
+    "character": "",
     "segments": [
       "えっ？ でも なんか ",
       {
@@ -10419,7 +10419,7 @@
     "id": "wolf-02-0596",
     "time": "00:32:27,153",
     "timeEnd": "00:32:31,157",
-    "character": "トモキ",
+    "character": "",
     "segments": [
       {
         "kanji": "太陽",
@@ -10444,7 +10444,7 @@
     "id": "wolf-02-0597",
     "time": "00:32:31,866",
     "timeEnd": "00:32:32,950",
-    "character": "トモキ",
+    "character": "",
     "segments": [
       {
         "kanji": "来",
@@ -10459,7 +10459,7 @@
     "id": "wolf-02-0598",
     "time": "00:32:33,034",
     "timeEnd": "00:32:34,410",
-    "character": "トモキ",
+    "character": "",
     "segments": [
       "Who-yaか"
     ],
@@ -10470,7 +10470,7 @@
     "id": "wolf-02-0599",
     "time": "00:32:54,097",
     "timeEnd": "00:32:55,473",
-    "character": "トモキ",
+    "character": "",
     "segments": [
       "そうだよな…"
     ],
@@ -10481,7 +10481,7 @@
     "id": "wolf-02-0600",
     "time": "00:32:55,556",
     "timeEnd": "00:32:58,351",
-    "character": "トモキ",
+    "character": "",
     "segments": [
       "あわよくば ",
       {
@@ -10532,7 +10532,7 @@
     "id": "wolf-02-0602",
     "time": "00:33:07,485",
     "timeEnd": "00:33:09,946",
-    "character": "ギャビー",
+    "character": "",
     "segments": [
       {
         "kanji": "私",
@@ -10556,7 +10556,7 @@
     "id": "wolf-02-0603",
     "time": "00:33:11,072",
     "timeEnd": "00:33:11,906",
-    "character": "ギャビー",
+    "character": "",
     "segments": [
       "いい！"
     ],
@@ -10583,7 +10583,7 @@
     "id": "wolf-02-0606",
     "time": "00:33:35,555",
     "timeEnd": "00:33:39,225",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "へー！ もっとMikakoにってなるんだ…"
     ],
@@ -10594,7 +10594,7 @@
     "id": "wolf-02-0607",
     "time": "00:33:42,770",
     "timeEnd": "00:33:44,856",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "ちょっと すごいね みんな"
     ],
@@ -10605,7 +10605,7 @@
     "id": "wolf-02-0608",
     "time": "00:33:53,114",
     "timeEnd": "00:33:56,159",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       {
         "kanji": "自分",
@@ -10624,7 +10624,7 @@
     "id": "wolf-02-0609",
     "time": "00:33:57,785",
     "timeEnd": "00:33:59,412",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "いると",
       {
@@ -10640,7 +10640,7 @@
     "id": "wolf-02-0610",
     "time": "00:34:00,663",
     "timeEnd": "00:34:01,998",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "いると",
       {
@@ -10656,7 +10656,7 @@
     "id": "wolf-02-0611",
     "time": "00:34:02,832",
     "timeEnd": "00:34:04,208",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       {
         "kanji": "確定",
@@ -10670,7 +10670,7 @@
     "id": "wolf-02-0612",
     "time": "00:34:04,292",
     "timeEnd": "00:34:06,377",
-    "character": "ロビン",
+    "character": "",
     "segments": [
       "えっ？ サスペンスなんやけど"
     ],
@@ -10696,7 +10696,7 @@
     "id": "wolf-02-0614",
     "time": "00:34:07,378",
     "timeEnd": "00:34:09,589",
-    "character": "滝沢",
+    "character": "",
     "segments": [
       "ほのかちゃんの",
       {
@@ -10712,7 +10712,7 @@
     "id": "wolf-02-0615",
     "time": "00:34:10,339",
     "timeEnd": "00:34:15,136",
-    "character": "滝沢",
+    "character": "",
     "segments": [
       "Mikakoがオオカミだったら…"
     ],
@@ -10723,7 +10723,7 @@
     "id": "wolf-02-0616",
     "time": "00:34:15,219",
     "timeEnd": "00:34:18,723",
-    "character": "滝沢",
+    "character": "",
     "segments": [
       {
         "kanji": "私",
@@ -10752,7 +10752,7 @@
     "id": "wolf-02-0617",
     "time": "00:34:20,141",
     "timeEnd": "00:34:22,477",
-    "character": "滝沢",
+    "character": "",
     "segments": [
       "おかしいなと",
       {
@@ -10768,7 +10768,7 @@
     "id": "wolf-02-0618",
     "time": "00:34:28,649",
     "timeEnd": "00:34:32,653",
-    "character": "滝沢",
+    "character": "",
     "segments": [
       "なんか オオカミっぽい",
       {
@@ -10809,7 +10809,7 @@
     "id": "wolf-02-0620",
     "time": "00:34:35,281",
     "timeEnd": "00:34:36,783",
-    "character": "屋敷",
+    "character": "",
     "segments": [
       {
         "kanji": "行動",
@@ -10845,7 +10845,7 @@
     "id": "wolf-02-0622",
     "time": "00:34:43,289",
     "timeEnd": "00:34:47,043",
-    "character": "桜子",
+    "character": "",
     "segments": [
       "で これが",
       {
@@ -10861,7 +10861,7 @@
     "id": "wolf-02-0623",
     "time": "00:34:47,668",
     "timeEnd": "00:34:49,837",
-    "character": "桜子",
+    "character": "",
     "segments": [
       "すごすぎるよね なんか…"
     ],
@@ -10883,7 +10883,7 @@
     "id": "wolf-02-0625",
     "time": "00:34:56,302",
     "timeEnd": "00:34:58,304",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "えっ ",
       {
@@ -10899,7 +10899,7 @@
     "id": "wolf-02-0626",
     "time": "00:34:58,387",
     "timeEnd": "00:34:59,388",
-    "character": "じゅり",
+    "character": "",
     "segments": [
       "うん"
     ],
@@ -10921,7 +10921,7 @@
     "id": "wolf-02-0628",
     "time": "00:35:01,974",
     "timeEnd": "00:35:02,934",
-    "character": "一同",
+    "character": "",
     "segments": [
       "そんなん",
       {
@@ -10969,7 +10969,7 @@
     "id": "wolf-02-0631",
     "time": "00:35:31,921",
     "timeEnd": "00:35:34,340",
-    "character": "マサキ",
+    "character": "",
     "segments": [
       {
         "kanji": "絶対",
@@ -11015,7 +11015,7 @@
     "id": "wolf-02-0633",
     "time": "00:35:39,512",
     "timeEnd": "00:35:44,016",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       {
         "kanji": "私",
@@ -11045,7 +11045,7 @@
     "id": "wolf-02-0634",
     "time": "00:35:46,269",
     "timeEnd": "00:35:47,937",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       {
         "kanji": "大",
@@ -11064,7 +11064,7 @@
     "id": "wolf-02-0635",
     "time": "00:35:51,065",
     "timeEnd": "00:35:52,066",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       {
         "kanji": "大",
@@ -11083,7 +11083,7 @@
     "id": "wolf-02-0636",
     "time": "00:35:57,029",
     "timeEnd": "00:36:02,451",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       "ロビンの",
       {
@@ -11109,7 +11109,7 @@
     "id": "wolf-02-0637",
     "time": "00:36:05,872",
     "timeEnd": "00:36:07,373",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       {
         "kanji": "桜子",
@@ -11129,7 +11129,7 @@
     "id": "wolf-02-0638",
     "time": "00:36:07,456",
     "timeEnd": "00:36:08,875",
-    "character": "Who-ya",
+    "character": "",
     "segments": [
       {
         "kanji": "分",
@@ -11144,7 +11144,7 @@
     "id": "wolf-02-0640",
     "time": "00:36:11,169",
     "timeEnd": "00:36:12,295",
-    "character": "一同の歓声",
+    "character": "",
     "segments": [
       {
         "kanji": "来",
@@ -11212,7 +11212,7 @@
     "id": "wolf-02-0644",
     "time": "00:36:24,932",
     "timeEnd": "00:36:27,435",
-    "character": "横澤",
+    "character": "",
     "segments": [
       "ほのかちゃんじゃないの？"
     ],
