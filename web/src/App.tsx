@@ -59,6 +59,22 @@ function readingLineKey(episodeId: string, lessonIndex: number) {
   return `wolf-last-line:${episodeId}:${lessonIndex}`;
 }
 
+type LineReport = { cueId: string; episode: string; page: number; time: string; character: string; description: string; reportedAt: string };
+const reportStorageKey = 'wolf-line-reports';
+
+function readReports(): LineReport[] {
+  try {
+    const saved = JSON.parse(localStorage.getItem(reportStorageKey) || '[]');
+    return Array.isArray(saved) ? saved : [];
+  } catch {
+    return [];
+  }
+}
+
+function writeReports(reports: LineReport[]) {
+  localStorage.setItem(reportStorageKey, JSON.stringify(reports));
+}
+
 const speakerPhotos: Record<string, string> = {
   '桜子': 'Sakurako-redraw-v2.png', 'ギャビー': 'Gyabii-redraw-v2.png', 'じゅり': 'Juri-redraw-v2.png', 'ほのか': 'Honoka-redraw-v2.png', 'Mikako': 'Mikako-redraw-v2.png', 'Ｍｉｋａｋｏ': 'Mikako-redraw-v2.png',
   'トモキ': 'Tomoki-redraw-v2.png', 'Who-ya': 'Who-ya-redraw-v2.png', 'マサキ': 'Masaki-redraw-v2.png', '大珠': 'Daiju-redraw-v2.png', 'ロビン': 'Robin-redraw-v2.png',
@@ -124,6 +140,7 @@ function App() {
     const script = document.querySelector('.script');
     if (!script) return;
     const handleClick = (event: Event) => {
+      if ((event.target as HTMLElement).closest('.line-report, .line-report-form')) return;
       const cue = (event.target as HTMLElement).closest('.cue');
       if (cue && script.contains(cue)) cue.classList.toggle('photo-visible');
     };
@@ -228,6 +245,103 @@ function App() {
       bottomActions.remove();
     };
   }, [episode.lessons, lessonIndex, loading, nextLesson, previousLesson]);
+
+  useEffect(() => {
+    if (loading) return;
+    const script = document.querySelector('.script');
+    if (!script) return;
+    const articles = [...script.querySelectorAll<HTMLElement>('.cue')];
+    const injected: HTMLElement[] = [];
+    const currentReports = readReports();
+
+    lesson.forEach((cue, index) => {
+      const article = articles[index];
+      if (!article) return;
+      const existing = currentReports.find(report => report.cueId === cue.id);
+      const reportButton = document.createElement('button');
+      reportButton.type = 'button';
+      reportButton.className = 'line-report';
+      reportButton.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3v18m0-17h12l-3 4 3 4H5" /></svg>';
+      reportButton.title = existing ? 'Reported line' : 'Report a problem with this line';
+      reportButton.setAttribute('aria-label', `Report problem on ${cue.time}`);
+
+      const reportForm = document.createElement('div');
+      reportForm.className = 'line-report-form';
+      reportForm.hidden = true;
+      const input = document.createElement('input');
+      input.type = 'text';
+      input.placeholder = 'What looks wrong?';
+      input.value = existing?.description || '';
+      const saveButton = document.createElement('button');
+      saveButton.type = 'button';
+      saveButton.textContent = 'Save';
+      reportForm.append(input, saveButton);
+
+      const ensureReport = () => {
+        const reports = readReports();
+        if (!reports.some(report => report.cueId === cue.id)) {
+          reports.push({ cueId: cue.id, episode: episode.id, page: lessonIndex + 1, time: cue.time, character: cue.character, description: '', reportedAt: new Date().toISOString() });
+          writeReports(reports);
+        }
+        reportButton.title = 'Reported line';
+        reportForm.hidden = false;
+        input.focus();
+      };
+      reportButton.addEventListener('click', event => {
+        event.stopPropagation();
+        ensureReport();
+        exportButton.textContent = `Export ${readReports().length} reports`;
+      });
+      saveButton.addEventListener('click', event => {
+        event.stopPropagation();
+        const reports = readReports();
+        const report = reports.find(item => item.cueId === cue.id);
+        if (report) report.description = input.value.trim();
+        writeReports(reports);
+        reportForm.hidden = true;
+      });
+      input.addEventListener('keydown', event => {
+        if (event.key === 'Enter') saveButton.click();
+      });
+      article.append(reportButton, reportForm);
+      injected.push(reportButton, reportForm);
+    });
+
+    const reportTools = document.createElement('div');
+    reportTools.className = 'report-tools';
+    const exportButton = document.createElement('button');
+    exportButton.type = 'button';
+    exportButton.className = 'report-tool';
+    exportButton.textContent = `Export ${currentReports.length} reports`;
+    exportButton.addEventListener('click', async () => {
+      const text = JSON.stringify(readReports(), null, 2);
+      try {
+        await navigator.clipboard.writeText(text);
+        exportButton.textContent = 'Reports copied';
+      } catch {
+        const fallback = document.createElement('textarea');
+        fallback.value = text;
+        document.body.append(fallback);
+        fallback.select();
+        document.execCommand('copy');
+        fallback.remove();
+        exportButton.textContent = 'Reports copied';
+      }
+    });
+    const clearButton = document.createElement('button');
+    clearButton.type = 'button';
+    clearButton.className = 'report-tool';
+    clearButton.textContent = 'Clear reports';
+    clearButton.addEventListener('click', () => {
+      localStorage.removeItem(reportStorageKey);
+      exportButton.textContent = 'Export 0 reports';
+      clearButton.textContent = 'Reports cleared';
+    });
+    reportTools.append(exportButton, clearButton);
+    document.querySelector('footer')?.prepend(reportTools);
+    injected.push(reportTools);
+    return () => injected.forEach(element => element.remove());
+  }, [episode.id, lesson, lessonIndex, loading]);
 
   let activeSpeaker = '';
   // The lesson renderer carries the last explicit speaker into continuation cues.

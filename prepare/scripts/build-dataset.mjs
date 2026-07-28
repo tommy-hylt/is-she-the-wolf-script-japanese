@@ -25,7 +25,6 @@ for (const episode of EPISODES) {
   const raw = await fs.readFile(path.join(SOURCE_DIR, episode.file), 'utf8');
   const cues = [];
   const noteCounts = new Map();
-  let currentSpeaker = '';
   for (const [index, block] of raw.split(/\r?\n\r?\n+/).entries()) {
     const lines = block.split(/\r?\n/).map(line => line.trim()).filter(Boolean);
     const time = lines[1] || '';
@@ -33,14 +32,12 @@ for (const episode of EPISODES) {
     if (!time || !/[ぁ-んァ-ン一-龯A-Za-z]/.test(rawText)) continue;
     const speakerMatches = [...rawText.matchAll(/（([^）]+)）/g)];
     const speaker = speakerMatches.map(match => match[1].replace(/\([^)]*\)/g, '')).join(' / ');
-    if (speaker) currentSpeaker = speaker;
-    const resolvedSpeaker = speaker || currentSpeaker;
     const spoken = rawText.replace(/（[^）]*）/g, '').trim();
     if (!spoken) continue;
     const id = `wolf-${episode.id}-${String(index + 1).padStart(4, '0')}`;
     const generatedSegments = await toSegments(spoken);
     const segments = manualOverrides[id] || generatedSegments;
-    cues.push({ id, time: time.split(' --> ')[0], timeEnd: time.split(' --> ')[1] || time.split(' --> ')[0], character: resolvedSpeaker, segments, english: englishOverrides[id] || '', notes: [] });
+    cues.push({ id, time: time.split(' --> ')[0], timeEnd: time.split(' --> ')[1] || time.split(' --> ')[0], character: speaker, segments, english: englishOverrides[id] || '', notes: [] });
   }
   await fs.writeFile(path.join(OUT_DIR, `episode-${episode.id}.json`), `${JSON.stringify(cues, null, 2)}\n`, 'utf8');
   await fs.writeFile(path.join(INTERMEDIATE_DIR, `episode-${episode.id}.json`), `${JSON.stringify(cues, null, 2)}\n`, 'utf8');
