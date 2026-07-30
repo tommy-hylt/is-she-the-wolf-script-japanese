@@ -9,6 +9,14 @@ const episodes: Episode[] = [
   { id: '01', label: 'EPISODE 01', title: '大人のウソは、ワクワクする', lessons: 7, intro: 'The cast meets the idea of a more grown-up kind of love and deception.' },
   { id: '02', label: 'EPISODE 02', title: '好きな人にウソをつく', lessons: 6, intro: 'A first glance, a first crush, and the difficult rules of the wolf.' },
   { id: '03', label: 'EPISODE 03', title: 'のんびり編', lessons: 6, intro: 'A relaxed morning turns into a gentle lesson in natural conversation.' },
+  { id: '05', label: 'EPISODE 05', title: '愛する人に嘘をついてもいいのか？', lessons: 7, intro: 'Feelings sharpen as the wolf game begins to affect real choices.' },
+  { id: '06', label: 'EPISODE 06', title: '散りゆく桜に願いを込めて', lessons: 6, intro: 'Small conversations begin to carry larger romantic consequences.' },
+  { id: '07', label: 'EPISODE 07', title: '手を取り合って交わした願い', lessons: 6, intro: 'The cast weighs trust, timing, and what remains unsaid.' },
+  { id: '08', label: 'EPISODE 08', title: 'もう二度と会えないなら', lessons: 6, intro: 'After the mid-season confession, every reaction feels more exposed.' },
+  { id: '09', label: 'EPISODE 09', title: 'あの笑顔を取り戻せない', lessons: 6, intro: 'Private conversations make the distance between honesty and strategy clearer.' },
+  { id: '10', label: 'EPISODE 10', title: 'あなたの嘘を教えてください', lessons: 6, intro: 'With less time left, the cast speaks more directly about what they want.' },
+  { id: '11', label: 'EPISODE 11', title: '最後の時、最後の嘘', lessons: 7, intro: 'The final stretch brings tenderness, doubt, and difficult choices together.' },
+  { id: '12', label: 'EPISODE 12', title: '愛を使い果たさないで', lessons: 6, intro: 'The last confessions reveal what the cast could and could not say.' },
 ];
 const curated: Record<string, Record<string, { en: string; notes: string[] }>> = {
   '01': {
@@ -103,6 +111,9 @@ function App() {
   const [loadedEpisode, setLoadedEpisode] = useState('');
   const [lessonIndex, setLessonIndex] = useState(route.lessonIndex);
   const lineRefs = useRef<Record<string, HTMLElement | null>>({});
+  const smoothNavigationRef = useRef(false);
+  const navigationTargetRef = useRef<'top' | 'intro' | 'lesson'>('top');
+  const navigationRequestRef = useRef(0);
   const episode = episodes.find(item => item.id === episodeId) || episodes[0];
   const loading = loadedEpisode !== episode.id;
   const lessonSize = Math.max(1, Math.ceil(cues.length / episode.lessons));
@@ -152,11 +163,21 @@ function App() {
     if (loading || lesson.length === 0) return;
 
     const savedCueId = localStorage.getItem(readingLineKey(episode.id, lessonIndex));
+    const navigationRequest = navigationRequestRef.current;
     const restoreFrame = window.requestAnimationFrame(() => {
-      if (savedCueId && lineRefs.current[savedCueId]) {
-        lineRefs.current[savedCueId]?.scrollIntoView({ block: 'start' });
-        window.scrollBy({ top: -24 });
+      if (navigationRequest !== navigationRequestRef.current) return;
+      const behavior = smoothNavigationRef.current ? 'smooth' : 'auto';
+      if (smoothNavigationRef.current && navigationTargetRef.current === 'intro') {
+        document.querySelector('.intro')?.scrollIntoView({ block: 'start', behavior });
+      } else if (smoothNavigationRef.current && navigationTargetRef.current === 'lesson') {
+        document.querySelector('.lesson-bar')?.scrollIntoView({ block: 'start', behavior });
+      } else if (savedCueId && lineRefs.current[savedCueId]) {
+        lineRefs.current[savedCueId]?.scrollIntoView({ block: 'start', behavior });
+        window.scrollBy({ top: -24, behavior });
+      } else if (smoothNavigationRef.current) {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
       }
+      smoothNavigationRef.current = false;
     });
     let trackingEnabled = !savedCueId;
     const trackingTimer = window.setTimeout(() => {
@@ -192,20 +213,34 @@ function App() {
 
   const nextLesson = useCallback(() => {
     const next = (lessonIndex + 1) % episode.lessons;
+    navigationRequestRef.current += 1;
+    smoothNavigationRef.current = true;
+    navigationTargetRef.current = 'lesson';
     setLessonIndex(next);
     localStorage.setItem(`wolf-position-${episode.id}`, String(next));
     writeRoute(episode.id, next);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
   }, [episode.id, episode.lessons, lessonIndex]);
   const previousLesson = useCallback(() => {
     const previous = (lessonIndex - 1 + episode.lessons) % episode.lessons;
+    navigationRequestRef.current += 1;
+    smoothNavigationRef.current = true;
+    navigationTargetRef.current = 'lesson';
     setLessonIndex(previous);
     localStorage.setItem(`wolf-position-${episode.id}`, String(previous));
     writeRoute(episode.id, previous);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
   }, [episode.id, episode.lessons, lessonIndex]);
   const selectEpisode = (id: string) => {
     const nextLesson = Number(localStorage.getItem(`wolf-position-${id}`) || 0);
+    navigationRequestRef.current += 1;
+    smoothNavigationRef.current = true;
+    navigationTargetRef.current = 'intro';
+    if (id === episode.id) {
+      window.requestAnimationFrame(() => {
+        document.querySelector('.intro')?.scrollIntoView({ block: 'start', behavior: 'smooth' });
+      });
+      smoothNavigationRef.current = false;
+      return;
+    }
     setEpisodeId(id);
     setLessonIndex(nextLesson);
     localStorage.setItem('wolf-episode', id);
@@ -346,6 +381,6 @@ function App() {
   let activeSpeaker = '';
   // The lesson renderer carries the last explicit speaker into continuation cues.
   // eslint-disable-next-line react-hooks/immutability
-  return <div className="app"><header className="hero"><div className="eyebrow">Mikako Japanese · line-by-line study</div><h1>Is She the Wolf?</h1><p>Scripts for listening closely, feeling the nuance, and speaking a little more naturally.</p><div className="episode-tabs">{episodes.map(item => <button className={item.id === episode.id ? 'active' : ''} onClick={() => selectEpisode(item.id)} key={item.id}>{item.label}<small>{item.title}</small></button>)}</div></header><main><section className="intro"><div><span className="eyebrow">{episode.label}</span><h2>{episode.title}</h2><p>{episode.intro}</p></div></section>{loading ? <div className="state">Loading script…</div> : <><div className="lesson-bar"><span>Lesson {lessonIndex + 1}/{episode.lessons} · lines {lessonStart + 1}–{lessonStart + lesson.length}</span><div className="lesson-actions"><button onClick={previousLesson}>← Previous lesson</button><button onClick={nextLesson}>Next lesson →</button></div></div><section className="script">{lesson.map(cue => { if (cue.character.trim()) activeSpeaker = cue.character; const photoFile = getSpeakerPhoto(activeSpeaker); return <article className="cue" key={cue.id}>{photoFile && <img className="speaker-photo" src={`./speakers/${photoFile}`} alt="" aria-hidden="true" style={{ objectFit: 'cover', objectPosition: 'right center' }} />}<div className="cue-meta"><span>{cue.time}</span>{cue.character && <strong>{cue.character}</strong>}</div><div className="jp" data-cue-id={cue.id} ref={(element) => { lineRefs.current[cue.id] = element; }}>{renderSegments(cue.segments)}</div><div className="en">{cue.en}</div>{cue.notes.length > 0 && <blockquote className="teaching"><ul>{cue.notes.map(note => <li key={note}>{note}</li>)}</ul></blockquote>}</article>; })}</section></>}</main><footer>Built for patient, practical Japanese study · Episodes 1–3</footer></div>;
+  return <div className="app"><header className="hero"><div className="eyebrow">Mikako Japanese · line-by-line study</div><h1>Is She the Wolf?</h1><p>Scripts for listening closely, feeling the nuance, and speaking a little more naturally.</p><div className="episode-tabs">{episodes.map(item => <button className={item.id === episode.id ? 'active' : ''} onClick={() => selectEpisode(item.id)} key={item.id}>{item.label}<small>{item.title}</small></button>)}</div></header><main><section className="intro"><div><span className="eyebrow">{episode.label}</span><h2>{episode.title}</h2><p>{episode.intro}</p></div></section>{loading ? <div className="state">Loading script…</div> : <><div className="lesson-bar"><span>Lesson {lessonIndex + 1}/{episode.lessons} · lines {lessonStart + 1}–{lessonStart + lesson.length}</span><div className="lesson-actions"><button onClick={previousLesson}>← Previous lesson</button><button onClick={nextLesson}>Next lesson →</button></div></div><section className="script">{lesson.map(cue => { if (cue.character.trim()) activeSpeaker = cue.character; const photoFile = getSpeakerPhoto(activeSpeaker); return <article className="cue" key={cue.id}>{photoFile && <img className="speaker-photo" src={`./speakers/${photoFile}`} alt="" aria-hidden="true" style={{ objectFit: 'cover', objectPosition: 'right center' }} />}<div className="cue-meta"><span>{cue.time}</span>{cue.character && <strong>{cue.character}</strong>}</div><div className="jp" data-cue-id={cue.id} ref={(element) => { lineRefs.current[cue.id] = element; }}>{renderSegments(cue.segments)}</div><div className="en">{cue.en}</div>{cue.notes.length > 0 && <blockquote className="teaching"><ul>{cue.notes.map(note => <li key={note}>{note}</li>)}</ul></blockquote>}</article>; })}</section></>}</main><footer>Built for patient, practical Japanese study · Episodes 1–3, 5–12</footer></div>;
 }
 export default App;

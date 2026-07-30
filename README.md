@@ -1,6 +1,6 @@
 # Is She the Wolf? — Japanese Script Study
 
-Episodes 1–3 of the local Japanese subtitle transcripts, presented as short seven-line lessons. Furigana is generated during preparation and rendered directly on the Japanese script line. The first lesson chunks include hand-written translations and nuance notes; later cues remain available as script rows with compact automatic prompts until they are reviewed.
+Episodes 1–3 and 5–12 of the local Japanese subtitle transcripts, presented as short lessons. Episode 4 is not included because its source subtitle file is unavailable. Furigana is generated during preparation and rendered directly on the Japanese script line.
 
 ```sh
 cd web
