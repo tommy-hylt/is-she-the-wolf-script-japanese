@@ -12,6 +12,7 @@ const INTERMEDIATE_DIR = path.join(ROOT, 'workspace', 'intermediate');
 const REPORT_DIR = path.join(ROOT, 'workspace', 'reports');
 const OVERRIDE_PATH = path.join(ROOT, 'manual-overrides', 'furigana.json');
 const ENGLISH_PATH = path.join(ROOT, 'manual-overrides', 'english.json');
+const OMITTED_CUE_IDS = new Set(['wolf-01-0469', 'wolf-01-0479']);
 const Kuroshiro = KuroshiroModule.default ?? KuroshiroModule;
 const KuromojiAnalyzer = KuromojiAnalyzerModule.default ?? KuromojiAnalyzerModule;
 const kuroshiro = new Kuroshiro();
@@ -35,6 +36,7 @@ for (const episode of EPISODES) {
     const spoken = rawText.replace(/（[^）]*）/g, '').trim();
     if (!spoken) continue;
     const id = `wolf-${episode.id}-${String(index + 1).padStart(4, '0')}`;
+    if (OMITTED_CUE_IDS.has(id)) continue;
     const generatedSegments = await toSegments(spoken);
     const segments = manualOverrides[id] || generatedSegments;
     cues.push({ id, time: time.split(' --> ')[0], timeEnd: time.split(' --> ')[1] || time.split(' --> ')[0], character: speaker, segments, english: englishOverrides[id] || '', notes: [] });

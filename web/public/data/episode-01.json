@@ -3077,21 +3077,12 @@
         "kanji": "清純",
         "reading": "せいじゅん"
       },
+      "派の",
       {
-        "kanji": "派",
-        "reading": "は"
+        "kanji": "２人",
+        "reading": "ふたり"
       },
-      "の２",
-      {
-        "kanji": "人",
-        "reading": "にん"
-      },
-      "って",
-      {
-        "kanji": "感",
-        "reading": "かん"
-      },
-      "じする"
+      "って感じする"
     ],
     "english": "I feel like these two are a bit of an innocent group.",
     "notes": []
@@ -3244,10 +3235,9 @@
       },
       "を",
       {
-        "kanji": "行",
-        "reading": "おこな"
+        "kanji": "行ったり",
+        "reading": "いったり"
       },
-      "ったり",
       {
         "kanji": "来",
         "reading": "き"
@@ -5556,16 +5546,8 @@
     "segments": [
       "すごー！ 「",
       {
-        "kanji": "呪術",
-        "reading": "じゅじゅつ"
-      },
-      {
-        "kanji": "廻",
-        "reading": "まわり"
-      },
-      {
-        "kanji": "戦",
-        "reading": "せん"
+        "kanji": "呪術廻戦",
+        "reading": "じゅじゅつかいせん"
       },
       "」すごくない？"
     ],
@@ -5705,10 +5687,10 @@
         "kanji": "一方",
         "reading": "いっぽう"
       },
-      " オオカミちゃんが １",
+      " オオカミちゃんが ",
       {
-        "kanji": "人",
-        "reading": "にん"
+        "kanji": "１人",
+        "reading": "ひとり"
       },
       {
         "kanji": "以上",
@@ -6432,14 +6414,10 @@
         "kanji": "気",
         "reading": "き"
       },
-      "になる２",
+      "になる",
       {
-        "kanji": "日",
-        "reading": "にち"
-      },
-      {
-        "kanji": "目",
-        "reading": "め"
+        "kanji": "２日目",
+        "reading": "ふつかめ"
       },
       "のもようを ご",
       {
@@ -7034,7 +7012,7 @@
       "あれ？ ",
       {
         "kanji": "大人気",
-        "reading": "おとなげ"
+        "reading": "だいにんき"
       }
     ],
     "english": "Huh? Very popular",
@@ -8422,32 +8400,6 @@
     "notes": []
   },
   {
-    "id": "wolf-01-0469",
-    "time": "00:24:12,868",
-    "timeEnd": "00:24:14,536",
-    "character": "",
-    "segments": [
-      "こんな オフというか ",
-      {
-        "kanji": "趣味",
-        "reading": "しゅみ"
-      },
-      "ががっつり",
-      {
-        "kanji": "合",
-        "reading": "あ"
-      },
-      "う",
-      {
-        "kanji": "人",
-        "reading": "ひと"
-      },
-      "いると"
-    ],
-    "english": "When you meet someone like this who has off-duty hobbies,",
-    "notes": []
-  },
-  {
     "id": "wolf-01-0470",
     "time": "00:24:20,584",
     "timeEnd": "00:24:22,502",
@@ -8601,32 +8553,6 @@
     "notes": []
   },
   {
-    "id": "wolf-01-0479",
-    "time": "00:24:45,775",
-    "timeEnd": "00:24:47,068",
-    "character": "ロビン",
-    "segments": [
-      "ちょっとギャビー ",
-      {
-        "kanji": "焼",
-        "reading": "や"
-      },
-      "き",
-      {
-        "kanji": "具合",
-        "reading": "ぐあい"
-      },
-      " ",
-      {
-        "kanji": "教",
-        "reading": "おし"
-      },
-      "えてあげて"
-    ],
-    "english": "Hey Gabby, let me know how it's done.",
-    "notes": []
-  },
-  {
     "id": "wolf-01-0480",
     "time": "00:24:45,775",
     "timeEnd": "00:24:47,068",
@@ -8751,12 +8677,7 @@
     "character": "",
     "segments": [
       {
-        "kanji": "江",
-        "reading": "こう"
-      },
-      "の",
-      {
-        "kanji": "島",
+        "kanji": "江の島",
         "reading": "えのしま"
       },
       "とか",
