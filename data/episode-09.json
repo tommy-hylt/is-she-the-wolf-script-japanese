@@ -1,0 +1,11033 @@
+[
+  {
+    "id": "wolf-09-0001",
+    "time": "00:00:22,897",
+    "timeEnd": "00:00:24,107",
+    "character": "ほのか",
+    "segments": [
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "きますか？ ロビン"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0002",
+    "time": "00:00:24,190",
+    "timeEnd": "00:00:25,900",
+    "character": "ロビン / ほのか",
+    "segments": [
+      "ん？ ",
+      {
+        "kanji": "話",
+        "reading": "はな"
+      },
+      "しに"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0003",
+    "time": "00:00:25,984",
+    "timeEnd": "00:00:27,235",
+    "character": "ロビン",
+    "segments": [
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "こうよ ",
+      {
+        "kanji": "珍",
+        "reading": "めずら"
+      },
+      "しい"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0004",
+    "time": "00:00:27,318",
+    "timeEnd": "00:00:28,528",
+    "character": "ほのか / ロビン",
+    "segments": [
+      "はい はい"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0005",
+    "time": "00:00:28,611",
+    "timeEnd": "00:00:29,446",
+    "character": "ほのか",
+    "segments": [
+      "はい！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0007",
+    "time": "00:00:33,992",
+    "timeEnd": "00:00:37,495",
+    "character": "ロビン",
+    "segments": [
+      {
+        "kanji": "恥",
+        "reading": "は"
+      },
+      "ずかしいからさー ",
+      {
+        "kanji": "誘",
+        "reading": "さそ"
+      },
+      "うのさあ うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0008",
+    "time": "00:00:37,579",
+    "timeEnd": "00:00:38,830",
+    "character": "ほのか",
+    "segments": [
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "きますか"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0009",
+    "time": "00:00:40,957",
+    "timeEnd": "00:00:42,459",
+    "character": "ほのか",
+    "segments": [
+      "こちらに"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0010",
+    "time": "00:00:43,585",
+    "timeEnd": "00:00:45,045",
+    "character": "",
+    "segments": [
+      "ねえ ",
+      {
+        "kanji": "今日",
+        "reading": "きょう"
+      },
+      "さ…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0011",
+    "time": "00:00:45,128",
+    "timeEnd": "00:00:47,297",
+    "character": "",
+    "segments": [
+      "もともと",
+      {
+        "kanji": "誘",
+        "reading": "さそ"
+      },
+      "おうと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "ってて ",
+      {
+        "kanji": "今日",
+        "reading": "きょう"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0012",
+    "time": "00:00:48,131",
+    "timeEnd": "00:00:50,383",
+    "character": "",
+    "segments": [
+      "この",
+      {
+        "kanji": "撮影",
+        "reading": "さつえい"
+      },
+      "までさ １",
+      {
+        "kanji": "週間",
+        "reading": "しゅうかん"
+      },
+      "ぐらい",
+      {
+        "kanji": "空",
+        "reading": "あ"
+      },
+      "いたじゃん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0013",
+    "time": "00:00:50,467",
+    "timeEnd": "00:00:51,301",
+    "character": "ロビン / ほのか",
+    "segments": [
+      "うん もうちょっと",
+      {
+        "kanji": "空",
+        "reading": "あ"
+      },
+      "いた？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0014",
+    "time": "00:00:51,384",
+    "timeEnd": "00:00:52,385",
+    "character": "ロビン",
+    "segments": [
+      "うんうん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0015",
+    "time": "00:00:52,469",
+    "timeEnd": "00:00:55,513",
+    "character": "",
+    "segments": [
+      "あの… ウソなしだよ これ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0016",
+    "time": "00:00:55,597",
+    "timeEnd": "00:00:58,224",
+    "character": "ほのか",
+    "segments": [
+      "ちょっと",
+      {
+        "kanji": "待",
+        "reading": "ま"
+      },
+      "って ",
+      {
+        "kanji": "怖",
+        "reading": "こわ"
+      },
+      "い",
+      {
+        "kanji": "怖",
+        "reading": "こわ"
+      },
+      "い",
+      {
+        "kanji": "怖",
+        "reading": "こわ"
+      },
+      "い ウソなしでさ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0017",
+    "time": "00:00:58,308",
+    "timeEnd": "00:00:59,851",
+    "character": "",
+    "segments": [
+      "ロビンに",
+      {
+        "kanji": "一番",
+        "reading": "いちばん"
+      },
+      {
+        "kanji": "会",
+        "reading": "あ"
+      },
+      "いたかった"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0018",
+    "time": "00:01:01,770",
+    "timeEnd": "00:01:03,605",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "理由",
+        "reading": "りゆう"
+      },
+      "がある でも！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0019",
+    "time": "00:01:07,776",
+    "timeEnd": "00:01:09,527",
+    "character": "ＲＩＫＵ / 横澤",
+    "segments": [
+      "え？ はあ？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0020",
+    "time": "00:01:09,611",
+    "timeEnd": "00:01:10,445",
+    "character": "平子",
+    "segments": [
+      "えー？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0021",
+    "time": "00:01:10,528",
+    "timeEnd": "00:01:11,654",
+    "character": "横澤",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "か たくらんでそう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0022",
+    "time": "00:01:11,738",
+    "timeEnd": "00:01:13,031",
+    "character": "",
+    "segments": [
+      "なんだ？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0025",
+    "time": "00:01:55,782",
+    "timeEnd": "00:01:57,826",
+    "character": "一同",
+    "segments": [
+      "おはよう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0026",
+    "time": "00:01:57,909",
+    "timeEnd": "00:01:58,868",
+    "character": "ほのか",
+    "segments": [
+      "おっはー"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0027",
+    "time": "00:01:58,952",
+    "timeEnd": "00:02:00,870",
+    "character": "ギャビー",
+    "segments": [
+      "かわいい！ お",
+      {
+        "kanji": "花",
+        "reading": "はな"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0028",
+    "time": "00:02:04,124",
+    "timeEnd": "00:02:05,166",
+    "character": "Mikako / Who-ya",
+    "segments": [
+      "えっ ニューヨークだっけ？ ニューヨークに"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0029",
+    "time": "00:02:05,250",
+    "timeEnd": "00:02:07,252",
+    "character": "Mikako",
+    "segments": [
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "ってるので いません！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0030",
+    "time": "00:02:10,130",
+    "timeEnd": "00:02:14,926",
+    "character": "トモキ",
+    "segments": [
+      "ちょっと いったん あのー ",
+      {
+        "kanji": "写真",
+        "reading": "しゃしん"
+      },
+      {
+        "kanji": "撮影",
+        "reading": "さつえい"
+      },
+      "の",
+      {
+        "kanji": "状況",
+        "reading": "じょうきょう"
+      },
+      "を",
+      {
+        "kanji": "整理",
+        "reading": "せいり"
+      },
+      "したくって"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0031",
+    "time": "00:02:15,009",
+    "timeEnd": "00:02:16,261",
+    "character": "Who-ya",
+    "segments": [
+      "ああ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0032",
+    "time": "00:02:16,344",
+    "timeEnd": "00:02:18,847",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      " ３",
+      {
+        "kanji": "枚",
+        "reading": "まい"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0033",
+    "time": "00:02:18,930",
+    "timeEnd": "00:02:20,139",
+    "character": "Who-ya",
+    "segments": [
+      "５",
+      {
+        "kanji": "分",
+        "reading": "ぶん"
+      },
+      "の３？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0034",
+    "time": "00:02:20,765",
+    "timeEnd": "00:02:22,725",
+    "character": "トモキ",
+    "segments": [
+      "あと２か",
+      {
+        "kanji": "所",
+        "reading": "しょ"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0035",
+    "time": "00:02:24,227",
+    "timeEnd": "00:02:25,228",
+    "character": "ギャビー / Mikako",
+    "segments": [
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "きます ",
+      {
+        "kanji": "今日",
+        "reading": "きょう"
+      },
+      " え？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0036",
+    "time": "00:02:25,311",
+    "timeEnd": "00:02:26,271",
+    "character": "Who-ya / ギャビー",
+    "segments": [
+      {
+        "kanji": "今日",
+        "reading": "きょう"
+      },
+      "？ ",
+      {
+        "kanji": "今日",
+        "reading": "きょう"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0037",
+    "time": "00:02:26,354",
+    "timeEnd": "00:02:27,397",
+    "character": "Mikako / ギャビー",
+    "segments": [
+      "あっ ",
+      {
+        "kanji": "今日",
+        "reading": "きょう"
+      },
+      " ギャビー？ ",
+      {
+        "kanji": "今日",
+        "reading": "きょう"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0038",
+    "time": "00:02:27,480",
+    "timeEnd": "00:02:29,399",
+    "character": "Who-ya / ギャビー",
+    "segments": [
+      "ギャビ",
+      {
+        "kanji": "回",
+        "reading": "かい"
+      },
+      "？ ギャビ",
+      {
+        "kanji": "回",
+        "reading": "かい"
+      },
+      "です"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0039",
+    "time": "00:02:29,482",
+    "timeEnd": "00:02:30,900",
+    "character": "Ｍｉｋａｋｏ",
+    "segments": [
+      "あっ そうなの？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0040",
+    "time": "00:02:30,984",
+    "timeEnd": "00:02:32,527",
+    "character": "一同 / Ｍｉｋａｋｏ",
+    "segments": [
+      "えー！ いいな！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0041",
+    "time": "00:02:32,610",
+    "timeEnd": "00:02:34,779",
+    "character": "ギャビー",
+    "segments": [
+      "えー！ いいな！ ",
+      {
+        "kanji": "北海道",
+        "reading": "ほっかいどう"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0042",
+    "time": "00:02:34,863",
+    "timeEnd": "00:02:37,115",
+    "character": "一同 / 矢吹",
+    "segments": [
+      "えー！ ",
+      {
+        "kanji": "北海道",
+        "reading": "ほっかいどう"
+      },
+      "！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0043",
+    "time": "00:02:37,198",
+    "timeEnd": "00:02:39,492",
+    "character": "滝沢 / 横澤",
+    "segments": [
+      {
+        "kanji": "一番",
+        "reading": "いちばん"
+      },
+      "いい いいじゃん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0044",
+    "time": "00:02:40,451",
+    "timeEnd": "00:02:43,329",
+    "character": "Mikako",
+    "segments": [
+      "ちょっと あの アマゾンみたいな えっ めっちゃきれい！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0045",
+    "time": "00:02:43,413",
+    "timeEnd": "00:02:44,706",
+    "character": "ほのか",
+    "segments": [
+      "いいね いいね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0046",
+    "time": "00:02:44,789",
+    "timeEnd": "00:02:46,416",
+    "character": "ギャビー",
+    "segments": [
+      {
+        "kanji": "朝日",
+        "reading": "あさひ"
+      },
+      "が きれいなんだって"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0047",
+    "time": "00:02:46,499",
+    "timeEnd": "00:02:47,375",
+    "character": "",
+    "segments": [
+      "その",
+      {
+        "kanji": "重",
+        "reading": "かさ"
+      },
+      "なってて⸺"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0048",
+    "time": "00:02:47,458",
+    "timeEnd": "00:02:49,878",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "朝日",
+        "reading": "あさひ"
+      },
+      "が バーンって なったところがきれいで"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0049",
+    "time": "00:02:49,961",
+    "timeEnd": "00:02:54,632",
+    "character": "",
+    "segments": [
+      "で… ",
+      {
+        "kanji": "今回",
+        "reading": "こんかい"
+      },
+      " ",
+      {
+        "kanji": "被写体",
+        "reading": "ひしゃたい"
+      },
+      "が あの ",
+      {
+        "kanji": "必要",
+        "reading": "ひつよう"
+      },
+      "なくて"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0050",
+    "time": "00:02:54,716",
+    "timeEnd": "00:02:56,759",
+    "character": "",
+    "segments": [
+      "できれば ２",
+      {
+        "kanji": "人",
+        "reading": "にん"
+      },
+      "で",
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "きたいなと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "って…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0051",
+    "time": "00:02:56,843",
+    "timeEnd": "00:02:57,677",
+    "character": "Who-ya",
+    "segments": [
+      "うんうん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0052",
+    "time": "00:02:57,760",
+    "timeEnd": "00:02:59,637",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "大珠",
+        "reading": "たいじゅ"
+      },
+      " ",
+      {
+        "kanji": "一緒",
+        "reading": "いっしょ"
+      },
+      " ",
+      {
+        "kanji": "行",
+        "reading": "おこな"
+      },
+      "ってくれたら うれしいです"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0053",
+    "time": "00:02:59,721",
+    "timeEnd": "00:03:00,763",
+    "character": "大珠 / ギャビー",
+    "segments": [
+      {
+        "kanji": "北海道",
+        "reading": "ほっかいどう"
+      },
+      "？ ",
+      {
+        "kanji": "北海道",
+        "reading": "ほっかいどう"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0054",
+    "time": "00:03:00,847",
+    "timeEnd": "00:03:01,681",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "きましょう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0055",
+    "time": "00:03:01,764",
+    "timeEnd": "00:03:03,099",
+    "character": "Who-ya",
+    "segments": [
+      "あっ ついに ",
+      {
+        "kanji": "海鮮",
+        "reading": "かいせん"
+      },
+      " ",
+      {
+        "kanji": "食",
+        "reading": "た"
+      },
+      "べれるじゃないですか"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0056",
+    "time": "00:03:03,183",
+    "timeEnd": "00:03:04,017",
+    "character": "ギャビー",
+    "segments": [
+      "あっ やった！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0057",
+    "time": "00:03:04,100",
+    "timeEnd": "00:03:05,852",
+    "character": "Who-ya / ロビン",
+    "segments": [
+      "あの",
+      {
+        "kanji": "金沢",
+        "reading": "かなざわ"
+      },
+      "の… そうじゃん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0058",
+    "time": "00:03:05,935",
+    "timeEnd": "00:03:07,270",
+    "character": "Who-ya",
+    "segments": [
+      "いや ",
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "くでしょ だって",
+      {
+        "kanji": "泊",
+        "reading": "と"
+      },
+      "まりっすよ ",
+      {
+        "kanji": "多分",
+        "reading": "たぶん"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0059",
+    "time": "00:03:07,353",
+    "timeEnd": "00:03:08,187",
+    "character": "ギャビー",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0060",
+    "time": "00:03:21,034",
+    "timeEnd": "00:03:22,744",
+    "character": "",
+    "segments": [
+      "どう？ ２",
+      {
+        "kanji": "人",
+        "reading": "にん"
+      },
+      "で"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0061",
+    "time": "00:03:23,369",
+    "timeEnd": "00:03:26,080",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "相手",
+        "reading": "あいて"
+      },
+      "の",
+      {
+        "kanji": "気持",
+        "reading": "きも"
+      },
+      "ち",
+      {
+        "kanji": "聞",
+        "reading": "き"
+      },
+      "くってさ⸺"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0062",
+    "time": "00:03:26,164",
+    "timeEnd": "00:03:28,666",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "待",
+        "reading": "ま"
+      },
+      "たないといけない",
+      {
+        "kanji": "時",
+        "reading": "とき"
+      },
+      "も あるじゃん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0063",
+    "time": "00:03:28,750",
+    "timeEnd": "00:03:29,584",
+    "character": "",
+    "segments": [
+      "うーん…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0064",
+    "time": "00:03:30,668",
+    "timeEnd": "00:03:33,254",
+    "character": "",
+    "segments": [
+      "で… なんか ",
+      {
+        "kanji": "今回",
+        "reading": "こんかい"
+      },
+      "で",
+      {
+        "kanji": "分",
+        "reading": "わ"
+      },
+      "かる",
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "がする いろいろ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0065",
+    "time": "00:03:33,338",
+    "timeEnd": "00:03:34,172",
+    "character": "Mikako",
+    "segments": [
+      "そうだね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0066",
+    "time": "00:03:34,255",
+    "timeEnd": "00:03:38,134",
+    "character": "",
+    "segments": [
+      "でも ギャビーも そのままでいいと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "うから もう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0067",
+    "time": "00:03:38,217",
+    "timeEnd": "00:03:39,594",
+    "character": "ギャビー / Mikako",
+    "segments": [
+      "ありがとう うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0068",
+    "time": "00:03:39,677",
+    "timeEnd": "00:03:43,306",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "が",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "うように いってきていいと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "う"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0069",
+    "time": "00:03:44,182",
+    "timeEnd": "00:03:45,850",
+    "character": "Ｍｉｋａｋｏ",
+    "segments": [
+      "そうそうそうそう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0070",
+    "time": "00:03:49,103",
+    "timeEnd": "00:03:50,355",
+    "character": "",
+    "segments": [
+      "パンチ…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0071",
+    "time": "00:03:51,022",
+    "timeEnd": "00:03:51,856",
+    "character": "ロビン",
+    "segments": [
+      "やって ",
+      {
+        "kanji": "早",
+        "reading": "はや"
+      },
+      "くやって"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0072",
+    "time": "00:03:51,940",
+    "timeEnd": "00:03:53,691",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "今日",
+        "reading": "きょう"
+      },
+      " だって ",
+      {
+        "kanji": "北海道",
+        "reading": "ほっかいどう"
+      },
+      " ",
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "くんでしょ？ ",
+      {
+        "kanji": "働",
+        "reading": "はたら"
+      },
+      "け！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0073",
+    "time": "00:03:53,775",
+    "timeEnd": "00:03:57,111",
+    "character": "大珠 / ロビン",
+    "segments": [
+      "はい ",
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      "もサボってました ",
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      "！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0074",
+    "time": "00:03:57,195",
+    "timeEnd": "00:04:00,865",
+    "character": "",
+    "segments": [
+      "えっ ロビンのやつ だってこっち",
+      {
+        "kanji": "側",
+        "reading": "がわ"
+      },
+      " ",
+      {
+        "kanji": "付",
+        "reading": "つ"
+      },
+      "いてないよ ここ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0075",
+    "time": "00:04:00,949",
+    "timeEnd": "00:04:02,033",
+    "character": "ロビン",
+    "segments": [
+      "え？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0076",
+    "time": "00:04:06,454",
+    "timeEnd": "00:04:08,331",
+    "character": "ほのか",
+    "segments": [
+      "やめなさい やめなさい"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0077",
+    "time": "00:04:09,249",
+    "timeEnd": "00:04:11,501",
+    "character": "ロビン / ほのか",
+    "segments": [
+      "フフフ ",
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0078",
+    "time": "00:04:11,584",
+    "timeEnd": "00:04:12,418",
+    "character": "ロビン",
+    "segments": [
+      "はい"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0079",
+    "time": "00:04:12,502",
+    "timeEnd": "00:04:15,171",
+    "character": "大珠 / ロビン",
+    "segments": [
+      "おい マジでおい！ あっ あっ すいません"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0080",
+    "time": "00:04:15,255",
+    "timeEnd": "00:04:16,714",
+    "character": "大珠",
+    "segments": [
+      {
+        "kanji": "俺",
+        "reading": "おれ"
+      },
+      " ",
+      {
+        "kanji": "北海道",
+        "reading": "ほっかいどう"
+      },
+      " ",
+      {
+        "kanji": "行",
+        "reading": "おこな"
+      },
+      "っちゃうんだから"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0081",
+    "time": "00:04:16,798",
+    "timeEnd": "00:04:18,675",
+    "character": "ロビン･ほのか",
+    "segments": [
+      "アハハハ！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0082",
+    "time": "00:04:20,760",
+    "timeEnd": "00:04:23,638",
+    "character": "ほのか",
+    "segments": [
+      "もう ",
+      {
+        "kanji": "守",
+        "reading": "まも"
+      },
+      "ってくれる",
+      {
+        "kanji": "人",
+        "reading": "ひと"
+      },
+      " いなくなっちゃうよー"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0083",
+    "time": "00:04:23,721",
+    "timeEnd": "00:04:25,473",
+    "character": "大珠 / ロビン",
+    "segments": [
+      "ほのかは うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0084",
+    "time": "00:04:25,556",
+    "timeEnd": "00:04:27,517",
+    "character": "大珠 / ロビン",
+    "segments": [
+      {
+        "kanji": "俺",
+        "reading": "おれ"
+      },
+      "が",
+      {
+        "kanji": "北海道",
+        "reading": "ほっかいどう"
+      },
+      " ",
+      {
+        "kanji": "行",
+        "reading": "おこな"
+      },
+      "ってる",
+      {
+        "kanji": "間",
+        "reading": "ま"
+      },
+      "に うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0085",
+    "time": "00:04:27,600",
+    "timeEnd": "00:04:30,728",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "太陽LINE",
+        "reading": "ライン"
+      },
+      "で ",
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
+      "か",
+      {
+        "kanji": "誘",
+        "reading": "さそ"
+      },
+      "うらしい"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0086",
+    "time": "00:04:30,812",
+    "timeEnd": "00:04:33,314",
+    "character": "ロビン / 大珠",
+    "segments": [
+      "マジ？ ",
+      {
+        "kanji": "他",
+        "reading": "た"
+      },
+      "の",
+      {
+        "kanji": "男子",
+        "reading": "だんし"
+      },
+      "を",
+      {
+        "kanji": "誘",
+        "reading": "さそ"
+      },
+      "うって",
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "ってた"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0087",
+    "time": "00:04:34,148",
+    "timeEnd": "00:04:36,401",
+    "character": "ロビン",
+    "segments": [
+      "やきもち",
+      {
+        "kanji": "妬",
+        "reading": "や"
+      },
+      "かせたいんかい！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0088",
+    "time": "00:04:37,235",
+    "timeEnd": "00:04:40,321",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "太陽",
+        "reading": "たいよう"
+      },
+      "LINEで ",
+      {
+        "kanji": "北海道",
+        "reading": "ほっかいどう"
+      },
+      "に",
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "こうって",
+      {
+        "kanji": "話",
+        "reading": "はなし"
+      },
+      " どう？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0089",
+    "time": "00:04:40,405",
+    "timeEnd": "00:04:41,823",
+    "character": "",
+    "segments": [
+      "うん ",
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
+      " ",
+      {
+        "kanji": "誘",
+        "reading": "さそ"
+      },
+      "うの？ ",
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
+      "か",
+      {
+        "kanji": "指名",
+        "reading": "しめい"
+      },
+      "しないとダメだよ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0090",
+    "time": "00:04:41,906",
+    "timeEnd": "00:04:42,740",
+    "character": "ほのか",
+    "segments": [
+      "そうだよ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0091",
+    "time": "00:04:42,824",
+    "timeEnd": "00:04:45,159",
+    "character": "ロビン / ほのか",
+    "segments": [
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
+      " ",
+      {
+        "kanji": "指名",
+        "reading": "しめい"
+      },
+      "するの？ うーん…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0092",
+    "time": "00:04:46,661",
+    "timeEnd": "00:04:49,080",
+    "character": "ほのか",
+    "segments": [
+      "えっ おもろいね それ おもろいね フフフフ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0093",
+    "time": "00:04:57,880",
+    "timeEnd": "00:05:00,591",
+    "character": "",
+    "segments": [
+      "じゅりちゃん ",
+      {
+        "kanji": "気持",
+        "reading": "きも"
+      },
+      "ちあふれすぎだわ もう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0094",
+    "time": "00:05:00,675",
+    "timeEnd": "00:05:02,802",
+    "character": "滝沢",
+    "segments": [
+      "“ハァ！”みたいな",
+      {
+        "kanji": "感",
+        "reading": "かん"
+      },
+      "じで",
+      {
+        "kanji": "立",
+        "reading": "た"
+      },
+      "っちゃうから そうそう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0095",
+    "time": "00:05:02,885",
+    "timeEnd": "00:05:04,595",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "一番",
+        "reading": "いちばん"
+      },
+      " ",
+      {
+        "kanji": "感情",
+        "reading": "かんじょう"
+      },
+      {
+        "kanji": "的",
+        "reading": "てき"
+      },
+      "なんだよね じゅりちゃん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0096",
+    "time": "00:05:04,679",
+    "timeEnd": "00:05:06,973",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "飲",
+        "reading": "の"
+      },
+      "んでないよね あれね ",
+      {
+        "kanji": "傾",
+        "reading": "かたむ"
+      },
+      "けただけで"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0097",
+    "time": "00:05:07,056",
+    "timeEnd": "00:05:08,599",
+    "character": "滝沢",
+    "segments": [
+      "そうそう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0098",
+    "time": "00:05:08,683",
+    "timeEnd": "00:05:10,727",
+    "character": "",
+    "segments": [
+      "では ",
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "きますか"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0099",
+    "time": "00:05:10,810",
+    "timeEnd": "00:05:12,061",
+    "character": "ギャビー / ほのか",
+    "segments": [
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "こっか わあ！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0100",
+    "time": "00:05:12,145",
+    "timeEnd": "00:05:13,604",
+    "character": "Mikako / ほのか",
+    "segments": [
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "くの？ ダメだし！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0101",
+    "time": "00:05:13,688",
+    "timeEnd": "00:05:15,982",
+    "character": "一同の笑い声 / Who-ya",
+    "segments": [
+      "あれ あれ？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0102",
+    "time": "00:05:16,065",
+    "timeEnd": "00:05:18,109",
+    "character": "ギャビー / Who-ya",
+    "segments": [
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "かせないし ",
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "かせない",
+      {
+        "kanji": "人",
+        "reading": "ひと"
+      },
+      "が…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0103",
+    "time": "00:05:18,192",
+    "timeEnd": "00:05:20,737",
+    "character": "一同の笑い声",
+    "segments": [
+      "いってきます"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0104",
+    "time": "00:05:20,820",
+    "timeEnd": "00:05:21,779",
+    "character": "Mikako / ほのか",
+    "segments": [
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "をつけてね くそー！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0105",
+    "time": "00:05:21,863",
+    "timeEnd": "00:05:22,780",
+    "character": "ギャビー",
+    "segments": [
+      "ありがとう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0106",
+    "time": "00:05:22,864",
+    "timeEnd": "00:05:23,698",
+    "character": "Mikako / ギャビー",
+    "segments": [
+      {
+        "kanji": "楽",
+        "reading": "たの"
+      },
+      "しんでね！ ",
+      {
+        "kanji": "頑張",
+        "reading": "がんば"
+      },
+      "ってね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0107",
+    "time": "00:05:23,781",
+    "timeEnd": "00:05:25,825",
+    "character": "ギャビー･大珠 / Who-ya",
+    "segments": [
+      "バイバイ ",
+      {
+        "kanji": "楽",
+        "reading": "たの"
+      },
+      "しんで"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0108",
+    "time": "00:05:25,908",
+    "timeEnd": "00:05:27,243",
+    "character": "大珠",
+    "segments": [
+      "いってきます"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0109",
+    "time": "00:05:27,327",
+    "timeEnd": "00:05:28,828",
+    "character": "ほのか / Mikako",
+    "segments": [
+      "いってらっしゃい ",
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "をつけてね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0110",
+    "time": "00:05:32,623",
+    "timeEnd": "00:05:34,917",
+    "character": "ギャビー / 大珠",
+    "segments": [
+      {
+        "kanji": "到着",
+        "reading": "とうちゃく"
+      },
+      "！ ",
+      {
+        "kanji": "到着",
+        "reading": "とうちゃく"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0111",
+    "time": "00:05:35,752",
+    "timeEnd": "00:05:38,046",
+    "character": "ギャビー",
+    "segments": [
+      {
+        "kanji": "楽",
+        "reading": "たの"
+      },
+      "しみ ",
+      {
+        "kanji": "北海道",
+        "reading": "ほっかいどう"
+      },
+      " ね！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0112",
+    "time": "00:05:38,129",
+    "timeEnd": "00:05:40,298",
+    "character": "",
+    "segments": [
+      "ご",
+      {
+        "kanji": "飯",
+        "reading": "はん"
+      },
+      "は ",
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "が",
+      {
+        "kanji": "有名",
+        "reading": "ゆうめい"
+      },
+      "だっけ？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0113",
+    "time": "00:05:40,381",
+    "timeEnd": "00:05:42,425",
+    "character": "ギャビー",
+    "segments": [
+      {
+        "kanji": "海鮮",
+        "reading": "かいせん"
+      },
+      "？ ",
+      {
+        "kanji": "海鮮",
+        "reading": "かいせん"
+      },
+      "… ",
+      {
+        "kanji": "海鮮",
+        "reading": "かいせん"
+      },
+      "と…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0114",
+    "time": "00:05:42,508",
+    "timeEnd": "00:05:44,052",
+    "character": "ギャビー",
+    "segments": [
+      "ジンギスカン ジンギスカンだ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0115",
+    "time": "00:05:44,135",
+    "timeEnd": "00:05:46,804",
+    "character": "店員",
+    "segments": [
+      "はい ",
+      {
+        "kanji": "失礼",
+        "reading": "しつれい"
+      },
+      "いたします こちら",
+      {
+        "kanji": "生",
+        "reading": "なま"
+      },
+      "ガキ お",
+      {
+        "kanji": "持",
+        "reading": "も"
+      },
+      "ちしました"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0116",
+    "time": "00:05:46,888",
+    "timeEnd": "00:05:48,097",
+    "character": "ギャビー",
+    "segments": [
+      "わー やったー！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0117",
+    "time": "00:05:48,181",
+    "timeEnd": "00:05:50,767",
+    "character": "大珠 / ギャビー",
+    "segments": [
+      {
+        "kanji": "北海道",
+        "reading": "ほっかいどう"
+      },
+      " いいわ ね！ ようこそ ",
+      {
+        "kanji": "北海道",
+        "reading": "ほっかいどう"
+      },
+      "へ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0118",
+    "time": "00:05:52,727",
+    "timeEnd": "00:05:54,395",
+    "character": "",
+    "segments": [
+      "めちゃめちゃうまいわ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0119",
+    "time": "00:05:56,647",
+    "timeEnd": "00:05:58,858",
+    "character": "",
+    "segments": [
+      "マジ めっちゃ いつも ",
+      {
+        "kanji": "顔",
+        "reading": "かお"
+      },
+      " ",
+      {
+        "kanji": "出",
+        "reading": "で"
+      },
+      "るよね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0120",
+    "time": "00:05:58,941",
+    "timeEnd": "00:06:00,943",
+    "character": "ギャビー",
+    "segments": [
+      {
+        "kanji": "顔",
+        "reading": "かお"
+      },
+      "に すっごい",
+      {
+        "kanji": "出",
+        "reading": "で"
+      },
+      "るよね ",
+      {
+        "kanji": "分",
+        "reading": "わ"
+      },
+      "かる？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0121",
+    "time": "00:06:05,448",
+    "timeEnd": "00:06:07,909",
+    "character": "ギャビー",
+    "segments": [
+      {
+        "kanji": "酔",
+        "reading": "よ"
+      },
+      "っ",
+      {
+        "kanji": "払",
+        "reading": "ぱら"
+      },
+      "うわ ありがとね ",
+      {
+        "kanji": "来",
+        "reading": "き"
+      },
+      "てくれて"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0122",
+    "time": "00:06:07,992",
+    "timeEnd": "00:06:10,119",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "急",
+        "reading": "きゅう"
+      },
+      "に ",
+      {
+        "kanji": "北海道",
+        "reading": "ほっかいどう"
+      },
+      " ",
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "くと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "わなかったでしょ？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0123",
+    "time": "00:06:10,203",
+    "timeEnd": "00:06:11,162",
+    "character": "大珠",
+    "segments": [
+      "びっくり"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0124",
+    "time": "00:06:11,954",
+    "timeEnd": "00:06:13,372",
+    "character": "",
+    "segments": [
+      "えっ ",
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "？ ",
+      {
+        "kanji": "今回",
+        "reading": "こんかい"
+      },
+      "は",
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "？ プランとかあんの？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0125",
+    "time": "00:06:13,456",
+    "timeEnd": "00:06:15,792",
+    "character": "ギャビー",
+    "segments": [
+      "そういう あんの？ いやだって ",
+      {
+        "kanji": "写真",
+        "reading": "しゃしん"
+      },
+      "だけだから"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0126",
+    "time": "00:06:15,875",
+    "timeEnd": "00:06:16,959",
+    "character": "ギャビー",
+    "segments": [
+      "ああ そっか そうそうそう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0127",
+    "time": "00:06:17,043",
+    "timeEnd": "00:06:20,004",
+    "character": "大珠",
+    "segments": [
+      {
+        "kanji": "木",
+        "reading": "き"
+      },
+      "と",
+      {
+        "kanji": "木",
+        "reading": "こ"
+      },
+      "の",
+      {
+        "kanji": "間",
+        "reading": "ま"
+      },
+      "から ",
+      {
+        "kanji": "光",
+        "reading": "ひかり"
+      },
+      "が",
+      {
+        "kanji": "差",
+        "reading": "さ"
+      },
+      "すの うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0128",
+    "time": "00:06:20,088",
+    "timeEnd": "00:06:23,049",
+    "character": "大珠",
+    "segments": [
+      "その",
+      {
+        "kanji": "瞬間",
+        "reading": "しゅんかん"
+      },
+      "を",
+      {
+        "kanji": "撮",
+        "reading": "と"
+      },
+      "れたらいいねって",
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "ってて うんうんうんうん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0129",
+    "time": "00:06:23,132",
+    "timeEnd": "00:06:26,219",
+    "character": "ギャビー",
+    "segments": [
+      "マジ タイミングね ",
+      {
+        "kanji": "重要",
+        "reading": "じゅうよう"
+      },
+      "だよね ",
+      {
+        "kanji": "大事",
+        "reading": "だいじ"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0130",
+    "time": "00:06:26,969",
+    "timeEnd": "00:06:28,888",
+    "character": "ギャビー",
+    "segments": [
+      "じゃあ ",
+      {
+        "kanji": "明日",
+        "reading": "あした"
+      },
+      "は… いい",
+      {
+        "kanji": "写真",
+        "reading": "しゃしん"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0131",
+    "time": "00:06:28,971",
+    "timeEnd": "00:06:29,972",
+    "character": "ギャビー",
+    "segments": [
+      "いい",
+      {
+        "kanji": "写真",
+        "reading": "しゃしん"
+      },
+      "を！ はい"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0132",
+    "time": "00:06:30,056",
+    "timeEnd": "00:06:32,016",
+    "character": "ギャビー",
+    "segments": [
+      {
+        "kanji": "素敵",
+        "reading": "すてき"
+      },
+      "な",
+      {
+        "kanji": "写真",
+        "reading": "しゃしん"
+      },
+      "を",
+      {
+        "kanji": "撮",
+        "reading": "と"
+      },
+      "ろう ",
+      {
+        "kanji": "一番",
+        "reading": "いちばん"
+      },
+      "の"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0133",
+    "time": "00:06:32,100",
+    "timeEnd": "00:06:33,101",
+    "character": "ギャビー･大珠",
+    "segments": [
+      {
+        "kanji": "乾杯",
+        "reading": "かんぱい"
+      },
+      "！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0134",
+    "time": "00:06:36,771",
+    "timeEnd": "00:06:40,525",
+    "character": "一同",
+    "segments": [
+      "おはようございます"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0135",
+    "time": "00:06:40,608",
+    "timeEnd": "00:06:41,818",
+    "character": "じゅり",
+    "segments": [
+      "６",
+      {
+        "kanji": "人",
+        "reading": "にん"
+      },
+      "だね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0136",
+    "time": "00:06:41,901",
+    "timeEnd": "00:06:42,985",
+    "character": "Mikako / 桜子",
+    "segments": [
+      "６",
+      {
+        "kanji": "人",
+        "reading": "にん"
+      },
+      " ６",
+      {
+        "kanji": "人",
+        "reading": "にん"
+      },
+      "だね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0137",
+    "time": "00:06:43,069",
+    "timeEnd": "00:06:44,153",
+    "character": "トモキ",
+    "segments": [
+      {
+        "kanji": "少",
+        "reading": "すく"
+      },
+      "ないね なんか"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0138",
+    "time": "00:06:44,237",
+    "timeEnd": "00:06:46,948",
+    "character": "",
+    "segments": [
+      "マサキ",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "は",
+      {
+        "kanji": "引",
+        "reading": "ひ"
+      },
+      "き",
+      {
+        "kanji": "続",
+        "reading": "つづ"
+      },
+      "きニューヨーク"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0139",
+    "time": "00:06:47,031",
+    "timeEnd": "00:06:50,118",
+    "character": "",
+    "segments": [
+      "で… ほのかが ",
+      {
+        "kanji": "今日",
+        "reading": "きょう"
+      },
+      " ",
+      {
+        "kanji": "仕事",
+        "reading": "しごと"
+      },
+      "で 18",
+      {
+        "kanji": "時",
+        "reading": "じ"
+      },
+      "に",
+      {
+        "kanji": "多分",
+        "reading": "たぶん"
+      },
+      " ",
+      {
+        "kanji": "来",
+        "reading": "く"
+      },
+      "るかな？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0140",
+    "time": "00:06:50,201",
+    "timeEnd": "00:06:51,285",
+    "character": "桜子",
+    "segments": [
+      "18",
+      {
+        "kanji": "時",
+        "reading": "じ"
+      },
+      "か"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0141",
+    "time": "00:06:51,369",
+    "timeEnd": "00:06:54,455",
+    "character": "一同の笑い声",
+    "segments": [
+      "よっしゃあ やるぞ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0142",
+    "time": "00:06:54,539",
+    "timeEnd": "00:06:55,748",
+    "character": "トモキ",
+    "segments": [
+      "さあ やりましょう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0143",
+    "time": "00:07:00,795",
+    "timeEnd": "00:07:03,339",
+    "character": "桜子",
+    "segments": [
+      "トモキ",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "って",
+      {
+        "kanji": "嫉妬",
+        "reading": "しっと"
+      },
+      "するタイプ？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0144",
+    "time": "00:07:04,048",
+    "timeEnd": "00:07:05,716",
+    "character": "トモキ",
+    "segments": [
+      {
+        "kanji": "嫉妬",
+        "reading": "しっと"
+      },
+      "…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0145",
+    "time": "00:07:07,301",
+    "timeEnd": "00:07:09,387",
+    "character": "",
+    "segments": [
+      "まあ しなくはないと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "うな"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0146",
+    "time": "00:07:09,470",
+    "timeEnd": "00:07:10,972",
+    "character": "桜子",
+    "segments": [
+      "ふーん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0147",
+    "time": "00:07:12,056",
+    "timeEnd": "00:07:13,516",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "顔",
+        "reading": "かお"
+      },
+      "に",
+      {
+        "kanji": "出",
+        "reading": "だ"
+      },
+      "す？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0148",
+    "time": "00:07:15,518",
+    "timeEnd": "00:07:17,103",
+    "character": "桜子",
+    "segments": [
+      {
+        "kanji": "出",
+        "reading": "で"
+      },
+      "てる？ いや ",
+      {
+        "kanji": "分",
+        "reading": "わ"
+      },
+      "からん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0149",
+    "time": "00:07:17,186",
+    "timeEnd": "00:07:19,021",
+    "character": "桜子",
+    "segments": [
+      {
+        "kanji": "分",
+        "reading": "わ"
+      },
+      "からんのかい！ ",
+      {
+        "kanji": "分",
+        "reading": "わ"
+      },
+      "からん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0150",
+    "time": "00:07:25,403",
+    "timeEnd": "00:07:27,697",
+    "character": "トモキ",
+    "segments": [
+      "うん するタイプ ふーん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0151",
+    "time": "00:07:30,116",
+    "timeEnd": "00:07:32,243",
+    "character": "じゅり",
+    "segments": [
+      "ロビンは どんな",
+      {
+        "kanji": "人",
+        "reading": "ひと"
+      },
+      "が",
+      {
+        "kanji": "好",
+        "reading": "す"
+      },
+      "きなの？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0152",
+    "time": "00:07:32,326",
+    "timeEnd": "00:07:34,454",
+    "character": "じゅり",
+    "segments": [
+      {
+        "kanji": "俺",
+        "reading": "おれ"
+      },
+      "は どういう",
+      {
+        "kanji": "人",
+        "reading": "ひと"
+      },
+      "が",
+      {
+        "kanji": "好",
+        "reading": "す"
+      },
+      "き？ うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0153",
+    "time": "00:07:35,204",
+    "timeEnd": "00:07:36,456",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "付",
+        "reading": "つ"
+      },
+      "き",
+      {
+        "kanji": "合",
+        "reading": "あ"
+      },
+      "う",
+      {
+        "kanji": "人",
+        "reading": "ひと"
+      },
+      "？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0154",
+    "time": "00:07:37,331",
+    "timeEnd": "00:07:38,958",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "好",
+        "reading": "す"
+      },
+      "きになる",
+      {
+        "kanji": "人",
+        "reading": "ひと"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0155",
+    "time": "00:07:39,041",
+    "timeEnd": "00:07:40,793",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "か",
+      {
+        "kanji": "頑張",
+        "reading": "がんば"
+      },
+      "ってる",
+      {
+        "kanji": "人",
+        "reading": "ひと"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0156",
+    "time": "00:07:43,546",
+    "timeEnd": "00:07:46,132",
+    "character": "",
+    "segments": [
+      "あと なんだろう なんか…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0157",
+    "time": "00:07:52,263",
+    "timeEnd": "00:07:55,516",
+    "character": "滝沢 / 一同",
+    "segments": [
+      "え？ うわー！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0158",
+    "time": "00:07:55,600",
+    "timeEnd": "00:07:58,394",
+    "character": "",
+    "segments": [
+      "ある",
+      {
+        "kanji": "程度",
+        "reading": "ていど"
+      },
+      "の",
+      {
+        "kanji": "距離",
+        "reading": "きょり"
+      },
+      {
+        "kanji": "感",
+        "reading": "かん"
+      },
+      "を ",
+      {
+        "kanji": "保",
+        "reading": "たも"
+      },
+      "った",
+      {
+        "kanji": "状態",
+        "reading": "じょうたい"
+      },
+      "じゃないと"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0159",
+    "time": "00:07:58,478",
+    "timeEnd": "00:08:00,396",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "は お",
+      {
+        "kanji": "付",
+        "reading": "つ"
+      },
+      "き",
+      {
+        "kanji": "合",
+        "reading": "あ"
+      },
+      "いできないんだ っていうことだよね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0160",
+    "time": "00:08:00,480",
+    "timeEnd": "00:08:02,064",
+    "character": "",
+    "segments": [
+      "っていうことですよね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0161",
+    "time": "00:08:02,148",
+    "timeEnd": "00:08:04,650",
+    "character": "",
+    "segments": [
+      "でも ちょっとやっぱ “えー”って",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "っちゃいますよね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0162",
+    "time": "00:08:04,650",
+    "timeEnd": "00:08:05,485",
+    "character": "",
+    "segments": [
+      "でも ちょっとやっぱ “えー”って",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "っちゃいますよね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0163",
+    "time": "00:08:04,650",
+    "timeEnd": "00:08:05,485",
+    "character": "横澤",
+    "segments": [
+      "そう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0164",
+    "time": "00:08:05,568",
+    "timeEnd": "00:08:10,615",
+    "character": "",
+    "segments": [
+      "さみしいのを",
+      {
+        "kanji": "見",
+        "reading": "み"
+      },
+      "せれるのって ",
+      {
+        "kanji": "好",
+        "reading": "す"
+      },
+      "きな",
+      {
+        "kanji": "人",
+        "reading": "ひと"
+      },
+      "だけな",
+      {
+        "kanji": "時",
+        "reading": "とき"
+      },
+      "もありますものね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0166",
+    "time": "00:08:16,996",
+    "timeEnd": "00:08:18,331",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      "？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0167",
+    "time": "00:08:18,956",
+    "timeEnd": "00:08:22,001",
+    "character": "Who-ya",
+    "segments": [
+      "えっ ギャビーたちじゃない？ ギャビたちの",
+      {
+        "kanji": "写真",
+        "reading": "しゃしん"
+      },
+      "だ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0168",
+    "time": "00:08:22,084",
+    "timeEnd": "00:08:23,586",
+    "character": "Mikako",
+    "segments": [
+      "あっ ヤバい ",
+      {
+        "kanji": "見",
+        "reading": "み"
+      },
+      "ちゃダメなもの",
+      {
+        "kanji": "見",
+        "reading": "み"
+      },
+      "てる"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0169",
+    "time": "00:08:23,669",
+    "timeEnd": "00:08:27,340",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "違",
+        "reading": "ちが"
+      },
+      "った！ マサキ",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "だ ニューヨークから",
+      {
+        "kanji": "写真",
+        "reading": "しゃしん"
+      },
+      "が",
+      {
+        "kanji": "送",
+        "reading": "おく"
+      },
+      "られてきた"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0170",
+    "time": "00:08:27,423",
+    "timeEnd": "00:08:29,800",
+    "character": "桜子 / トモキ",
+    "segments": [
+      "え？ めっちゃいいじゃん マサキさんやん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0171",
+    "time": "00:08:30,426",
+    "timeEnd": "00:08:31,344",
+    "character": "桜子",
+    "segments": [
+      "めっちゃいいじゃん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0172",
+    "time": "00:08:31,427",
+    "timeEnd": "00:08:33,262",
+    "character": "桜子･トモキ",
+    "segments": [
+      "アハハハ！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0173",
+    "time": "00:08:33,930",
+    "timeEnd": "00:08:34,931",
+    "character": "じゅり",
+    "segments": [
+      "いいね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0174",
+    "time": "00:08:35,014",
+    "timeEnd": "00:08:36,682",
+    "character": "ロビン",
+    "segments": [
+      "かっこいい いいな"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0175",
+    "time": "00:08:36,766",
+    "timeEnd": "00:08:38,309",
+    "character": "じゅり",
+    "segments": [
+      "いいなあ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0176",
+    "time": "00:08:38,392",
+    "timeEnd": "00:08:40,102",
+    "character": "",
+    "segments": [
+      "めちゃくちゃいい",
+      {
+        "kanji": "写真",
+        "reading": "しゃしん"
+      },
+      "やん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0177",
+    "time": "00:08:42,438",
+    "timeEnd": "00:08:43,981",
+    "character": "Who-ya",
+    "segments": [
+      "すごいね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0178",
+    "time": "00:08:45,983",
+    "timeEnd": "00:08:48,736",
+    "character": "Mikako",
+    "segments": [
+      "マサキ ",
+      {
+        "kanji": "無事",
+        "reading": "ぶじ"
+      },
+      "に",
+      {
+        "kanji": "帰",
+        "reading": "かえ"
+      },
+      "ってきてね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0179",
+    "time": "00:08:48,819",
+    "timeEnd": "00:08:51,113",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "無事",
+        "reading": "ぶじ"
+      },
+      "に",
+      {
+        "kanji": "帰",
+        "reading": "かえ"
+      },
+      "ってきてね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0180",
+    "time": "00:08:51,197",
+    "timeEnd": "00:08:54,492",
+    "character": "Who-ya / Mikako",
+    "segments": [
+      "ねっ よかった ",
+      {
+        "kanji": "楽",
+        "reading": "たの"
+      },
+      "しそうで"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0181",
+    "time": "00:08:55,201",
+    "timeEnd": "00:08:59,622",
+    "character": "",
+    "segments": [
+      "Who-yaも もう ",
+      {
+        "kanji": "気持",
+        "reading": "きも"
+      },
+      "ちは",
+      {
+        "kanji": "切",
+        "reading": "き"
+      },
+      "れてる",
+      {
+        "kanji": "感",
+        "reading": "かん"
+      },
+      "じするのかな"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0182",
+    "time": "00:09:02,708",
+    "timeEnd": "00:09:04,001",
+    "character": "",
+    "segments": [
+      "そこ",
+      {
+        "kanji": "塗",
+        "reading": "ぬ"
+      },
+      "るよ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0183",
+    "time": "00:09:04,710",
+    "timeEnd": "00:09:07,755",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "の",
+      {
+        "kanji": "方",
+        "reading": "ほう"
+      },
+      "が",
+      {
+        "kanji": "器用",
+        "reading": "きよう"
+      },
+      "かなって",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "って"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0184",
+    "time": "00:09:09,006",
+    "timeEnd": "00:09:12,468",
+    "character": "桜子",
+    "segments": [
+      {
+        "kanji": "副",
+        "reading": "ふく"
+      },
+      "リーダー ",
+      {
+        "kanji": "代",
+        "reading": "か"
+      },
+      "わる？ ",
+      {
+        "kanji": "副",
+        "reading": "ふく"
+      },
+      "リーダー ",
+      {
+        "kanji": "代",
+        "reading": "か"
+      },
+      "わらん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0185",
+    "time": "00:09:18,641",
+    "timeEnd": "00:09:20,226",
+    "character": "桜子",
+    "segments": [
+      "そこ",
+      {
+        "kanji": "塗",
+        "reading": "ぬ"
+      },
+      "るって！ ハハハハ！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0186",
+    "time": "00:09:22,770",
+    "timeEnd": "00:09:24,272",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "になっちゃうんだもん ここ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0187",
+    "time": "00:09:24,355",
+    "timeEnd": "00:09:26,732",
+    "character": "桜子",
+    "segments": [
+      {
+        "kanji": "汚",
+        "reading": "よご"
+      },
+      "れても",
+      {
+        "kanji": "知",
+        "reading": "し"
+      },
+      "らんよ ハハハ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0188",
+    "time": "00:09:31,612",
+    "timeEnd": "00:09:32,655",
+    "character": "",
+    "segments": [
+      "ねえ どうだろうね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0189",
+    "time": "00:09:32,738",
+    "timeEnd": "00:09:35,199",
+    "character": "トモキ",
+    "segments": [
+      "でも ",
+      {
+        "kanji": "早朝",
+        "reading": "そうちょう"
+      },
+      "の",
+      {
+        "kanji": "撮",
+        "reading": "と"
+      },
+      "るって",
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "ってたから うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0190",
+    "time": "00:09:35,283",
+    "timeEnd": "00:09:39,996",
+    "character": "",
+    "segments": [
+      "もう",
+      {
+        "kanji": "撮",
+        "reading": "と"
+      },
+      "り",
+      {
+        "kanji": "終",
+        "reading": "お"
+      },
+      "わって ご",
+      {
+        "kanji": "飯",
+        "reading": "はん"
+      },
+      " ",
+      {
+        "kanji": "食",
+        "reading": "た"
+      },
+      "べてから",
+      {
+        "kanji": "来",
+        "reading": "き"
+      },
+      "そうだよね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0191",
+    "time": "00:09:51,966",
+    "timeEnd": "00:09:53,426",
+    "character": "大珠 / ギャビー",
+    "segments": [
+      "オーケー オーケー"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0192",
+    "time": "00:09:56,637",
+    "timeEnd": "00:09:57,972",
+    "character": "ギャビー",
+    "segments": [
+      "はい"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0193",
+    "time": "00:09:58,055",
+    "timeEnd": "00:09:59,974",
+    "character": "",
+    "segments": [
+      "よし ",
+      {
+        "kanji": "到着",
+        "reading": "とうちゃく"
+      },
+      "！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0194",
+    "time": "00:10:00,057",
+    "timeEnd": "00:10:02,101",
+    "character": "大珠",
+    "segments": [
+      "えっ どこ？ マジ ",
+      {
+        "kanji": "霧",
+        "reading": "きり"
+      },
+      "がすごいんだけど"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0195",
+    "time": "00:10:02,184",
+    "timeEnd": "00:10:03,436",
+    "character": "",
+    "segments": [
+      "あっ ",
+      {
+        "kanji": "霧",
+        "reading": "きり"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0196",
+    "time": "00:10:04,645",
+    "timeEnd": "00:10:06,355",
+    "character": "",
+    "segments": [
+      "１",
+      {
+        "kanji": "回",
+        "reading": "かい"
+      },
+      " ",
+      {
+        "kanji": "坂",
+        "reading": "さか"
+      },
+      " ",
+      {
+        "kanji": "上",
+        "reading": "あ"
+      },
+      "がる？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0197",
+    "time": "00:10:06,439",
+    "timeEnd": "00:10:08,107",
+    "character": "ギャビー",
+    "segments": [
+      "あっちじゃない？ あっ…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0198",
+    "time": "00:10:08,190",
+    "timeEnd": "00:10:10,067",
+    "character": "大珠",
+    "segments": [
+      "あっ ",
+      {
+        "kanji": "違",
+        "reading": "ちが"
+      },
+      "うか あっちでしょ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0199",
+    "time": "00:10:11,235",
+    "timeEnd": "00:10:12,194",
+    "character": "ギャビー",
+    "segments": [
+      {
+        "kanji": "待",
+        "reading": "ま"
+      },
+      "って ",
+      {
+        "kanji": "霧",
+        "reading": "きり"
+      },
+      "が"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0200",
+    "time": "00:10:12,278",
+    "timeEnd": "00:10:13,321",
+    "character": "大珠",
+    "segments": [
+      "これ ",
+      {
+        "kanji": "大丈夫",
+        "reading": "だいじょうぶ"
+      },
+      "なの？ ",
+      {
+        "kanji": "霧",
+        "reading": "きり"
+      },
+      "がね…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0201",
+    "time": "00:10:13,404",
+    "timeEnd": "00:10:16,282",
+    "character": "",
+    "segments": [
+      "マジ ",
+      {
+        "kanji": "霧",
+        "reading": "きり"
+      },
+      "すごすぎんだけど これ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0202",
+    "time": "00:10:16,365",
+    "timeEnd": "00:10:17,533",
+    "character": "ギャビー / 大珠",
+    "segments": [
+      "こっち？ なんか",
+      {
+        "kanji": "見",
+        "reading": "み"
+      },
+      "えないじゃん もう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0203",
+    "time": "00:10:17,616",
+    "timeEnd": "00:10:18,909",
+    "character": "ギャビー",
+    "segments": [
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "珠",
+        "reading": "たま"
+      },
+      " ちょっ…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0204",
+    "time": "00:10:20,745",
+    "timeEnd": "00:10:21,912",
+    "character": "大珠 / ギャビー",
+    "segments": [
+      "あの",
+      {
+        "kanji": "辺",
+        "reading": "あたり"
+      },
+      "じゃない？ あの",
+      {
+        "kanji": "辺",
+        "reading": "あたり"
+      },
+      "っぽい"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0205",
+    "time": "00:10:21,996",
+    "timeEnd": "00:10:24,081",
+    "character": "大珠",
+    "segments": [
+      "なんか うっすら",
+      {
+        "kanji": "見",
+        "reading": "み"
+      },
+      "える",
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "がする"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0206",
+    "time": "00:10:24,165",
+    "timeEnd": "00:10:25,458",
+    "character": "ギャビー / 大珠",
+    "segments": [
+      "どれ？ あれでしょ あの…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0207",
+    "time": "00:10:25,541",
+    "timeEnd": "00:10:26,834",
+    "character": "ギャビー",
+    "segments": [
+      "ちょっと",
+      {
+        "kanji": "待",
+        "reading": "ま"
+      },
+      "って ",
+      {
+        "kanji": "走",
+        "reading": "はし"
+      },
+      "ろう！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0208",
+    "time": "00:10:26,917",
+    "timeEnd": "00:10:28,711",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "走",
+        "reading": "はし"
+      },
+      "ろう！ ",
+      {
+        "kanji": "間",
+        "reading": "ま"
+      },
+      "に",
+      {
+        "kanji": "合",
+        "reading": "あ"
+      },
+      "わないかも だって…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0209",
+    "time": "00:10:30,004",
+    "timeEnd": "00:10:31,339",
+    "character": "ギャビー",
+    "segments": [
+      {
+        "kanji": "待",
+        "reading": "ま"
+      },
+      "って"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0210",
+    "time": "00:10:31,422",
+    "timeEnd": "00:10:34,550",
+    "character": "大珠",
+    "segments": [
+      {
+        "kanji": "太陽",
+        "reading": "たいよう"
+      },
+      "のアプリ あっちだね あっちから",
+      {
+        "kanji": "出",
+        "reading": "で"
+      },
+      "る"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0211",
+    "time": "00:10:34,634",
+    "timeEnd": "00:10:35,843",
+    "character": "",
+    "segments": [
+      "そっちからってことは…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0212",
+    "time": "00:10:35,926",
+    "timeEnd": "00:10:38,346",
+    "character": "ギャビー / 大珠",
+    "segments": [
+      "あっちの",
+      {
+        "kanji": "反対",
+        "reading": "はんたい"
+      },
+      {
+        "kanji": "側",
+        "reading": "がわ"
+      },
+      "に あっち",
+      {
+        "kanji": "側",
+        "reading": "がわ"
+      },
+      " ",
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "かないとダメでしょ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0213",
+    "time": "00:10:39,805",
+    "timeEnd": "00:10:43,017",
+    "character": "大珠",
+    "segments": [
+      "なんか ",
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
+      "かと デートしたいとかはないの？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0214",
+    "time": "00:10:43,100",
+    "timeEnd": "00:10:45,186",
+    "character": "",
+    "segments": [
+      "ずっとある"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0215",
+    "time": "00:10:45,269",
+    "timeEnd": "00:10:47,271",
+    "character": "ギャビー",
+    "segments": [
+      "あるけど ",
+      {
+        "kanji": "動",
+        "reading": "うご"
+      },
+      "けないと？ そういう… ",
+      {
+        "kanji": "動",
+        "reading": "うご"
+      },
+      "けない"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0216",
+    "time": "00:10:49,398",
+    "timeEnd": "00:10:54,320",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "他",
+        "reading": "た"
+      },
+      "の",
+      {
+        "kanji": "人",
+        "reading": "ひと"
+      },
+      "が",
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
+      "かに",
+      {
+        "kanji": "向",
+        "reading": "むか"
+      },
+      "いてるのに ",
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "で そこでいくとかって⸺"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0217",
+    "time": "00:10:54,403",
+    "timeEnd": "00:10:57,239",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "人生",
+        "reading": "じんせい"
+      },
+      "で したことなかったのね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0218",
+    "time": "00:10:59,033",
+    "timeEnd": "00:11:00,701",
+    "character": "",
+    "segments": [
+      "でも ほのかがいるじゃん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0219",
+    "time": "00:11:00,785",
+    "timeEnd": "00:11:02,286",
+    "character": "",
+    "segments": [
+      "ほら また",
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "にしてる"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0220",
+    "time": "00:11:02,370",
+    "timeEnd": "00:11:03,954",
+    "character": "ギャビー",
+    "segments": [
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "にしないでって",
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "ったでしょ そうだね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0221",
+    "time": "00:11:04,038",
+    "timeEnd": "00:11:06,582",
+    "character": "ギャビー",
+    "segments": [
+      "でっ ",
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "で",
+      {
+        "kanji": "決",
+        "reading": "き"
+      },
+      "めたんでしょ そうだね ",
+      {
+        "kanji": "分",
+        "reading": "わ"
+      },
+      "かる"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0222",
+    "time": "00:11:09,210",
+    "timeEnd": "00:11:11,629",
+    "character": "ギャビー",
+    "segments": [
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "が",
+      {
+        "kanji": "伝",
+        "reading": "つた"
+      },
+      "えたいことを",
+      {
+        "kanji": "伝",
+        "reading": "つた"
+      },
+      "えて"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0223",
+    "time": "00:11:11,712",
+    "timeEnd": "00:11:13,381",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "残",
+        "reading": "のこ"
+      },
+      "りの",
+      {
+        "kanji": "時間",
+        "reading": "じかん"
+      },
+      " ちゃんと…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0224",
+    "time": "00:11:17,635",
+    "timeEnd": "00:11:20,930",
+    "character": "大珠 / ギャビー",
+    "segments": [
+      "えっ あれは",
+      {
+        "kanji": "違",
+        "reading": "ちが"
+      },
+      "うの？ あと２",
+      {
+        "kanji": "分",
+        "reading": "ふん"
+      },
+      " あと２",
+      {
+        "kanji": "分",
+        "reading": "ふん"
+      },
+      "！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0225",
+    "time": "00:11:22,014",
+    "timeEnd": "00:11:23,265",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "早",
+        "reading": "はや"
+      },
+      "く ",
+      {
+        "kanji": "走",
+        "reading": "はし"
+      },
+      "って！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0226",
+    "time": "00:11:27,436",
+    "timeEnd": "00:11:28,979",
+    "character": "",
+    "segments": [
+      "えー"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0227",
+    "time": "00:11:29,522",
+    "timeEnd": "00:11:31,107",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "日",
+        "reading": "ひ"
+      },
+      "よ",
+      {
+        "kanji": "出",
+        "reading": "で"
+      },
+      "て"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0228",
+    "time": "00:11:32,566",
+    "timeEnd": "00:11:34,944",
+    "character": "大珠",
+    "segments": [
+      "あっ きた！ あれだあれだ あれ！ あれあれ…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0229",
+    "time": "00:11:35,027",
+    "timeEnd": "00:11:36,112",
+    "character": "ギャビー / 大珠",
+    "segments": [
+      "やった！ あれだよ あれ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0230",
+    "time": "00:11:36,195",
+    "timeEnd": "00:11:37,738",
+    "character": "ギャビー",
+    "segments": [
+      "やった やった！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0231",
+    "time": "00:11:50,292",
+    "timeEnd": "00:11:51,627",
+    "character": "大珠 / ギャビー",
+    "segments": [
+      {
+        "kanji": "高",
+        "reading": "たか"
+      },
+      "さ これだっけ？ うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0232",
+    "time": "00:11:51,711",
+    "timeEnd": "00:11:55,673",
+    "character": "",
+    "segments": [
+      "たい… ",
+      {
+        "kanji": "土",
+        "reading": "ど"
+      },
+      "が３",
+      {
+        "kanji": "割",
+        "reading": "わり"
+      },
+      "ぐらいね オーケー"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0233",
+    "time": "00:11:55,756",
+    "timeEnd": "00:11:56,882",
+    "character": "大珠",
+    "segments": [
+      "４",
+      {
+        "kanji": "時",
+        "reading": "じ"
+      },
+      "13",
+      {
+        "kanji": "分",
+        "reading": "ふん"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0234",
+    "time": "00:11:56,966",
+    "timeEnd": "00:11:59,468",
+    "character": "ギャビー",
+    "segments": [
+      "ちょっと",
+      {
+        "kanji": "待",
+        "reading": "ま"
+      },
+      "って ちょっと",
+      {
+        "kanji": "高",
+        "reading": "たか"
+      },
+      "いかな"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0235",
+    "time": "00:11:59,552",
+    "timeEnd": "00:12:01,512",
+    "character": "大珠 / ギャビー",
+    "segments": [
+      {
+        "kanji": "高",
+        "reading": "たか"
+      },
+      "い？ ん…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0236",
+    "time": "00:12:02,430",
+    "timeEnd": "00:12:04,265",
+    "character": "大珠 / ギャビー",
+    "segments": [
+      "スタンバイ オーケー オーケー"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0237",
+    "time": "00:12:04,849",
+    "timeEnd": "00:12:07,726",
+    "character": "大珠",
+    "segments": [
+      "あと",
+      {
+        "kanji": "待",
+        "reading": "ま"
+      },
+      "つだけ ",
+      {
+        "kanji": "全然",
+        "reading": "ぜんぜん"
+      },
+      " あれじゃん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0238",
+    "time": "00:12:07,810",
+    "timeEnd": "00:12:10,855",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "多分",
+        "reading": "たぶん"
+      },
+      " ",
+      {
+        "kanji": "霧",
+        "reading": "きり"
+      },
+      "のあれで ちょっと",
+      {
+        "kanji": "狂",
+        "reading": "くる"
+      },
+      "っちゃってるのかもね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0239",
+    "time": "00:12:12,189",
+    "timeEnd": "00:12:13,858",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "見",
+        "reading": "み"
+      },
+      "えにくくなってて"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0240",
+    "time": "00:12:16,902",
+    "timeEnd": "00:12:17,903",
+    "character": "ギャビー",
+    "segments": [
+      "さむ…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0241",
+    "time": "00:12:20,239",
+    "timeEnd": "00:12:21,115",
+    "character": "大珠",
+    "segments": [
+      "なんか…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0242",
+    "time": "00:12:21,198",
+    "timeEnd": "00:12:23,284",
+    "character": "ギャビー",
+    "segments": [
+      "あの",
+      {
+        "kanji": "木",
+        "reading": "き"
+      },
+      "みたいに ",
+      {
+        "kanji": "立",
+        "reading": "た"
+      },
+      "っとかないと"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0243",
+    "time": "00:12:23,367",
+    "timeEnd": "00:12:25,161",
+    "character": "大珠 / ギャビー",
+    "segments": [
+      "ん？ あの",
+      {
+        "kanji": "木",
+        "reading": "き"
+      },
+      "みたいに"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0244",
+    "time": "00:12:25,244",
+    "timeEnd": "00:12:28,330",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "辛抱強",
+        "reading": "しんぼうづよ"
+      },
+      "く ",
+      {
+        "kanji": "立",
+        "reading": "た"
+      },
+      "っとかないと…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0245",
+    "time": "00:12:30,416",
+    "timeEnd": "00:12:32,168",
+    "character": "RIKU",
+    "segments": [
+      "これ ",
+      {
+        "kanji": "太陽",
+        "reading": "たいよう"
+      },
+      " ",
+      {
+        "kanji": "出",
+        "reading": "で"
+      },
+      "るのかな？ ",
+      {
+        "kanji": "確",
+        "reading": "たし"
+      },
+      "かに"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0246",
+    "time": "00:12:32,251",
+    "timeEnd": "00:12:34,670",
+    "character": "滝沢",
+    "segments": [
+      "こんなきれいになるのかな？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0247",
+    "time": "00:12:34,754",
+    "timeEnd": "00:12:36,881",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "結構",
+        "reading": "けっこう"
+      },
+      " ",
+      {
+        "kanji": "明",
+        "reading": "あか"
+      },
+      "るくなってきてる"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0248",
+    "time": "00:12:37,923",
+    "timeEnd": "00:12:39,133",
+    "character": "ギャビー",
+    "segments": [
+      "さむ…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0249",
+    "time": "00:12:39,216",
+    "timeEnd": "00:12:40,718",
+    "character": "大珠 / ギャビー",
+    "segments": [
+      "え？ さむ…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0250",
+    "time": "00:12:47,516",
+    "timeEnd": "00:12:49,518",
+    "character": "ギャビー / 大珠",
+    "segments": [
+      "え？ ６",
+      {
+        "kanji": "時",
+        "reading": "じ"
+      },
+      "ぐらい"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0251",
+    "time": "00:12:50,102",
+    "timeEnd": "00:12:51,854",
+    "character": "ギャビー / 大珠",
+    "segments": [
+      "もう… ",
+      {
+        "kanji": "全然",
+        "reading": "ぜんぜん"
+      },
+      "やん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0252",
+    "time": "00:12:51,937",
+    "timeEnd": "00:12:53,606",
+    "character": "ギャビー",
+    "segments": [
+      "さっきの",
+      {
+        "kanji": "位置",
+        "reading": "いち"
+      },
+      "が また",
+      {
+        "kanji": "変",
+        "reading": "か"
+      },
+      "わったね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0253",
+    "time": "00:12:53,689",
+    "timeEnd": "00:12:56,859",
+    "character": "",
+    "segments": [
+      "もう ",
+      {
+        "kanji": "木",
+        "reading": "き"
+      },
+      "から",
+      {
+        "kanji": "出",
+        "reading": "で"
+      },
+      "ちゃうよね あと10",
+      {
+        "kanji": "分",
+        "reading": "ふん"
+      },
+      "ぐらいしたら"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0254",
+    "time": "00:12:57,818",
+    "timeEnd": "00:13:00,571",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "北海道",
+        "reading": "ほっかいどう"
+      },
+      "まで",
+      {
+        "kanji": "来",
+        "reading": "き"
+      },
+      "て ",
+      {
+        "kanji": "撮",
+        "reading": "と"
+      },
+      "れなかったら ちょっと…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0255",
+    "time": "00:13:12,416",
+    "timeEnd": "00:13:14,293",
+    "character": "ギャビー",
+    "segments": [
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "珠",
+        "reading": "たま"
+      },
+      " いけー！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0256",
+    "time": "00:13:16,045",
+    "timeEnd": "00:13:17,630",
+    "character": "",
+    "segments": [
+      "プリンスー！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0257",
+    "time": "00:13:19,131",
+    "timeEnd": "00:13:20,925",
+    "character": "大珠",
+    "segments": [
+      "１",
+      {
+        "kanji": "回",
+        "reading": "かい"
+      },
+      " ちょっとさあ ",
+      {
+        "kanji": "話",
+        "reading": "はな"
+      },
+      "そう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0258",
+    "time": "00:13:39,109",
+    "timeEnd": "00:13:40,945",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "珠",
+        "reading": "たま"
+      },
+      "のことが",
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "になってる"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0259",
+    "time": "00:13:41,028",
+    "timeEnd": "00:13:42,363",
+    "character": "大珠 / ギャビー",
+    "segments": [
+      "うん ",
+      {
+        "kanji": "今",
+        "reading": "いま"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0260",
+    "time": "00:13:42,446",
+    "timeEnd": "00:13:45,991",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "珠",
+        "reading": "たま"
+      },
+      "に ",
+      {
+        "kanji": "気持",
+        "reading": "きも"
+      },
+      "ち",
+      {
+        "kanji": "伝",
+        "reading": "つた"
+      },
+      "えたいなと ",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "いました"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0261",
+    "time": "00:14:00,714",
+    "timeEnd": "00:14:02,341",
+    "character": "ギャビー",
+    "segments": [
+      "あっ ",
+      {
+        "kanji": "待",
+        "reading": "ま"
+      },
+      "って あれじゃない？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0262",
+    "time": "00:14:02,424",
+    "timeEnd": "00:14:04,176",
+    "character": "",
+    "segments": [
+      "あの",
+      {
+        "kanji": "真",
+        "reading": "ま"
+      },
+      "ん",
+      {
+        "kanji": "中",
+        "reading": "なか"
+      },
+      "にあるやつだ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0263",
+    "time": "00:14:05,344",
+    "timeEnd": "00:14:06,679",
+    "character": "",
+    "segments": [
+      "あっ ",
+      {
+        "kanji": "太陽",
+        "reading": "たいよう"
+      },
+      " ",
+      {
+        "kanji": "出",
+        "reading": "で"
+      },
+      "てきた！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0264",
+    "time": "00:14:06,762",
+    "timeEnd": "00:14:07,805",
+    "character": "大珠 / ギャビー",
+    "segments": [
+      "あっ ",
+      {
+        "kanji": "本当",
+        "reading": "ほんとう"
+      },
+      "だ ",
+      {
+        "kanji": "太陽",
+        "reading": "たいよう"
+      },
+      " ",
+      {
+        "kanji": "出",
+        "reading": "で"
+      },
+      "てきた"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0265",
+    "time": "00:14:07,888",
+    "timeEnd": "00:14:10,724",
+    "character": "ギャビー",
+    "segments": [
+      "やった やった！ やったー やったー やったー！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0266",
+    "time": "00:14:10,808",
+    "timeEnd": "00:14:13,644",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "太陽",
+        "reading": "たいよう"
+      },
+      " ",
+      {
+        "kanji": "出",
+        "reading": "で"
+      },
+      "てる ",
+      {
+        "kanji": "太陽",
+        "reading": "たいよう"
+      },
+      " ",
+      {
+        "kanji": "出",
+        "reading": "で"
+      },
+      "てる！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0267",
+    "time": "00:14:13,727",
+    "timeEnd": "00:14:14,895",
+    "character": "",
+    "segments": [
+      "あっ きたきたきた…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0268",
+    "time": "00:14:14,979",
+    "timeEnd": "00:14:16,605",
+    "character": "",
+    "segments": [
+      "どうしたらいい？ ",
+      {
+        "kanji": "撮",
+        "reading": "と"
+      },
+      "っていいの？ ",
+      {
+        "kanji": "撮",
+        "reading": "と"
+      },
+      "っていいの？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0269",
+    "time": "00:14:16,689",
+    "timeEnd": "00:14:18,691",
+    "character": "",
+    "segments": [
+      "あっ きてる ",
+      {
+        "kanji": "今",
+        "reading": "こん"
+      },
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      "！ ",
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      "！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0271",
+    "time": "00:14:30,244",
+    "timeEnd": "00:14:32,246",
+    "character": "横澤 / RIKU",
+    "segments": [
+      "わー きれいきれい！ あー すごい！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0272",
+    "time": "00:14:32,329",
+    "timeEnd": "00:14:35,082",
+    "character": "滝沢･矢吹 / 横澤",
+    "segments": [
+      "うわー うわー すごいじゃん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0273",
+    "time": "00:14:38,377",
+    "timeEnd": "00:14:40,963",
+    "character": "ギャビー",
+    "segments": [
+      "２",
+      {
+        "kanji": "時間",
+        "reading": "じかん"
+      },
+      {
+        "kanji": "待",
+        "reading": "ま"
+      },
+      "ち よく",
+      {
+        "kanji": "頑張",
+        "reading": "がんば"
+      },
+      "った"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0274",
+    "time": "00:14:41,046",
+    "timeEnd": "00:14:44,008",
+    "character": "大珠 / ギャビー",
+    "segments": [
+      "やっときたね これ ",
+      {
+        "kanji": "本当",
+        "reading": "ほんとう"
+      },
+      "に やっときた ",
+      {
+        "kanji": "太陽",
+        "reading": "たいよう"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0275",
+    "time": "00:14:44,091",
+    "timeEnd": "00:14:45,676",
+    "character": "",
+    "segments": [
+      "きました"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0276",
+    "time": "00:14:45,759",
+    "timeEnd": "00:14:47,011",
+    "character": "",
+    "segments": [
+      "うれしいね でも"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0277",
+    "time": "00:14:47,094",
+    "timeEnd": "00:14:49,972",
+    "character": "大珠 / ギャビー",
+    "segments": [
+      "ねっ いや もう ",
+      {
+        "kanji": "撮",
+        "reading": "と"
+      },
+      "れると"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0278",
+    "time": "00:14:50,055",
+    "timeEnd": "00:14:53,809",
+    "character": "",
+    "segments": [
+      "いや マジ いいの",
+      {
+        "kanji": "撮",
+        "reading": "と"
+      },
+      "れてるといいね ",
+      {
+        "kanji": "本当",
+        "reading": "ほんとう"
+      },
+      "に"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0279",
+    "time": "00:14:59,648",
+    "timeEnd": "00:15:01,066",
+    "character": "ギャビー",
+    "segments": [
+      "いや ",
+      {
+        "kanji": "撮",
+        "reading": "と"
+      },
+      "れたと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "う"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0280",
+    "time": "00:15:01,150",
+    "timeEnd": "00:15:03,485",
+    "character": "大珠 / ギャビー",
+    "segments": [
+      "ねっ ",
+      {
+        "kanji": "撮",
+        "reading": "と"
+      },
+      "れたと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "うよ うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0281",
+    "time": "00:15:06,822",
+    "timeEnd": "00:15:08,157",
+    "character": "ギャビー",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "？ ",
+      {
+        "kanji": "突",
+        "reading": "つ"
+      },
+      "っ",
+      {
+        "kanji": "込",
+        "reading": "こ"
+      },
+      "んでいいですか？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0282",
+    "time": "00:15:08,240",
+    "timeEnd": "00:15:09,533",
+    "character": "",
+    "segments": [
+      "“",
+      {
+        "kanji": "突",
+        "reading": "つ"
+      },
+      "っ",
+      {
+        "kanji": "込",
+        "reading": "こ"
+      },
+      "んでいい”？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0283",
+    "time": "00:15:09,617",
+    "timeEnd": "00:15:10,534",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "踏",
+        "reading": "ふ"
+      },
+      "み",
+      {
+        "kanji": "込",
+        "reading": "こ"
+      },
+      "んでいいですか？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0284",
+    "time": "00:15:10,618",
+    "timeEnd": "00:15:11,827",
+    "character": "大珠 / ギャビー",
+    "segments": [
+      "“",
+      {
+        "kanji": "踏",
+        "reading": "ふ"
+      },
+      "み",
+      {
+        "kanji": "込",
+        "reading": "こ"
+      },
+      "んでいい”？ ",
+      {
+        "kanji": "食",
+        "reading": "た"
+      },
+      "べてからでいいです"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0285",
+    "time": "00:15:11,910",
+    "timeEnd": "00:15:13,787",
+    "character": "大珠",
+    "segments": [
+      "いや ",
+      {
+        "kanji": "別",
+        "reading": "べつ"
+      },
+      "にいいけど ",
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      "でも"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0286",
+    "time": "00:15:16,624",
+    "timeEnd": "00:15:18,959",
+    "character": "ギャビー",
+    "segments": [
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "珠",
+        "reading": "たま"
+      },
+      "ってさ あんま…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0287",
+    "time": "00:15:20,210",
+    "timeEnd": "00:15:25,466",
+    "character": "",
+    "segments": [
+      "どう",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "ってるとか どう",
+      {
+        "kanji": "感",
+        "reading": "かん"
+      },
+      "じてるとか そういう",
+      {
+        "kanji": "話",
+        "reading": "はなし"
+      },
+      "を",
+      {
+        "kanji": "一",
+        "reading": "いち"
+      },
+      {
+        "kanji": "度",
+        "reading": "ど"
+      },
+      "もしたことなくて"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0288",
+    "time": "00:15:25,549",
+    "timeEnd": "00:15:26,383",
+    "character": "大珠",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0289",
+    "time": "00:15:26,467",
+    "timeEnd": "00:15:33,349",
+    "character": "ギャビー",
+    "segments": [
+      "こう",
+      {
+        "kanji": "単純",
+        "reading": "たんじゅん"
+      },
+      "に ",
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      " ",
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "珠",
+        "reading": "たま"
+      },
+      "が どんな",
+      {
+        "kanji": "気持",
+        "reading": "きも"
+      },
+      "ちで ",
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      "いるんだろうとか"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0290",
+    "time": "00:15:33,432",
+    "timeEnd": "00:15:36,685",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "からは そういう",
+      {
+        "kanji": "話",
+        "reading": "はなし"
+      },
+      " しないタイプだから"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0291",
+    "time": "00:15:36,769",
+    "timeEnd": "00:15:38,854",
+    "character": "ギャビー",
+    "segments": [
+      "あっ ",
+      {
+        "kanji": "俺",
+        "reading": "おれ"
+      },
+      "？ うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0292",
+    "time": "00:15:38,937",
+    "timeEnd": "00:15:40,147",
+    "character": "ギャビー",
+    "segments": [
+      {
+        "kanji": "確",
+        "reading": "たし"
+      },
+      "かに フフ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0293",
+    "time": "00:15:40,230",
+    "timeEnd": "00:15:42,608",
+    "character": "ギャビー",
+    "segments": [
+      "なんか ただ",
+      {
+        "kanji": "見",
+        "reading": "み"
+      },
+      "えないままで"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0294",
+    "time": "00:15:42,691",
+    "timeEnd": "00:15:44,026",
+    "character": "大珠",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0295",
+    "time": "00:15:44,109",
+    "timeEnd": "00:15:46,737",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "残",
+        "reading": "のこ"
+      },
+      "り ",
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "の",
+      {
+        "kanji": "時間",
+        "reading": "じかん"
+      },
+      "を ムダにはしたくない"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0296",
+    "time": "00:15:46,820",
+    "timeEnd": "00:15:48,322",
+    "character": "大珠",
+    "segments": [
+      "はっきり",
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "うと うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0297",
+    "time": "00:15:49,073",
+    "timeEnd": "00:15:51,325",
+    "character": "ギャビー",
+    "segments": [
+      "そう それはごめん ううん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0298",
+    "time": "00:15:54,703",
+    "timeEnd": "00:15:57,164",
+    "character": "",
+    "segments": [
+      "まっ ",
+      {
+        "kanji": "正直",
+        "reading": "しょうじき"
+      },
+      " その…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0299",
+    "time": "00:15:58,332",
+    "timeEnd": "00:16:01,710",
+    "character": "",
+    "segments": [
+      "じゃあ ",
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      " ",
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
+      "が",
+      {
+        "kanji": "一番",
+        "reading": "いちばん"
+      },
+      " ",
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "になってるかっていうのが"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0300",
+    "time": "00:16:03,087",
+    "timeEnd": "00:16:06,966",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "俺",
+        "reading": "おれ"
+      },
+      "は",
+      {
+        "kanji": "正直",
+        "reading": "しょうじき"
+      },
+      " そこの",
+      {
+        "kanji": "面",
+        "reading": "めん"
+      },
+      "でいうと ",
+      {
+        "kanji": "最初",
+        "reading": "さいしょ"
+      },
+      "から",
+      {
+        "kanji": "変",
+        "reading": "か"
+      },
+      "わってはいないの"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0301",
+    "time": "00:16:07,049",
+    "timeEnd": "00:16:08,217",
+    "character": "ギャビー",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0302",
+    "time": "00:16:08,300",
+    "timeEnd": "00:16:09,218",
+    "character": "大珠",
+    "segments": [
+      "ほのかってことだよね うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0303",
+    "time": "00:16:09,301",
+    "timeEnd": "00:16:10,469",
+    "character": "ギャビー",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0304",
+    "time": "00:16:10,552",
+    "timeEnd": "00:16:13,722",
+    "character": "大珠",
+    "segments": [
+      "だから ２",
+      {
+        "kanji": "人",
+        "reading": "にん"
+      },
+      "で",
+      {
+        "kanji": "出",
+        "reading": "で"
+      },
+      "かけてみて⸺"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0305",
+    "time": "00:16:13,806",
+    "timeEnd": "00:16:15,766",
+    "character": "",
+    "segments": [
+      "なんか",
+      {
+        "kanji": "知",
+        "reading": "し"
+      },
+      "りたいなっていう ",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "いがあるのね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0306",
+    "time": "00:16:15,849",
+    "timeEnd": "00:16:16,934",
+    "character": "ギャビー",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0307",
+    "time": "00:16:18,977",
+    "timeEnd": "00:16:21,855",
+    "character": "大珠",
+    "segments": [
+      {
+        "kanji": "待",
+        "reading": "ま"
+      },
+      "ってると",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "うよ うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0308",
+    "time": "00:16:21,939",
+    "timeEnd": "00:16:24,525",
+    "character": "",
+    "segments": [
+      "ほのかも なんだかんだ",
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "から…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0309",
+    "time": "00:16:31,198",
+    "timeEnd": "00:16:32,491",
+    "character": "",
+    "segments": [
+      "ギャビは…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0310",
+    "time": "00:16:36,286",
+    "timeEnd": "00:16:38,747",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "正直",
+        "reading": "しょうじき"
+      },
+      "ね ほのかを",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "ってるなんて どうでもいい"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0311",
+    "time": "00:16:38,831",
+    "timeEnd": "00:16:40,708",
+    "character": "大珠",
+    "segments": [
+      "そんなの",
+      {
+        "kanji": "分",
+        "reading": "わ"
+      },
+      "かってるし うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0312",
+    "time": "00:16:40,791",
+    "timeEnd": "00:16:43,001",
+    "character": "大珠",
+    "segments": [
+      "そんなの",
+      {
+        "kanji": "最初",
+        "reading": "さいしょ"
+      },
+      "から",
+      {
+        "kanji": "分",
+        "reading": "わ"
+      },
+      "かってる うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0313",
+    "time": "00:16:44,503",
+    "timeEnd": "00:16:48,590",
+    "character": "",
+    "segments": [
+      "ごめんね ",
+      {
+        "kanji": "伝",
+        "reading": "つた"
+      },
+      "え",
+      {
+        "kanji": "方",
+        "reading": "かた"
+      },
+      "が",
+      {
+        "kanji": "本当",
+        "reading": "ほんとう"
+      },
+      " もう",
+      {
+        "kanji": "泣",
+        "reading": "な"
+      },
+      "きたくないからさ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0314",
+    "time": "00:16:48,674",
+    "timeEnd": "00:16:50,801",
+    "character": "大珠",
+    "segments": [
+      {
+        "kanji": "強",
+        "reading": "つよ"
+      },
+      "く",
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "うしか… うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0315",
+    "time": "00:16:56,724",
+    "timeEnd": "00:16:58,684",
+    "character": "",
+    "segments": [
+      "で… ",
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      " ",
+      {
+        "kanji": "出",
+        "reading": "だ"
+      },
+      "すの おかしいかもしんないけど"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0316",
+    "time": "00:16:58,767",
+    "timeEnd": "00:16:59,601",
+    "character": "大珠",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0317",
+    "time": "00:17:03,772",
+    "timeEnd": "00:17:05,190",
+    "character": "",
+    "segments": [
+      "もらって これ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0318",
+    "time": "00:17:09,486",
+    "timeEnd": "00:17:11,280",
+    "character": "大珠 / ギャビー",
+    "segments": [
+      {
+        "kanji": "江",
+        "reading": "え"
+      },
+      "の",
+      {
+        "kanji": "島",
+        "reading": "しま"
+      },
+      "の",
+      {
+        "kanji": "時",
+        "reading": "とき"
+      },
+      "の？ うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0319",
+    "time": "00:17:11,822",
+    "timeEnd": "00:17:14,742",
+    "character": "大珠",
+    "segments": [
+      "ここにギャビの",
+      {
+        "kanji": "気持",
+        "reading": "きも"
+      },
+      "ちとか… うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0320",
+    "time": "00:17:15,659",
+    "timeEnd": "00:17:17,369",
+    "character": "ギャビー",
+    "segments": [
+      "いろんな",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "いが",
+      {
+        "kanji": "入",
+        "reading": "はい"
+      },
+      "ってるから"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0321",
+    "time": "00:17:17,453",
+    "timeEnd": "00:17:18,287",
+    "character": "大珠",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0322",
+    "time": "00:17:19,037",
+    "timeEnd": "00:17:21,331",
+    "character": "ギャビー",
+    "segments": [
+      {
+        "kanji": "大事",
+        "reading": "だいじ"
+      },
+      "に",
+      {
+        "kanji": "預",
+        "reading": "あず"
+      },
+      "かっててもらいたいかな"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0323",
+    "time": "00:17:21,415",
+    "timeEnd": "00:17:22,499",
+    "character": "大珠",
+    "segments": [
+      {
+        "kanji": "分",
+        "reading": "わ"
+      },
+      "かった"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0324",
+    "time": "00:17:23,542",
+    "timeEnd": "00:17:24,918",
+    "character": "ギャビー",
+    "segments": [
+      "ありがとう うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0325",
+    "time": "00:17:27,504",
+    "timeEnd": "00:17:31,550",
+    "character": "",
+    "segments": [
+      "めっちゃ",
+      {
+        "kanji": "頑張",
+        "reading": "がんば"
+      },
+      "ったんよ すごい",
+      {
+        "kanji": "頑張",
+        "reading": "がんば"
+      },
+      "ったつもりで…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0326",
+    "time": "00:17:33,177",
+    "timeEnd": "00:17:36,930",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "珠",
+        "reading": "たま"
+      },
+      "の",
+      {
+        "kanji": "嫌",
+        "reading": "きら"
+      },
+      "いなとこもある ",
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "珠",
+        "reading": "たま"
+      },
+      "もギャビの",
+      {
+        "kanji": "嫌",
+        "reading": "きら"
+      },
+      "いなとこある"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0327",
+    "time": "00:17:40,017",
+    "timeEnd": "00:17:42,227",
+    "character": "大珠",
+    "segments": [
+      "それでも",
+      {
+        "kanji": "好",
+        "reading": "す"
+      },
+      "きだから うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0328",
+    "time": "00:17:56,867",
+    "timeEnd": "00:17:59,953",
+    "character": "",
+    "segments": [
+      "なんかこう ここまで",
+      {
+        "kanji": "過",
+        "reading": "す"
+      },
+      "ごしてみてさ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0329",
+    "time": "00:18:00,871",
+    "timeEnd": "00:18:03,457",
+    "character": "",
+    "segments": [
+      "ギャビーが どう",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "ってるか",
+      {
+        "kanji": "分",
+        "reading": "わ"
+      },
+      "かんないけど"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0330",
+    "time": "00:18:03,540",
+    "timeEnd": "00:18:05,584",
+    "character": "",
+    "segments": [
+      "なんか",
+      {
+        "kanji": "俺",
+        "reading": "おれ"
+      },
+      "は いい",
+      {
+        "kanji": "関係",
+        "reading": "かんけい"
+      },
+      "にはなれそうだなとは"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0331",
+    "time": "00:18:05,667",
+    "timeEnd": "00:18:06,502",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "最初",
+        "reading": "さいしょ"
+      },
+      "から",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "ってたの"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0332",
+    "time": "00:18:06,585",
+    "timeEnd": "00:18:08,295",
+    "character": "ギャビー / 大珠",
+    "segments": [
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "もかも うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0333",
+    "time": "00:18:09,463",
+    "timeEnd": "00:18:11,632",
+    "character": "大珠",
+    "segments": [
+      "それが",
+      {
+        "kanji": "恋愛",
+        "reading": "れんあい"
+      },
+      "か",
+      {
+        "kanji": "分",
+        "reading": "わ"
+      },
+      "かんないけど うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0334",
+    "time": "00:18:11,715",
+    "timeEnd": "00:18:14,843",
+    "character": "",
+    "segments": [
+      "とりあえず ",
+      {
+        "kanji": "歩",
+        "reading": "あゆ"
+      },
+      "み",
+      {
+        "kanji": "寄",
+        "reading": "よ"
+      },
+      "っ… ",
+      {
+        "kanji": "全力",
+        "reading": "ぜんりょく"
+      },
+      "で",
+      {
+        "kanji": "本当",
+        "reading": "ほんとう"
+      },
+      "にぶつかってみた"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0335",
+    "time": "00:18:14,927",
+    "timeEnd": "00:18:16,178",
+    "character": "大珠",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0336",
+    "time": "00:18:20,599",
+    "timeEnd": "00:18:21,558",
+    "character": "",
+    "segments": [
+      "ありがとう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0337",
+    "time": "00:18:21,642",
+    "timeEnd": "00:18:23,268",
+    "character": "大珠",
+    "segments": [
+      "いや こちらこそ ありがとう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0338",
+    "time": "00:18:35,113",
+    "timeEnd": "00:18:36,240",
+    "character": "",
+    "segments": [
+      "ずーっとこう みんなのために"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0339",
+    "time": "00:18:36,323",
+    "timeEnd": "00:18:38,450",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "一",
+        "reading": "いち"
+      },
+      {
+        "kanji": "歩",
+        "reading": "ほ"
+      },
+      {
+        "kanji": "引",
+        "reading": "ひ"
+      },
+      "いて ",
+      {
+        "kanji": "一",
+        "reading": "いち"
+      },
+      {
+        "kanji": "歩",
+        "reading": "ほ"
+      },
+      {
+        "kanji": "引",
+        "reading": "ひ"
+      },
+      "いて ずっとやってたけど"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0340",
+    "time": "00:18:38,534",
+    "timeEnd": "00:18:39,368",
+    "character": "横澤",
+    "segments": [
+      {
+        "kanji": "確",
+        "reading": "たし"
+      },
+      "かに"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0341",
+    "time": "00:18:39,451",
+    "timeEnd": "00:18:42,287",
+    "character": "",
+    "segments": [
+      "なんかこう ほのかが ",
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "珠",
+        "reading": "たま"
+      },
+      "のこと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "ってるって"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0342",
+    "time": "00:18:42,371",
+    "timeEnd": "00:18:44,248",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "関係",
+        "reading": "かんけい"
+      },
+      "ないって ",
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "ったじゃないですか？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0343",
+    "time": "00:18:44,331",
+    "timeEnd": "00:18:47,918",
+    "character": "",
+    "segments": [
+      "あれって すごく ",
+      {
+        "kanji": "勇気",
+        "reading": "ゆうき"
+      },
+      "のいる",
+      {
+        "kanji": "言葉",
+        "reading": "ことば"
+      },
+      "だし"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0344",
+    "time": "00:18:48,502",
+    "timeEnd": "00:18:49,878",
+    "character": "",
+    "segments": [
+      "で… あそこまで",
+      {
+        "kanji": "行動",
+        "reading": "こうどう"
+      },
+      "を⸺"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0345",
+    "time": "00:18:49,962",
+    "timeEnd": "00:18:51,130",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "一",
+        "reading": "いち"
+      },
+      {
+        "kanji": "歩",
+        "reading": "ほ"
+      },
+      {
+        "kanji": "踏",
+        "reading": "ふ"
+      },
+      "み",
+      {
+        "kanji": "込",
+        "reading": "こ"
+      },
+      "める っていうのは"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0346",
+    "time": "00:18:51,213",
+    "timeEnd": "00:18:52,589",
+    "character": "",
+    "segments": [
+      "ギャビーの",
+      {
+        "kanji": "中",
+        "reading": "なか"
+      },
+      "で１",
+      {
+        "kanji": "個",
+        "reading": "こ"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0347",
+    "time": "00:18:52,673",
+    "timeEnd": "00:18:54,925",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "成長",
+        "reading": "せいちょう"
+      },
+      "があった からこそだと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "うし…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0348",
+    "time": "00:18:55,008",
+    "timeEnd": "00:18:56,927",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "泣",
+        "reading": "な"
+      },
+      "くのはずるいって ",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "ってんだろうね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0349",
+    "time": "00:18:57,010",
+    "timeEnd": "00:18:58,095",
+    "character": "横澤",
+    "segments": [
+      {
+        "kanji": "本当",
+        "reading": "ほんとう"
+      },
+      " そうなんですよね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0350",
+    "time": "00:18:58,178",
+    "timeEnd": "00:19:00,055",
+    "character": "",
+    "segments": [
+      "ダメだっていうね ",
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "を",
+      {
+        "kanji": "律",
+        "reading": "りっ"
+      },
+      "して"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0351",
+    "time": "00:19:00,139",
+    "timeEnd": "00:19:02,391",
+    "character": "",
+    "segments": [
+      "いや ",
+      {
+        "kanji": "強",
+        "reading": "つよ"
+      },
+      "いなあ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0352",
+    "time": "00:19:05,185",
+    "timeEnd": "00:19:07,187",
+    "character": "桜子",
+    "segments": [
+      "みんな おなかすいてる？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0353",
+    "time": "00:19:07,271",
+    "timeEnd": "00:19:08,647",
+    "character": "Mikako / 桜子",
+    "segments": [
+      "すきました すいた？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0354",
+    "time": "00:19:08,730",
+    "timeEnd": "00:19:10,023",
+    "character": "一同",
+    "segments": [
+      "すいたー"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0355",
+    "time": "00:19:10,107",
+    "timeEnd": "00:19:11,441",
+    "character": "ロビン / 桜子",
+    "segments": [
+      {
+        "kanji": "結構",
+        "reading": "けっこう"
+      },
+      " ",
+      {
+        "kanji": "作業",
+        "reading": "さぎょう"
+      },
+      "してるもんね そう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0356",
+    "time": "00:19:11,525",
+    "timeEnd": "00:19:14,570",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "今日",
+        "reading": "きょう"
+      },
+      "はね ",
+      {
+        "kanji": "作業",
+        "reading": "さぎょう"
+      },
+      " ",
+      {
+        "kanji": "結構",
+        "reading": "けっこう"
+      },
+      " ",
+      {
+        "kanji": "頑張",
+        "reading": "がんば"
+      },
+      "って",
+      {
+        "kanji": "進",
+        "reading": "すす"
+      },
+      "んだし"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0357",
+    "time": "00:19:14,653",
+    "timeEnd": "00:19:17,030",
+    "character": "",
+    "segments": [
+      "ご",
+      {
+        "kanji": "飯",
+        "reading": "はん"
+      },
+      "を",
+      {
+        "kanji": "作",
+        "reading": "つく"
+      },
+      "って みんなで",
+      {
+        "kanji": "食",
+        "reading": "た"
+      },
+      "べるっていうのも"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0358",
+    "time": "00:19:17,114",
+    "timeEnd": "00:19:18,532",
+    "character": "",
+    "segments": [
+      "ありかなって",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "って"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0359",
+    "time": "00:19:18,615",
+    "timeEnd": "00:19:20,325",
+    "character": "じゅり / Mikako",
+    "segments": [
+      "いいね ありがとうございます"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0360",
+    "time": "00:19:20,409",
+    "timeEnd": "00:19:21,493",
+    "character": "",
+    "segments": [
+      "いいと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "う"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0361",
+    "time": "00:19:21,577",
+    "timeEnd": "00:19:24,663",
+    "character": "",
+    "segments": [
+      "じゃあ ",
+      {
+        "kanji": "買",
+        "reading": "か"
+      },
+      "い",
+      {
+        "kanji": "出",
+        "reading": "だ"
+      },
+      "しに",
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "ってくるので"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0362",
+    "time": "00:19:24,746",
+    "timeEnd": "00:19:25,664",
+    "character": "Mikako",
+    "segments": [
+      "じゃあ ",
+      {
+        "kanji": "俺",
+        "reading": "おれ"
+      },
+      "… ",
+      {
+        "kanji": "買",
+        "reading": "か"
+      },
+      "いに",
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "く？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0363",
+    "time": "00:19:25,747",
+    "timeEnd": "00:19:27,666",
+    "character": "",
+    "segments": [
+      "うん ",
+      {
+        "kanji": "俺",
+        "reading": "おれ"
+      },
+      " ",
+      {
+        "kanji": "外",
+        "reading": "そと"
+      },
+      " ",
+      {
+        "kanji": "出",
+        "reading": "で"
+      },
+      "たいわ ",
+      {
+        "kanji": "普通",
+        "reading": "ふつう"
+      },
+      "に"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0364",
+    "time": "00:19:27,749",
+    "timeEnd": "00:19:29,001",
+    "character": "桜子 / Who-ya",
+    "segments": [
+      "じゃあ ",
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "きましょうか うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0365",
+    "time": "00:19:29,084",
+    "timeEnd": "00:19:31,169",
+    "character": "Mikako / Who-ya",
+    "segments": [
+      "お",
+      {
+        "kanji": "願",
+        "reading": "ねが"
+      },
+      "いしていいですか じゃあ らこ",
+      {
+        "kanji": "先生",
+        "reading": "せんせい"
+      },
+      "と"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0366",
+    "time": "00:19:31,253",
+    "timeEnd": "00:19:32,880",
+    "character": "じゅり / 桜子",
+    "segments": [
+      "お",
+      {
+        "kanji": "願",
+        "reading": "ねが"
+      },
+      "いします うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0367",
+    "time": "00:19:32,963",
+    "timeEnd": "00:19:35,048",
+    "character": "Who-ya / Mikako",
+    "segments": [
+      {
+        "kanji": "買",
+        "reading": "か"
+      },
+      "い",
+      {
+        "kanji": "出",
+        "reading": "だ"
+      },
+      "ししてくるわ お",
+      {
+        "kanji": "願",
+        "reading": "ねが"
+      },
+      "いします"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0368",
+    "time": "00:19:35,132",
+    "timeEnd": "00:19:36,091",
+    "character": "Who-ya",
+    "segments": [
+      "ほい じゃあ",
+      {
+        "kanji": "行",
+        "reading": "おこな"
+      },
+      "ってきます！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0369",
+    "time": "00:19:36,175",
+    "timeEnd": "00:19:38,218",
+    "character": "Mikako / ロビン",
+    "segments": [
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "をつけてね ありがとね お",
+      {
+        "kanji": "願",
+        "reading": "ねが"
+      },
+      "いしまーす"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0370",
+    "time": "00:19:38,302",
+    "timeEnd": "00:19:40,012",
+    "character": "桜子 / Mikako",
+    "segments": [
+      "いってきます ",
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "をつけて"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0371",
+    "time": "00:19:44,850",
+    "timeEnd": "00:19:46,476",
+    "character": "ロビン",
+    "segments": [
+      "でも ",
+      {
+        "kanji": "実際",
+        "reading": "じっさい"
+      },
+      " その ",
+      {
+        "kanji": "青森",
+        "reading": "あおもり"
+      },
+      "から ",
+      {
+        "kanji": "行",
+        "reading": "おこな"
+      },
+      "って⸺"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0372",
+    "time": "00:19:46,560",
+    "timeEnd": "00:19:48,687",
+    "character": "",
+    "segments": [
+      "いろいろ",
+      {
+        "kanji": "変",
+        "reading": "か"
+      },
+      "わった？ どう？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0373",
+    "time": "00:19:49,187",
+    "timeEnd": "00:19:54,902",
+    "character": "トモキ",
+    "segments": [
+      {
+        "kanji": "彼女",
+        "reading": "かのじょ"
+      },
+      "に",
+      {
+        "kanji": "対",
+        "reading": "たい"
+      },
+      "する",
+      {
+        "kanji": "気持",
+        "reading": "きも"
+      },
+      "ちは ",
+      {
+        "kanji": "大",
+        "reading": "おお"
+      },
+      "きくなったというか ",
+      {
+        "kanji": "強",
+        "reading": "つよ"
+      },
+      "くなった"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0374",
+    "time": "00:19:54,985",
+    "timeEnd": "00:19:56,236",
+    "character": "ロビン",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0375",
+    "time": "00:19:56,320",
+    "timeEnd": "00:19:59,781",
+    "character": "",
+    "segments": [
+      "ちょっとやっぱ モヤモヤする ",
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      "？ ２",
+      {
+        "kanji": "人",
+        "reading": "にん"
+      },
+      "が",
+      {
+        "kanji": "行",
+        "reading": "おこな"
+      },
+      "ってて"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0376",
+    "time": "00:20:00,407",
+    "timeEnd": "00:20:03,452",
+    "character": "",
+    "segments": [
+      "モヤモヤというか ",
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "になりはしますね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0377",
+    "time": "00:20:03,535",
+    "timeEnd": "00:20:05,037",
+    "character": "ロビン",
+    "segments": [
+      "そうだよね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0378",
+    "time": "00:20:07,039",
+    "timeEnd": "00:20:08,790",
+    "character": "桜子",
+    "segments": [
+      "ちゃんと",
+      {
+        "kanji": "作",
+        "reading": "つく"
+      },
+      "れたらいいけど"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0379",
+    "time": "00:20:08,874",
+    "timeEnd": "00:20:09,917",
+    "character": "Who-ya",
+    "segments": [
+      "うーん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0380",
+    "time": "00:20:10,667",
+    "timeEnd": "00:20:13,587",
+    "character": "桜子",
+    "segments": [
+      "でも ",
+      {
+        "kanji": "脱落",
+        "reading": "だつらく"
+      },
+      "が",
+      {
+        "kanji": "終",
+        "reading": "お"
+      },
+      "わったからさ ",
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
+      "も",
+      {
+        "kanji": "落",
+        "reading": "お"
+      },
+      "ちなかったじゃん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0381",
+    "time": "00:20:13,670",
+    "timeEnd": "00:20:14,755",
+    "character": "Who-ya",
+    "segments": [
+      "そうだね この",
+      {
+        "kanji": "前",
+        "reading": "まえ"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0382",
+    "time": "00:20:14,838",
+    "timeEnd": "00:20:19,134",
+    "character": "",
+    "segments": [
+      "なんか あれが ",
+      {
+        "kanji": "結構",
+        "reading": "けっこう"
+      },
+      " ",
+      {
+        "kanji": "私的",
+        "reading": "してき"
+      },
+      "に すごいうれしくて"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0383",
+    "time": "00:20:19,217",
+    "timeEnd": "00:20:21,887",
+    "character": "",
+    "segments": [
+      "あまり",
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "からみんなと⸺"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0384",
+    "time": "00:20:21,970",
+    "timeEnd": "00:20:24,973",
+    "character": "",
+    "segments": [
+      "そう ",
+      {
+        "kanji": "積極",
+        "reading": "せっきょく"
+      },
+      {
+        "kanji": "的",
+        "reading": "てき"
+      },
+      "に",
+      {
+        "kanji": "仲良",
+        "reading": "なかよ"
+      },
+      "くなるっていうの どっか ちゅうちょしちゃってて"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0385",
+    "time": "00:20:25,057",
+    "timeEnd": "00:20:27,100",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "が いなくなるかもしれないのに"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0386",
+    "time": "00:20:27,184",
+    "timeEnd": "00:20:30,979",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "悲",
+        "reading": "かな"
+      },
+      "しませちゃうかもしれないじゃん？ っていうのが あっ そう… あって"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0387",
+    "time": "00:20:31,063",
+    "timeEnd": "00:20:35,192",
+    "character": "",
+    "segments": [
+      "あんまり ",
+      {
+        "kanji": "結構",
+        "reading": "けっこう"
+      },
+      " うん… ちゅうちょしてた",
+      {
+        "kanji": "部分",
+        "reading": "ぶぶん"
+      },
+      "もあったけど"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0388",
+    "time": "00:20:35,275",
+    "timeEnd": "00:20:40,322",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "脱落",
+        "reading": "だつらく"
+      },
+      "も",
+      {
+        "kanji": "終",
+        "reading": "お"
+      },
+      "わって みんなと",
+      {
+        "kanji": "距離",
+        "reading": "きょり"
+      },
+      {
+        "kanji": "縮",
+        "reading": "ちぢ"
+      },
+      "めれたらなって",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "ってる"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0389",
+    "time": "00:20:40,405",
+    "timeEnd": "00:20:42,324",
+    "character": "Who-ya",
+    "segments": [
+      "それは え？ ",
+      {
+        "kanji": "女",
+        "reading": "おんな"
+      },
+      "の",
+      {
+        "kanji": "子",
+        "reading": "こ"
+      },
+      "とも ",
+      {
+        "kanji": "男",
+        "reading": "おとこ"
+      },
+      "の",
+      {
+        "kanji": "子",
+        "reading": "こ"
+      },
+      "とも？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0390",
+    "time": "00:20:42,407",
+    "timeEnd": "00:20:44,701",
+    "character": "桜子",
+    "segments": [
+      "そう ",
+      {
+        "kanji": "女",
+        "reading": "おんな"
+      },
+      "の",
+      {
+        "kanji": "子",
+        "reading": "こ"
+      },
+      "とも ",
+      {
+        "kanji": "男",
+        "reading": "おとこ"
+      },
+      "の",
+      {
+        "kanji": "子",
+        "reading": "こ"
+      },
+      "とも"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0391",
+    "time": "00:20:46,662",
+    "timeEnd": "00:20:50,082",
+    "character": "Who-ya",
+    "segments": [
+      "なんか すげえさ めっちゃ ぶっ",
+      {
+        "kanji": "込",
+        "reading": "こ"
+      },
+      "んだこと",
+      {
+        "kanji": "聞",
+        "reading": "き"
+      },
+      "いていい？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0392",
+    "time": "00:20:50,165",
+    "timeEnd": "00:20:51,041",
+    "character": "",
+    "segments": [
+      "もちろん もちろん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0393",
+    "time": "00:20:51,124",
+    "timeEnd": "00:20:52,668",
+    "character": "Who-ya",
+    "segments": [
+      "なんか…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0394",
+    "time": "00:20:52,751",
+    "timeEnd": "00:20:57,464",
+    "character": "",
+    "segments": [
+      "らこ",
+      {
+        "kanji": "的",
+        "reading": "てき"
+      },
+      "には もう トモキしか",
+      {
+        "kanji": "見",
+        "reading": "み"
+      },
+      "えないって",
+      {
+        "kanji": "感",
+        "reading": "かん"
+      },
+      "じなの？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0395",
+    "time": "00:20:58,924",
+    "timeEnd": "00:21:01,677",
+    "character": "",
+    "segments": [
+      "すごい",
+      {
+        "kanji": "本当",
+        "reading": "ほんとう"
+      },
+      "にいい",
+      {
+        "kanji": "子",
+        "reading": "こ"
+      },
+      "だと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "うし ",
+      {
+        "kanji": "優",
+        "reading": "やさ"
+      },
+      "しいしさ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0396",
+    "time": "00:21:01,760",
+    "timeEnd": "00:21:05,055",
+    "character": "Who-ya / 桜子",
+    "segments": [
+      "そうだね なんか",
+      {
+        "kanji": "丁寧",
+        "reading": "ていねい"
+      },
+      "だし"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0397",
+    "time": "00:21:06,723",
+    "timeEnd": "00:21:10,143",
+    "character": "",
+    "segments": [
+      "うーん なんか",
+      {
+        "kanji": "本当",
+        "reading": "ほんとう"
+      },
+      "に",
+      {
+        "kanji": "普通",
+        "reading": "ふつう"
+      },
+      "… ",
+      {
+        "kanji": "本当",
+        "reading": "ほんとう"
+      },
+      "に いい",
+      {
+        "kanji": "子",
+        "reading": "こ"
+      },
+      "だなって",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "うんだけど"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0398",
+    "time": "00:21:10,227",
+    "timeEnd": "00:21:12,145",
+    "character": "",
+    "segments": [
+      "なんか ",
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      {
+        "kanji": "自身",
+        "reading": "じしん"
+      },
+      "が"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0399",
+    "time": "00:21:13,563",
+    "timeEnd": "00:21:15,732",
+    "character": "",
+    "segments": [
+      "“はい ",
+      {
+        "kanji": "好",
+        "reading": "す"
+      },
+      "き！”って すぐになれないから"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0400",
+    "time": "00:21:15,816",
+    "timeEnd": "00:21:17,567",
+    "character": "桜子",
+    "segments": [
+      "うん なんか よく",
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "ってたもんね そう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0401",
+    "time": "00:21:17,651",
+    "timeEnd": "00:21:22,364",
+    "character": "",
+    "segments": [
+      "だから ",
+      {
+        "kanji": "気持",
+        "reading": "きも"
+      },
+      "ちが",
+      {
+        "kanji": "追",
+        "reading": "お"
+      },
+      "いつけてないな っていうのは すごいあって"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0402",
+    "time": "00:21:22,447",
+    "timeEnd": "00:21:23,282",
+    "character": "",
+    "segments": [
+      "きてくれるから"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0403",
+    "time": "00:21:23,365",
+    "timeEnd": "00:21:25,325",
+    "character": "",
+    "segments": [
+      "“はい じゃあトモキ",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "です” っていうわけにはいかないじゃん？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0404",
+    "time": "00:21:25,409",
+    "timeEnd": "00:21:26,660",
+    "character": "Who-ya",
+    "segments": [
+      "そんな… まあ そうだね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0405",
+    "time": "00:21:26,743",
+    "timeEnd": "00:21:30,414",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "が なんか ねっ こう",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "うとかさ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0406",
+    "time": "00:21:30,497",
+    "timeEnd": "00:21:32,708",
+    "character": "",
+    "segments": [
+      "こうしたいってことの",
+      {
+        "kanji": "方",
+        "reading": "ほう"
+      },
+      "が ",
+      {
+        "kanji": "多分",
+        "reading": "たぶん"
+      },
+      " ",
+      {
+        "kanji": "大事",
+        "reading": "だいじ"
+      },
+      "だと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "うから"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0407",
+    "time": "00:21:32,791",
+    "timeEnd": "00:21:33,834",
+    "character": "桜子",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0408",
+    "time": "00:21:35,335",
+    "timeEnd": "00:21:37,004",
+    "character": "Who-ya",
+    "segments": [
+      "そう… うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0409",
+    "time": "00:21:37,087",
+    "timeEnd": "00:21:37,921",
+    "character": "",
+    "segments": [
+      "…って",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "うかな"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0410",
+    "time": "00:21:38,005",
+    "timeEnd": "00:21:39,089",
+    "character": "",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0411",
+    "time": "00:21:41,967",
+    "timeEnd": "00:21:45,178",
+    "character": "",
+    "segments": [
+      "なんかWho-yaに",
+      {
+        "kanji": "気持",
+        "reading": "きも"
+      },
+      "ちを…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0412",
+    "time": "00:21:45,262",
+    "timeEnd": "00:21:48,348",
+    "character": "横澤",
+    "segments": [
+      "ね！ もうちょっとで",
+      {
+        "kanji": "気持",
+        "reading": "きも"
+      },
+      "ちを… そうそう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0413",
+    "time": "00:21:48,432",
+    "timeEnd": "00:21:51,059",
+    "character": "",
+    "segments": [
+      "こう とられちゃう",
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "がする Who-ya",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "に"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0414",
+    "time": "00:21:51,143",
+    "timeEnd": "00:21:54,521",
+    "character": "",
+    "segments": [
+      "そこまでトモキに",
+      {
+        "kanji": "対",
+        "reading": "たい"
+      },
+      "しての ",
+      {
+        "kanji": "気持",
+        "reading": "きも"
+      },
+      "ちがあんまないのかな？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0415",
+    "time": "00:21:54,604",
+    "timeEnd": "00:21:56,106",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "桜子",
+        "reading": "さくらこ"
+      },
+      "ちゃん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0416",
+    "time": "00:21:58,859",
+    "timeEnd": "00:22:00,777",
+    "character": "トモキ / じゅり",
+    "segments": [
+      "うん …ってことは"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0417",
+    "time": "00:22:00,861",
+    "timeEnd": "00:22:03,322",
+    "character": "",
+    "segments": [
+      "オオカミも",
+      {
+        "kanji": "落",
+        "reading": "お"
+      },
+      "ちてない"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0418",
+    "time": "00:22:03,405",
+    "timeEnd": "00:22:04,740",
+    "character": "Mikako / じゅり",
+    "segments": [
+      "そういうこと …よね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0419",
+    "time": "00:22:04,823",
+    "timeEnd": "00:22:06,199",
+    "character": "ロビン",
+    "segments": [
+      "そうだ…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0420",
+    "time": "00:22:06,992",
+    "timeEnd": "00:22:12,247",
+    "character": "じゅり",
+    "segments": [
+      "で… ",
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      " ",
+      {
+        "kanji": "好",
+        "reading": "す"
+      },
+      "きな",
+      {
+        "kanji": "女",
+        "reading": "おんな"
+      },
+      "の",
+      {
+        "kanji": "子",
+        "reading": "こ"
+      },
+      "が オオカミだった",
+      {
+        "kanji": "場合",
+        "reading": "ばあい"
+      },
+      "どうする？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0421",
+    "time": "00:22:12,331",
+    "timeEnd": "00:22:13,373",
+    "character": "Mikako",
+    "segments": [
+      {
+        "kanji": "確",
+        "reading": "たし"
+      },
+      "かに"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0422",
+    "time": "00:22:18,128",
+    "timeEnd": "00:22:20,172",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "告白",
+        "reading": "こくはく"
+      },
+      "して オオカミだったってこと？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0423",
+    "time": "00:22:20,255",
+    "timeEnd": "00:22:22,466",
+    "character": "",
+    "segments": [
+      "それとも その",
+      {
+        "kanji": "前",
+        "reading": "まえ"
+      },
+      "に ",
+      {
+        "kanji": "気付",
+        "reading": "きづ"
+      },
+      "いちゃったってこと？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0424",
+    "time": "00:22:22,549",
+    "timeEnd": "00:22:23,800",
+    "character": "じゅり",
+    "segments": [
+      "どっちでも",
+      {
+        "kanji": "聞",
+        "reading": "き"
+      },
+      "きたい"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0425",
+    "time": "00:22:23,884",
+    "timeEnd": "00:22:25,927",
+    "character": "ロビン",
+    "segments": [
+      {
+        "kanji": "気付",
+        "reading": "きづ"
+      },
+      "くパターンってあるのかな？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0426",
+    "time": "00:22:26,011",
+    "timeEnd": "00:22:26,970",
+    "character": "Mikako",
+    "segments": [
+      "あると",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "う"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0427",
+    "time": "00:22:27,054",
+    "timeEnd": "00:22:28,847",
+    "character": "ロビン / Mikako",
+    "segments": [
+      "まあ そうだよね うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0428",
+    "time": "00:22:29,556",
+    "timeEnd": "00:22:32,726",
+    "character": "",
+    "segments": [
+      "だって もう ",
+      {
+        "kanji": "脱落",
+        "reading": "だつらく"
+      },
+      "も",
+      {
+        "kanji": "終",
+        "reading": "お"
+      },
+      "わって"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0429",
+    "time": "00:22:33,769",
+    "timeEnd": "00:22:36,813",
+    "character": "",
+    "segments": [
+      "“あれ？”って ",
+      {
+        "kanji": "違和感",
+        "reading": "いわかん"
+      },
+      "が",
+      {
+        "kanji": "出",
+        "reading": "で"
+      },
+      "てくる",
+      {
+        "kanji": "瞬間",
+        "reading": "しゅんかん"
+      },
+      "って⸺"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0430",
+    "time": "00:22:36,897",
+    "timeEnd": "00:22:40,734",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "絶対",
+        "reading": "ぜったい"
+      },
+      " このタイミングだと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "う ",
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      "から"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0431",
+    "time": "00:22:40,817",
+    "timeEnd": "00:22:42,110",
+    "character": "じゅり / Mikako",
+    "segments": [
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      "… これからね うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0432",
+    "time": "00:22:42,194",
+    "timeEnd": "00:22:43,236",
+    "character": "じゅり",
+    "segments": [
+      "そう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0433",
+    "time": "00:22:45,697",
+    "timeEnd": "00:22:46,907",
+    "character": "Mikako",
+    "segments": [
+      "あるよね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0434",
+    "time": "00:22:54,748",
+    "timeEnd": "00:22:56,249",
+    "character": "ロビン",
+    "segments": [
+      "トモキ どうする？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0435",
+    "time": "00:22:56,833",
+    "timeEnd": "00:23:01,963",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "途中",
+        "reading": "とちゅう"
+      },
+      "で",
+      {
+        "kanji": "気付",
+        "reading": "きづ"
+      },
+      "いても… いく"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0436",
+    "time": "00:23:03,548",
+    "timeEnd": "00:23:04,466",
+    "character": "Mikako",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0437",
+    "time": "00:23:06,093",
+    "timeEnd": "00:23:08,387",
+    "character": "トモキ",
+    "segments": [
+      "かっこいいね ありがとう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0438",
+    "time": "00:23:09,179",
+    "timeEnd": "00:23:10,180",
+    "character": "じゅり",
+    "segments": [
+      "ねっ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0439",
+    "time": "00:23:16,853",
+    "timeEnd": "00:23:19,272",
+    "character": "",
+    "segments": [
+      "ちょっと じゅり ",
+      {
+        "kanji": "俺",
+        "reading": "おれ"
+      },
+      " ",
+      {
+        "kanji": "話",
+        "reading": "はな"
+      },
+      "したいんだよね ２",
+      {
+        "kanji": "人",
+        "reading": "にん"
+      },
+      "で"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0440",
+    "time": "00:23:19,356",
+    "timeEnd": "00:23:20,440",
+    "character": "じゅり",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0441",
+    "time": "00:23:21,900",
+    "timeEnd": "00:23:23,777",
+    "character": "Mikako / ロビン",
+    "segments": [
+      {
+        "kanji": "話",
+        "reading": "はな"
+      },
+      "してくる？ いい？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0442",
+    "time": "00:23:23,860",
+    "timeEnd": "00:23:26,571",
+    "character": "じゅり / ロビン",
+    "segments": [
+      "うん？ うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0443",
+    "time": "00:23:26,655",
+    "timeEnd": "00:23:27,781",
+    "character": "じゅり",
+    "segments": [
+      "ありがとう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0444",
+    "time": "00:23:31,159",
+    "timeEnd": "00:23:32,494",
+    "character": "ロビン",
+    "segments": [
+      "〈じゅり そこに",
+      {
+        "kanji": "座",
+        "reading": "すわ"
+      },
+      "ってくれる？〉"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0445",
+    "time": "00:23:32,577",
+    "timeEnd": "00:23:33,120",
+    "character": "じゅり",
+    "segments": [
+      "そっち？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0446",
+    "time": "00:23:33,120",
+    "timeEnd": "00:23:33,995",
+    "character": "ロビン",
+    "segments": [
+      "〈うん〉"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0447",
+    "time": "00:23:33,120",
+    "timeEnd": "00:23:33,995",
+    "character": "じゅり",
+    "segments": [
+      "そっち？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0448",
+    "time": "00:23:40,627",
+    "timeEnd": "00:23:41,753",
+    "character": "ロビン",
+    "segments": [
+      "なんか…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0449",
+    "time": "00:23:42,504",
+    "timeEnd": "00:23:44,881",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      "まで ",
+      {
+        "kanji": "俺",
+        "reading": "おれ"
+      },
+      " じゅりの",
+      {
+        "kanji": "写真",
+        "reading": "しゃしん"
+      },
+      " ",
+      {
+        "kanji": "結構",
+        "reading": "けっこう"
+      },
+      " ",
+      {
+        "kanji": "撮",
+        "reading": "と"
+      },
+      "ってたんだけど"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0450",
+    "time": "00:23:44,965",
+    "timeEnd": "00:23:45,966",
+    "character": "じゅり",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0451",
+    "time": "00:23:47,884",
+    "timeEnd": "00:23:49,511",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "見返",
+        "reading": "みかえ"
+      },
+      "して…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0452",
+    "time": "00:23:51,429",
+    "timeEnd": "00:23:56,435",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "一番",
+        "reading": "いちばん"
+      },
+      {
+        "kanji": "最初",
+        "reading": "さいしょ"
+      },
+      "に",
+      {
+        "kanji": "撮",
+        "reading": "と"
+      },
+      "った",
+      {
+        "kanji": "写真",
+        "reading": "しゃしん"
+      },
+      "の",
+      {
+        "kanji": "笑顔",
+        "reading": "えがお"
+      },
+      "が？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0453",
+    "time": "00:23:57,519",
+    "timeEnd": "00:24:00,147",
+    "character": "",
+    "segments": [
+      "こう",
+      {
+        "kanji": "一番",
+        "reading": "いちばん"
+      },
+      "よかったんだよ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0454",
+    "time": "00:24:00,230",
+    "timeEnd": "00:24:02,274",
+    "character": "ロビン",
+    "segments": [
+      "ハハハハ フフフ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0455",
+    "time": "00:24:02,357",
+    "timeEnd": "00:24:03,650",
+    "character": "ロビン",
+    "segments": [
+      {
+        "kanji": "本当",
+        "reading": "ほんとう"
+      },
+      "？ そう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0456",
+    "time": "00:24:03,733",
+    "timeEnd": "00:24:04,568",
+    "character": "",
+    "segments": [
+      "グランピング？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0457",
+    "time": "00:24:04,651",
+    "timeEnd": "00:24:05,485",
+    "character": "ロビン",
+    "segments": [
+      "〈うん〉"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0458",
+    "time": "00:24:05,569",
+    "timeEnd": "00:24:06,903",
+    "character": "",
+    "segments": [
+      "グランピングで そう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0459",
+    "time": "00:24:06,987",
+    "timeEnd": "00:24:08,029",
+    "character": "",
+    "segments": [
+      "で…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0460",
+    "time": "00:24:10,323",
+    "timeEnd": "00:24:11,992",
+    "character": "",
+    "segments": [
+      "その",
+      {
+        "kanji": "後",
+        "reading": "ご"
+      },
+      "に"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0461",
+    "time": "00:24:13,743",
+    "timeEnd": "00:24:16,329",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "俺",
+        "reading": "おれ"
+      },
+      " じゅりの",
+      {
+        "kanji": "泣",
+        "reading": "な"
+      },
+      "き",
+      {
+        "kanji": "顔",
+        "reading": "がお"
+      },
+      "ばっかり ",
+      {
+        "kanji": "見",
+        "reading": "み"
+      },
+      "てるなあと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "って"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0462",
+    "time": "00:24:16,413",
+    "timeEnd": "00:24:20,709",
+    "character": "",
+    "segments": [
+      "そこが すごい",
+      {
+        "kanji": "俺",
+        "reading": "おれ"
+      },
+      "の",
+      {
+        "kanji": "中",
+        "reading": "なか"
+      },
+      "で ",
+      {
+        "kanji": "悔",
+        "reading": "くや"
+      },
+      "しかったし うん…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0463",
+    "time": "00:24:20,792",
+    "timeEnd": "00:24:23,712",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      {
+        "kanji": "自身",
+        "reading": "じしん"
+      },
+      "の",
+      {
+        "kanji": "心",
+        "reading": "こころ"
+      },
+      "の",
+      {
+        "kanji": "動",
+        "reading": "うご"
+      },
+      "きに",
+      {
+        "kanji": "対",
+        "reading": "たい"
+      },
+      "して⸺"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0464",
+    "time": "00:24:24,963",
+    "timeEnd": "00:24:28,550",
+    "character": "",
+    "segments": [
+      "なんかもっと なんかすごい もどかしい",
+      {
+        "kanji": "気持",
+        "reading": "きも"
+      },
+      "ちがあった"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0465",
+    "time": "00:24:28,633",
+    "timeEnd": "00:24:29,676",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "俺",
+        "reading": "おれ"
+      },
+      {
+        "kanji": "自身",
+        "reading": "じしん"
+      },
+      "さ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0466",
+    "time": "00:24:29,759",
+    "timeEnd": "00:24:32,304",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "他",
+        "reading": "た"
+      },
+      "のなんか あのまあ こういう",
+      {
+        "kanji": "性格",
+        "reading": "せいかく"
+      },
+      "だからさ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0467",
+    "time": "00:24:32,387",
+    "timeEnd": "00:24:33,388",
+    "character": "じゅり",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0468",
+    "time": "00:24:34,264",
+    "timeEnd": "00:24:36,933",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "他",
+        "reading": "た"
+      },
+      "の",
+      {
+        "kanji": "女",
+        "reading": "おんな"
+      },
+      "の",
+      {
+        "kanji": "子",
+        "reading": "こ"
+      },
+      "とも なんか",
+      {
+        "kanji": "楽",
+        "reading": "たの"
+      },
+      "しくしゃべったりするし"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0469",
+    "time": "00:24:37,017",
+    "timeEnd": "00:24:40,770",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "多分",
+        "reading": "たぶん"
+      },
+      " じゅりは そういうとこも ",
+      {
+        "kanji": "見",
+        "reading": "み"
+      },
+      "てるんだろうなと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "うんだけど"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0470",
+    "time": "00:24:49,821",
+    "timeEnd": "00:24:51,740",
+    "character": "",
+    "segments": [
+      "もう",
+      {
+        "kanji": "不安",
+        "reading": "ふあん"
+      },
+      "にさせたくない"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0471",
+    "time": "00:24:56,661",
+    "timeEnd": "00:24:58,079",
+    "character": "",
+    "segments": [
+      "うん し…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0472",
+    "time": "00:24:59,164",
+    "timeEnd": "00:25:00,540",
+    "character": "",
+    "segments": [
+      "これからは…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0473",
+    "time": "00:25:02,250",
+    "timeEnd": "00:25:04,044",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "俺",
+        "reading": "おれ"
+      },
+      "の",
+      {
+        "kanji": "行動",
+        "reading": "こうどう"
+      },
+      "を",
+      {
+        "kanji": "見",
+        "reading": "み"
+      },
+      "てほしい"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0474",
+    "time": "00:25:06,004",
+    "timeEnd": "00:25:08,590",
+    "character": "",
+    "segments": [
+      "ちゃんとこっからは ",
+      {
+        "kanji": "俺",
+        "reading": "おれ"
+      },
+      "が",
+      {
+        "kanji": "見",
+        "reading": "み"
+      },
+      "せるから"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0475",
+    "time": "00:25:14,429",
+    "timeEnd": "00:25:15,514",
+    "character": "",
+    "segments": [
+      "で…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0476",
+    "time": "00:25:17,599",
+    "timeEnd": "00:25:20,227",
+    "character": "じゅり",
+    "segments": [
+      "これ どっちだろう？ ",
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0477",
+    "time": "00:25:22,562",
+    "timeEnd": "00:25:24,814",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "写真",
+        "reading": "しゃしん"
+      },
+      "も ",
+      {
+        "kanji": "持",
+        "reading": "も"
+      },
+      "っててほしい"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0478",
+    "time": "00:25:25,857",
+    "timeEnd": "00:25:26,983",
+    "character": "",
+    "segments": [
+      "じゅりに…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0479",
+    "time": "00:25:28,818",
+    "timeEnd": "00:25:31,947",
+    "character": "",
+    "segments": [
+      "これから ",
+      {
+        "kanji": "泣",
+        "reading": "な"
+      },
+      "くんじゃなくて ",
+      {
+        "kanji": "笑",
+        "reading": "わら"
+      },
+      "っててほしいから"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0480",
+    "time": "00:25:33,573",
+    "timeEnd": "00:25:34,407",
+    "character": "じゅり",
+    "segments": [
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      " ",
+      {
+        "kanji": "見",
+        "reading": "み"
+      },
+      "ていい？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0481",
+    "time": "00:25:34,491",
+    "timeEnd": "00:25:37,160",
+    "character": "じゅり",
+    "segments": [
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      " ダメ ",
+      {
+        "kanji": "俺",
+        "reading": "おれ"
+      },
+      " ",
+      {
+        "kanji": "恥",
+        "reading": "は"
+      },
+      "ずかしいから",
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "く ",
+      {
+        "kanji": "分",
+        "reading": "わ"
+      },
+      "かった"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0482",
+    "time": "00:25:37,244",
+    "timeEnd": "00:25:37,661",
+    "character": "じゅり",
+    "segments": [
+      "バイバイ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0483",
+    "time": "00:25:37,661",
+    "timeEnd": "00:25:38,245",
+    "character": "ロビン",
+    "segments": [
+      "〈",
+      {
+        "kanji": "俺",
+        "reading": "おれ"
+      },
+      "からのプレゼント〉"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0484",
+    "time": "00:25:37,661",
+    "timeEnd": "00:25:38,245",
+    "character": "じゅり",
+    "segments": [
+      "バイバイ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0485",
+    "time": "00:25:38,245",
+    "timeEnd": "00:25:38,703",
+    "character": "ロビン",
+    "segments": [
+      "〈",
+      {
+        "kanji": "俺",
+        "reading": "おれ"
+      },
+      "からのプレゼント〉"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0486",
+    "time": "00:25:38,787",
+    "timeEnd": "00:25:40,372",
+    "character": "ロビン / じゅり",
+    "segments": [
+      {
+        "kanji": "後",
+        "reading": "あと"
+      },
+      "でね ありがとう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0489",
+    "time": "00:25:51,341",
+    "timeEnd": "00:25:52,551",
+    "character": "",
+    "segments": [
+      "フフフ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0491",
+    "time": "00:26:26,793",
+    "timeEnd": "00:26:28,128",
+    "character": "じゅり",
+    "segments": [
+      "…って",
+      {
+        "kanji": "書",
+        "reading": "か"
+      },
+      "いてる"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0492",
+    "time": "00:26:45,603",
+    "timeEnd": "00:26:47,522",
+    "character": "じゅり",
+    "segments": [
+      {
+        "kanji": "最初",
+        "reading": "さいしょ"
+      },
+      "の…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0493",
+    "time": "00:26:49,316",
+    "timeEnd": "00:26:54,279",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "出会",
+        "reading": "であ"
+      },
+      "った",
+      {
+        "kanji": "時",
+        "reading": "とき"
+      },
+      "の",
+      {
+        "kanji": "笑顔",
+        "reading": "えがお"
+      },
+      "もできないかもな"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0494",
+    "time": "00:26:56,573",
+    "timeEnd": "00:27:00,327",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "逆",
+        "reading": "ぎゃく"
+      },
+      "に ",
+      {
+        "kanji": "本当",
+        "reading": "ほんとう"
+      },
+      "の",
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "が",
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
+      "でも ",
+      {
+        "kanji": "見",
+        "reading": "み"
+      },
+      "てくれないなって",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "ってる"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0496",
+    "time": "00:27:59,135",
+    "timeEnd": "00:28:02,347",
+    "character": "",
+    "segments": [
+      "はー ",
+      {
+        "kanji": "切",
+        "reading": "せつ"
+      },
+      "なーい！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0497",
+    "time": "00:28:02,430",
+    "timeEnd": "00:28:04,474",
+    "character": "矢吹 / 横澤",
+    "segments": [
+      "んー ",
+      {
+        "kanji": "切",
+        "reading": "せつ"
+      },
+      "ないじゃん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0498",
+    "time": "00:28:04,557",
+    "timeEnd": "00:28:06,893",
+    "character": "平子",
+    "segments": [
+      "しんどい",
+      {
+        "kanji": "時",
+        "reading": "とき"
+      },
+      " ",
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "の",
+      {
+        "kanji": "笑顔",
+        "reading": "えがお"
+      },
+      "を",
+      {
+        "kanji": "見",
+        "reading": "み"
+      },
+      "ると",
+      {
+        "kanji": "泣",
+        "reading": "な"
+      },
+      "くんだね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0499",
+    "time": "00:28:06,976",
+    "timeEnd": "00:28:08,269",
+    "character": "横澤･滝沢",
+    "segments": [
+      "ねっ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0500",
+    "time": "00:28:08,353",
+    "timeEnd": "00:28:10,438",
+    "character": "",
+    "segments": [
+      "あの",
+      {
+        "kanji": "時",
+        "reading": "とき"
+      },
+      "には",
+      {
+        "kanji": "戻",
+        "reading": "もど"
+      },
+      "れないって ",
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "ってるけど"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0501",
+    "time": "00:28:10,522",
+    "timeEnd": "00:28:11,898",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "戻",
+        "reading": "もど"
+      },
+      "りたいというか"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0502",
+    "time": "00:28:12,524",
+    "timeEnd": "00:28:15,402",
+    "character": "",
+    "segments": [
+      "あの",
+      {
+        "kanji": "純粋",
+        "reading": "じゅんすい"
+      },
+      "な",
+      {
+        "kanji": "時",
+        "reading": "とき"
+      },
+      "の",
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "に みたいな"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0503",
+    "time": "00:28:16,319",
+    "timeEnd": "00:28:17,612",
+    "character": "",
+    "segments": [
+      "えっ ロビン"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0504",
+    "time": "00:28:17,696",
+    "timeEnd": "00:28:21,282",
+    "character": "",
+    "segments": [
+      "ロビン ",
+      {
+        "kanji": "振",
+        "reading": "ふ"
+      },
+      "り",
+      {
+        "kanji": "向",
+        "reading": "む"
+      },
+      "いてくれたんですけど"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0505",
+    "time": "00:28:21,366",
+    "timeEnd": "00:28:22,700",
+    "character": "",
+    "segments": [
+      "じゅりちゃんは"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0506",
+    "time": "00:28:22,784",
+    "timeEnd": "00:28:26,705",
+    "character": "",
+    "segments": [
+      "ロビン",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "が",
+      {
+        "kanji": "来",
+        "reading": "く"
+      },
+      "ることが ",
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      "て",
+      {
+        "kanji": "幸",
+        "reading": "しあわ"
+      },
+      "せになるのか"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0507",
+    "time": "00:28:26,788",
+    "timeEnd": "00:28:28,498",
+    "character": "",
+    "segments": [
+      "ロビン",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "が ちょっと",
+      {
+        "kanji": "他",
+        "reading": "た"
+      },
+      "に"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0508",
+    "time": "00:28:28,581",
+    "timeEnd": "00:28:32,585",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "女",
+        "reading": "おんな"
+      },
+      "の",
+      {
+        "kanji": "子",
+        "reading": "こ"
+      },
+      " ",
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "にしてるぐらいの",
+      {
+        "kanji": "時",
+        "reading": "とき"
+      },
+      "の ",
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "の",
+      {
+        "kanji": "方",
+        "reading": "ほう"
+      },
+      "が",
+      {
+        "kanji": "楽",
+        "reading": "らく"
+      },
+      "だったのか"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0509",
+    "time": "00:28:32,669",
+    "timeEnd": "00:28:33,837",
+    "character": "横澤",
+    "segments": [
+      "はー"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0510",
+    "time": "00:28:33,920",
+    "timeEnd": "00:28:35,964",
+    "character": "横澤",
+    "segments": [
+      "オオカミちゃんとしてですね そうだね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0511",
+    "time": "00:28:36,047",
+    "timeEnd": "00:28:37,465",
+    "character": "",
+    "segments": [
+      "どちらにせよ つらいっていうのが"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0512",
+    "time": "00:28:37,549",
+    "timeEnd": "00:28:38,800",
+    "character": "",
+    "segments": [
+      "じゅりちゃんの かわいそうなとこですよね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0513",
+    "time": "00:28:38,800",
+    "timeEnd": "00:28:39,676",
+    "character": "",
+    "segments": [
+      "じゅりちゃんの かわいそうなとこですよね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0514",
+    "time": "00:28:38,800",
+    "timeEnd": "00:28:39,676",
+    "character": "横澤",
+    "segments": [
+      "いや ",
+      {
+        "kanji": "本当",
+        "reading": "ほんとう"
+      },
+      " そう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0515",
+    "time": "00:28:39,759",
+    "timeEnd": "00:28:40,677",
+    "character": "",
+    "segments": [
+      "オオカミとしての",
+      {
+        "kanji": "使命",
+        "reading": "しめい"
+      },
+      "も"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0516",
+    "time": "00:28:40,760",
+    "timeEnd": "00:28:42,178",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "果",
+        "reading": "は"
+      },
+      "たさなきゃ いけないわけですよね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0517",
+    "time": "00:28:42,262",
+    "timeEnd": "00:28:43,346",
+    "character": "矢吹",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0518",
+    "time": "00:28:46,975",
+    "timeEnd": "00:28:49,561",
+    "character": "桜子",
+    "segments": [
+      "えっ Who-ya",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      {
+        "kanji": "的",
+        "reading": "てき"
+      },
+      "にはさ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0519",
+    "time": "00:28:49,644",
+    "timeEnd": "00:28:52,731",
+    "character": "",
+    "segments": [
+      "いいなって",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "うのは Mikakoちゃんって",
+      {
+        "kanji": "感",
+        "reading": "かん"
+      },
+      "じなの？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0520",
+    "time": "00:28:52,814",
+    "timeEnd": "00:28:54,315",
+    "character": "Who-ya",
+    "segments": [
+      "なんか やっぱり",
+      {
+        "kanji": "一緒",
+        "reading": "いっしょ"
+      },
+      "にいる",
+      {
+        "kanji": "時間",
+        "reading": "じかん"
+      },
+      "も⸺"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0521",
+    "time": "00:28:54,399",
+    "timeEnd": "00:28:56,234",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "結構",
+        "reading": "けっこう"
+      },
+      " ",
+      {
+        "kanji": "大事",
+        "reading": "だいじ"
+      },
+      "というか ",
+      {
+        "kanji": "関",
+        "reading": "かか"
+      },
+      "わってきちゃうじゃん？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0522",
+    "time": "00:28:56,317",
+    "timeEnd": "00:28:57,152",
+    "character": "桜子",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0523",
+    "time": "00:28:58,069",
+    "timeEnd": "00:29:00,905",
+    "character": "",
+    "segments": [
+      "まあ でも ",
+      {
+        "kanji": "年",
+        "reading": "とし"
+      },
+      "が",
+      {
+        "kanji": "近",
+        "reading": "ちか"
+      },
+      "いからかもしんないけど"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0524",
+    "time": "00:29:00,989",
+    "timeEnd": "00:29:05,243",
+    "character": "",
+    "segments": [
+      "らことも なんか",
+      {
+        "kanji": "話",
+        "reading": "はな"
+      },
+      "してて すごい",
+      {
+        "kanji": "話",
+        "reading": "はな"
+      },
+      "しやすいなとか",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "うんだよ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0525",
+    "time": "00:29:05,326",
+    "timeEnd": "00:29:06,536",
+    "character": "桜子",
+    "segments": [
+      "うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0526",
+    "time": "00:29:08,913",
+    "timeEnd": "00:29:09,956",
+    "character": "ほのか",
+    "segments": [
+      "おはよ！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0527",
+    "time": "00:29:10,039",
+    "timeEnd": "00:29:11,291",
+    "character": "",
+    "segments": [
+      "びっくりした！ おはよう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0528",
+    "time": "00:29:12,000",
+    "timeEnd": "00:29:13,668",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      " ",
+      {
+        "kanji": "作",
+        "reading": "つく"
+      },
+      "ってんの？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0529",
+    "time": "00:29:13,752",
+    "timeEnd": "00:29:15,879",
+    "character": "桜子",
+    "segments": [
+      {
+        "kanji": "豚",
+        "reading": "ぶた"
+      },
+      "の",
+      {
+        "kanji": "角",
+        "reading": "かく"
+      },
+      {
+        "kanji": "煮",
+        "reading": "に"
+      },
+      "と おうどんです"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0530",
+    "time": "00:29:15,962",
+    "timeEnd": "00:29:16,796",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "夜",
+        "reading": "よる"
+      },
+      "ご",
+      {
+        "kanji": "飯",
+        "reading": "はん"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0531",
+    "time": "00:29:16,880",
+    "timeEnd": "00:29:19,299",
+    "character": "ほのか",
+    "segments": [
+      "あと ",
+      {
+        "kanji": "天",
+        "reading": "てん"
+      },
+      "ぷらも",
+      {
+        "kanji": "揚",
+        "reading": "あ"
+      },
+      "げます あー！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0532",
+    "time": "00:29:20,800",
+    "timeEnd": "00:29:22,051",
+    "character": "ほのか",
+    "segments": [
+      {
+        "kanji": "話",
+        "reading": "はな"
+      },
+      "そうよ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0533",
+    "time": "00:29:24,846",
+    "timeEnd": "00:29:27,557",
+    "character": "",
+    "segments": [
+      "まあ ",
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "になることといえば ",
+      {
+        "kanji": "北海道",
+        "reading": "ほっかいどう"
+      },
+      {
+        "kanji": "組",
+        "reading": "ぐみ"
+      },
+      "？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0534",
+    "time": "00:29:27,640",
+    "timeEnd": "00:29:29,017",
+    "character": "",
+    "segments": [
+      "そうだね そうなんだよね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0535",
+    "time": "00:29:29,100",
+    "timeEnd": "00:29:31,519",
+    "character": "ほのか",
+    "segments": [
+      "なんか ねっ いろいろ ちょっと",
+      {
+        "kanji": "複雑",
+        "reading": "ふくざつ"
+      },
+      "なんだよね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0536",
+    "time": "00:29:31,603",
+    "timeEnd": "00:29:33,730",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "で",
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "きたかったなって",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "うけど"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0537",
+    "time": "00:29:33,813",
+    "timeEnd": "00:29:35,523",
+    "character": "Mikako / ほのか",
+    "segments": [
+      "いや ",
+      {
+        "kanji": "分",
+        "reading": "わ"
+      },
+      "かるよ うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0538",
+    "time": "00:29:35,607",
+    "timeEnd": "00:29:36,649",
+    "character": "Mikako",
+    "segments": [
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "珠",
+        "reading": "たま"
+      },
+      "は… ",
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "珠",
+        "reading": "たま"
+      },
+      "ね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0539",
+    "time": "00:29:36,733",
+    "timeEnd": "00:29:38,526",
+    "character": "扉の開く音 / Mikako",
+    "segments": [
+      "そうだよね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0540",
+    "time": "00:29:38,610",
+    "timeEnd": "00:29:39,736",
+    "character": "ほのか",
+    "segments": [
+      "あっ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0541",
+    "time": "00:29:39,819",
+    "timeEnd": "00:29:41,029",
+    "character": "",
+    "segments": [
+      "あれ？ ",
+      {
+        "kanji": "梅酒",
+        "reading": "うめしゅ"
+      },
+      " ",
+      {
+        "kanji": "持",
+        "reading": "も"
+      },
+      "ってる"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0542",
+    "time": "00:29:41,112",
+    "timeEnd": "00:29:41,946",
+    "character": "じゅり / Mikako",
+    "segments": [
+      "これは… えっ ",
+      {
+        "kanji": "梅酒",
+        "reading": "うめしゅ"
+      },
+      " それ？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0543",
+    "time": "00:29:42,030",
+    "timeEnd": "00:29:43,239",
+    "character": "じゅり",
+    "segments": [
+      "そう ",
+      {
+        "kanji": "梅酒",
+        "reading": "うめしゅ"
+      },
+      "だけの"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0544",
+    "time": "00:29:43,323",
+    "timeEnd": "00:29:44,657",
+    "character": "Mikako",
+    "segments": [
+      "テンキュ！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0545",
+    "time": "00:29:45,992",
+    "timeEnd": "00:29:47,118",
+    "character": "じゅり",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      " ",
+      {
+        "kanji": "話",
+        "reading": "はな"
+      },
+      "したの？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0546",
+    "time": "00:29:47,202",
+    "timeEnd": "00:29:51,206",
+    "character": "",
+    "segments": [
+      "え？ ",
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "珠",
+        "reading": "たま"
+      },
+      "とやりたいことが"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0547",
+    "time": "00:29:51,289",
+    "timeEnd": "00:29:53,708",
+    "character": "じゅり",
+    "segments": [
+      "まあ ",
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "は まだできてないから うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0548",
+    "time": "00:29:53,792",
+    "timeEnd": "00:29:56,586",
+    "character": "ほのか",
+    "segments": [
+      "まあ ギャビーがいいなあって",
+      {
+        "kanji": "話",
+        "reading": "はなし"
+      }
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0549",
+    "time": "00:29:59,214",
+    "timeEnd": "00:30:00,423",
+    "character": "",
+    "segments": [
+      "どっちも",
+      {
+        "kanji": "余",
+        "reading": "あま"
+      },
+      "ってる"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0550",
+    "time": "00:30:00,507",
+    "timeEnd": "00:30:03,676",
+    "character": "",
+    "segments": [
+      "いや なんか うん ",
+      {
+        "kanji": "誘",
+        "reading": "さそ"
+      },
+      "いたいとは",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "ってて"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0551",
+    "time": "00:30:03,760",
+    "timeEnd": "00:30:06,804",
+    "character": "Mikako / ほのか",
+    "segments": [
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "珠",
+        "reading": "たま"
+      },
+      "に？ でも ちょっと",
+      {
+        "kanji": "悩",
+        "reading": "なや"
+      },
+      "んでもいる"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0552",
+    "time": "00:30:07,847",
+    "timeEnd": "00:30:09,057",
+    "character": "じゅり",
+    "segments": [
+      {
+        "kanji": "太陽",
+        "reading": "たいよう"
+      },
+      "LINEとかも… うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0553",
+    "time": "00:30:09,140",
+    "timeEnd": "00:30:11,643",
+    "character": "ほのか",
+    "segments": [
+      {
+        "kanji": "別",
+        "reading": "べつ"
+      },
+      "になんか その まあ ロビンがいてくれたら"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0554",
+    "time": "00:30:11,726",
+    "timeEnd": "00:30:14,270",
+    "character": "じゅり",
+    "segments": [
+      {
+        "kanji": "楽",
+        "reading": "たの"
+      },
+      "しいっていうのはあるじゃん そうだね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0555",
+    "time": "00:30:14,354",
+    "timeEnd": "00:30:15,188",
+    "character": "ほのか",
+    "segments": [
+      "あるじゃんっていうか あるんだけど"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0556",
+    "time": "00:30:15,271",
+    "timeEnd": "00:30:17,690",
+    "character": "",
+    "segments": [
+      "なんか",
+      {
+        "kanji": "一緒",
+        "reading": "いっしょ"
+      },
+      "にいて",
+      {
+        "kanji": "楽",
+        "reading": "たの"
+      },
+      "しそうだね ２",
+      {
+        "kanji": "人",
+        "reading": "にん"
+      },
+      "で"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0557",
+    "time": "00:30:18,149",
+    "timeEnd": "00:30:20,151",
+    "character": "",
+    "segments": [
+      "ロビンに",
+      {
+        "kanji": "一番",
+        "reading": "いちばん"
+      },
+      {
+        "kanji": "会",
+        "reading": "あ"
+      },
+      "いたかった"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0558",
+    "time": "00:30:21,903",
+    "timeEnd": "00:30:23,780",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "理由",
+        "reading": "りゆう"
+      },
+      "がある でも！"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0559",
+    "time": "00:30:24,656",
+    "timeEnd": "00:30:29,828",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "一番",
+        "reading": "いちばん"
+      },
+      " ５",
+      {
+        "kanji": "人",
+        "reading": "にん"
+      },
+      "の",
+      {
+        "kanji": "中",
+        "reading": "なか"
+      },
+      "で",
+      {
+        "kanji": "素",
+        "reading": "もと"
+      },
+      "が",
+      {
+        "kanji": "出",
+        "reading": "だ"
+      },
+      "せて"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0560",
+    "time": "00:30:29,911",
+    "timeEnd": "00:30:32,288",
+    "character": "",
+    "segments": [
+      "で… ゲラゲラ",
+      {
+        "kanji": "笑",
+        "reading": "わら"
+      },
+      "えて"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0561",
+    "time": "00:30:32,372",
+    "timeEnd": "00:30:34,165",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "早",
+        "reading": "はや"
+      },
+      "く",
+      {
+        "kanji": "遊",
+        "reading": "あそ"
+      },
+      "びたいな みたいな"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0562",
+    "time": "00:30:34,249",
+    "timeEnd": "00:30:35,500",
+    "character": "ロビン / ほのか",
+    "segments": [
+      "あー ",
+      {
+        "kanji": "感覚",
+        "reading": "かんかく"
+      },
+      "？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0563",
+    "time": "00:30:36,960",
+    "timeEnd": "00:30:41,089",
+    "character": "",
+    "segments": [
+      "まあ その ",
+      {
+        "kanji": "一番",
+        "reading": "いちばん"
+      },
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "になる",
+      {
+        "kanji": "男性",
+        "reading": "だんせい"
+      },
+      "は",
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "珠",
+        "reading": "たま"
+      },
+      "っていう"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0564",
+    "time": "00:30:41,172",
+    "timeEnd": "00:30:43,716",
+    "character": "ロビン",
+    "segments": [
+      "まあ ",
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      "の",
+      {
+        "kanji": "気持",
+        "reading": "きも"
+      },
+      "ちはあるんだけど うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0565",
+    "time": "00:30:43,800",
+    "timeEnd": "00:30:46,844",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "正直",
+        "reading": "しょうじき"
+      },
+      " ",
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "珠",
+        "reading": "たま"
+      },
+      "は なんだろ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0566",
+    "time": "00:30:46,928",
+    "timeEnd": "00:30:50,557",
+    "character": "ロビン",
+    "segments": [
+      {
+        "kanji": "異性",
+        "reading": "いせい"
+      },
+      "として",
+      {
+        "kanji": "見",
+        "reading": "み"
+      },
+      "てるからこそ うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0567",
+    "time": "00:30:50,640",
+    "timeEnd": "00:30:52,308",
+    "character": "",
+    "segments": [
+      "めっちゃ",
+      {
+        "kanji": "緊張",
+        "reading": "きんちょう"
+      },
+      "しちゃうのよ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0568",
+    "time": "00:30:52,392",
+    "timeEnd": "00:30:54,269",
+    "character": "",
+    "segments": [
+      "そう だから…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0569",
+    "time": "00:30:54,978",
+    "timeEnd": "00:30:59,399",
+    "character": "",
+    "segments": [
+      "まあ なんか",
+      {
+        "kanji": "一",
+        "reading": "いち"
+      },
+      {
+        "kanji": "回",
+        "reading": "かい"
+      },
+      " ちょっと ",
+      {
+        "kanji": "伝",
+        "reading": "つた"
+      },
+      "えとくかーと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "って"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0570",
+    "time": "00:30:59,983",
+    "timeEnd": "00:31:01,693",
+    "character": "滝沢",
+    "segments": [
+      "うんうんうん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0571",
+    "time": "00:31:01,776",
+    "timeEnd": "00:31:03,027",
+    "character": "",
+    "segments": [
+      "そうだね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0572",
+    "time": "00:31:03,695",
+    "timeEnd": "00:31:06,990",
+    "character": "ほのか",
+    "segments": [
+      "なんか それこそ ",
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      " じゅりに",
+      {
+        "kanji": "聞",
+        "reading": "き"
+      },
+      "きたいんだけど"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0573",
+    "time": "00:31:07,073",
+    "timeEnd": "00:31:11,452",
+    "character": "",
+    "segments": [
+      "ちょっとなんか ロビンに",
+      {
+        "kanji": "対",
+        "reading": "たい"
+      },
+      "して ",
+      {
+        "kanji": "当",
+        "reading": "あ"
+      },
+      "たりが",
+      {
+        "kanji": "強",
+        "reading": "つよ"
+      },
+      "いというかさ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0574",
+    "time": "00:31:11,536",
+    "timeEnd": "00:31:13,204",
+    "character": "ほのか",
+    "segments": [
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "？ うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0575",
+    "time": "00:31:13,288",
+    "timeEnd": "00:31:16,207",
+    "character": "",
+    "segments": [
+      "なんか ロビンが",
+      {
+        "kanji": "話",
+        "reading": "はな"
+      },
+      "しかけてくれても “あー”みたいな"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0576",
+    "time": "00:31:17,208",
+    "timeEnd": "00:31:21,129",
+    "character": "",
+    "segments": [
+      "じゅり",
+      {
+        "kanji": "的",
+        "reading": "てき"
+      },
+      "に どう",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "ってるのかなみたいな"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0577",
+    "time": "00:31:21,838",
+    "timeEnd": "00:31:22,839",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0578",
+    "time": "00:31:25,717",
+    "timeEnd": "00:31:27,969",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "簡単",
+        "reading": "かんたん"
+      },
+      "に",
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "うと ",
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "を",
+      {
+        "kanji": "遣",
+        "reading": "や"
+      },
+      "ってしまうというか"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0579",
+    "time": "00:31:28,052",
+    "timeEnd": "00:31:29,929",
+    "character": "じゅり",
+    "segments": [
+      "うんうんうん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0580",
+    "time": "00:31:30,013",
+    "timeEnd": "00:31:32,682",
+    "character": "",
+    "segments": [
+      "いや ",
+      {
+        "kanji": "全然",
+        "reading": "ぜんぜん"
+      },
+      " ",
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "にしなくていいよ ",
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "のこと"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0581",
+    "time": "00:31:32,765",
+    "timeEnd": "00:31:33,725",
+    "character": "ほのか",
+    "segments": [
+      "えっ ",
+      {
+        "kanji": "全然",
+        "reading": "ぜんぜん"
+      },
+      "あれだよ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0582",
+    "time": "00:31:33,808",
+    "timeEnd": "00:31:36,144",
+    "character": "",
+    "segments": [
+      "いや ",
+      {
+        "kanji": "決",
+        "reading": "き"
+      },
+      "めてないよ まだ ",
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
+      "に",
+      {
+        "kanji": "使",
+        "reading": "つか"
+      },
+      "うかは"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0583",
+    "time": "00:31:36,227",
+    "timeEnd": "00:31:38,104",
+    "character": "じゅり",
+    "segments": [
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
+      "に",
+      {
+        "kanji": "使",
+        "reading": "つか"
+      },
+      "うか",
+      {
+        "kanji": "決",
+        "reading": "き"
+      },
+      "めてないんだけど うんうんうん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0584",
+    "time": "00:31:38,187",
+    "timeEnd": "00:31:39,272",
+    "character": "",
+    "segments": [
+      "そう なんか…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0585",
+    "time": "00:31:40,565",
+    "timeEnd": "00:31:45,403",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "一番",
+        "reading": "いちばん"
+      },
+      " ",
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "が",
+      {
+        "kanji": "気持",
+        "reading": "きも"
+      },
+      "ち",
+      {
+        "kanji": "楽",
+        "reading": "らく"
+      },
+      "になれる ",
+      {
+        "kanji": "方法",
+        "reading": "ほうほう"
+      },
+      "があるんだけど"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0586",
+    "time": "00:31:45,486",
+    "timeEnd": "00:31:47,947",
+    "character": "",
+    "segments": [
+      "もう ",
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "のこと ほっといてください"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0587",
+    "time": "00:31:58,041",
+    "timeEnd": "00:32:01,419",
+    "character": "",
+    "segments": [
+      "やりたいこと やってもいいんじゃない？"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0588",
+    "time": "00:32:01,502",
+    "timeEnd": "00:32:05,715",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "のこと ",
+      {
+        "kanji": "別",
+        "reading": "べつ"
+      },
+      "に ",
+      {
+        "kanji": "普通",
+        "reading": "ふつう"
+      },
+      "に",
+      {
+        "kanji": "無視",
+        "reading": "むし"
+      },
+      "していいよ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0589",
+    "time": "00:32:05,798",
+    "timeEnd": "00:32:06,799",
+    "character": "",
+    "segments": [
+      "ダメだよ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0590",
+    "time": "00:32:07,967",
+    "timeEnd": "00:32:09,093",
+    "character": "Mikako / ほのか",
+    "segments": [
+      {
+        "kanji": "無視",
+        "reading": "むし"
+      },
+      "はできない うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0591",
+    "time": "00:32:09,177",
+    "timeEnd": "00:32:10,136",
+    "character": "じゅり",
+    "segments": [
+      {
+        "kanji": "無視",
+        "reading": "むし"
+      },
+      "していいと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "う"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0592",
+    "time": "00:32:10,219",
+    "timeEnd": "00:32:12,221",
+    "character": "",
+    "segments": [
+      "だから じゅりの",
+      {
+        "kanji": "気持",
+        "reading": "きも"
+      },
+      "ちもなんか"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0593",
+    "time": "00:32:12,305",
+    "timeEnd": "00:32:14,098",
+    "character": "Mikako / ほのか",
+    "segments": [
+      {
+        "kanji": "聞",
+        "reading": "き"
+      },
+      "きたいんだよ ちゃんと ",
+      {
+        "kanji": "分",
+        "reading": "わ"
+      },
+      "かったうえで"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0594",
+    "time": "00:32:14,182",
+    "timeEnd": "00:32:17,060",
+    "character": "",
+    "segments": [
+      "ただただ もう なんかさ ",
+      {
+        "kanji": "残",
+        "reading": "のこ"
+      },
+      "された",
+      {
+        "kanji": "時間",
+        "reading": "じかん"
+      },
+      "を⸺"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0595",
+    "time": "00:32:17,143",
+    "timeEnd": "00:32:20,229",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "楽",
+        "reading": "たの"
+      },
+      "しみたいって ",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "ってるだけだからさ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0596",
+    "time": "00:32:20,313",
+    "timeEnd": "00:32:23,483",
+    "character": "",
+    "segments": [
+      "だから なんか",
+      {
+        "kanji": "逆",
+        "reading": "ぎゃく"
+      },
+      "に ",
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "珠",
+        "reading": "たま"
+      },
+      "が"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0597",
+    "time": "00:32:24,150",
+    "timeEnd": "00:32:27,987",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "が",
+      {
+        "kanji": "太陽",
+        "reading": "たいよう"
+      },
+      "LINE",
+      {
+        "kanji": "使",
+        "reading": "つか"
+      },
+      "うってなったら ",
+      {
+        "kanji": "来",
+        "reading": "き"
+      },
+      "てくれるっていうのは"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0598",
+    "time": "00:32:28,071",
+    "timeEnd": "00:32:32,867",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "信",
+        "reading": "しん"
+      },
+      "じてるからこそ ",
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
+      "に",
+      {
+        "kanji": "使",
+        "reading": "つか"
+      },
+      "おうかなっていうのは… うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0599",
+    "time": "00:32:36,037",
+    "timeEnd": "00:32:37,956",
+    "character": "",
+    "segments": [
+      "ハハハ…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0600",
+    "time": "00:32:48,257",
+    "timeEnd": "00:32:49,550",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "楽",
+        "reading": "たの"
+      },
+      "しんできて"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0601",
+    "time": "00:32:49,634",
+    "timeEnd": "00:32:51,594",
+    "character": "ほのか",
+    "segments": [
+      "でも ",
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
+      "に",
+      {
+        "kanji": "使",
+        "reading": "つか"
+      },
+      "うか",
+      {
+        "kanji": "決",
+        "reading": "き"
+      },
+      "めてないよ"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0602",
+    "time": "00:32:51,678",
+    "timeEnd": "00:32:55,306",
+    "character": "",
+    "segments": [
+      "うん ",
+      {
+        "kanji": "全然",
+        "reading": "ぜんぜん"
+      },
+      " ",
+      {
+        "kanji": "楽",
+        "reading": "たの"
+      },
+      "しんできた",
+      {
+        "kanji": "方",
+        "reading": "ほう"
+      },
+      "がいいと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "う"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0603",
+    "time": "00:32:55,390",
+    "timeEnd": "00:32:56,557",
+    "character": "",
+    "segments": [
+      {
+        "kanji": "本当",
+        "reading": "ほんとう"
+      },
+      "に"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0604",
+    "time": "00:33:04,273",
+    "timeEnd": "00:33:06,442",
+    "character": "",
+    "segments": [
+      "“",
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "のことは ほっといて”って"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0605",
+    "time": "00:33:07,318",
+    "timeEnd": "00:33:09,946",
+    "character": "Mikako",
+    "segments": [
+      "なんか",
+      {
+        "kanji": "突",
+        "reading": "つ"
+      },
+      "き",
+      {
+        "kanji": "放",
+        "reading": "はな"
+      },
+      "された",
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "がして うん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0606",
+    "time": "00:33:11,030",
+    "timeEnd": "00:33:13,282",
+    "character": "",
+    "segments": [
+      "もうちょっと なんか なんていうんだろうな…"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0607",
+    "time": "00:33:15,118",
+    "timeEnd": "00:33:16,411",
+    "character": "",
+    "segments": [
+      "ごめんね"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0608",
+    "time": "00:33:17,662",
+    "timeEnd": "00:33:18,663",
+    "character": "ほのか",
+    "segments": [
+      "ううん"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0609",
+    "time": "00:33:18,746",
+    "timeEnd": "00:33:20,456",
+    "character": "",
+    "segments": [
+      "ごめんしか",
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "えない"
+    ],
+    "english": "",
+    "notes": []
+  },
+  {
+    "id": "wolf-09-0610",
+    "time": "00:33:25,920",
+    "timeEnd": "00:33:27,880",
+    "character": "",
+    "segments": [
+      "もう これ",
+      {
+        "kanji": "以上",
+        "reading": "いじょう"
+      },
+      " ",
+      {
+        "kanji": "来",
+        "reading": "こ"
+      },
+      "ないで"
+    ],
+    "english": "",
+    "notes": []
+  }
+]
