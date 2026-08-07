@@ -115,6 +115,7 @@ function App() {
   const navigationTargetRef = useRef<'top' | 'intro' | 'lesson'>('top');
   const navigationRequestRef = useRef(0);
   const episode = episodes.find(item => item.id === episodeId) || episodes[0];
+  const episodeIndex = episodes.findIndex(item => item.id === episode.id);
   const loading = loadedEpisode !== episode.id;
   const lessonSize = Math.max(1, Math.ceil(cues.length / episode.lessons));
   const lessonStart = lessonIndex * lessonSize;
@@ -212,14 +213,24 @@ function App() {
   }, [episode.id, lesson, lessonIndex, loading]);
 
   const nextLesson = useCallback(() => {
-    const next = (lessonIndex + 1) % episode.lessons;
     navigationRequestRef.current += 1;
     smoothNavigationRef.current = true;
+    if (lessonIndex === episode.lessons - 1 && episodeIndex < episodes.length - 1) {
+      const nextEpisode = episodes[episodeIndex + 1];
+      navigationTargetRef.current = 'intro';
+      setEpisodeId(nextEpisode.id);
+      setLessonIndex(0);
+      localStorage.setItem('wolf-episode', nextEpisode.id);
+      localStorage.setItem(`wolf-position-${nextEpisode.id}`, '0');
+      writeRoute(nextEpisode.id, 0);
+      return;
+    }
+    const next = lessonIndex + 1;
     navigationTargetRef.current = 'lesson';
     setLessonIndex(next);
     localStorage.setItem(`wolf-position-${episode.id}`, String(next));
     writeRoute(episode.id, next);
-  }, [episode.id, episode.lessons, lessonIndex]);
+  }, [episode.id, episode.lessons, episodeIndex, lessonIndex]);
   const previousLesson = useCallback(() => {
     const previous = (lessonIndex - 1 + episode.lessons) % episode.lessons;
     navigationRequestRef.current += 1;
@@ -254,10 +265,11 @@ function App() {
     if (!topButtons || topButtons.length < 2) return;
     const previousTop = topButtons[0] as HTMLButtonElement;
     const nextTop = topButtons[1] as HTMLButtonElement;
+    const canAdvance = lessonIndex < episode.lessons - 1 || episodeIndex < episodes.length - 1;
     previousTop.textContent = 'Previous';
     nextTop.textContent = 'Next';
     previousTop.hidden = lessonIndex === 0;
-    nextTop.hidden = lessonIndex === episode.lessons - 1;
+    nextTop.hidden = !canAdvance;
 
     const bottomActions = document.createElement('div');
     bottomActions.className = 'lesson-actions lesson-actions-bottom';
@@ -268,7 +280,7 @@ function App() {
       previous.addEventListener('click', previousLesson);
       bottomActions.append(previous);
     }
-    if (lessonIndex < episode.lessons - 1) {
+    if (canAdvance) {
       const next = document.createElement('button');
       next.type = 'button';
       next.textContent = 'Next';
@@ -279,7 +291,7 @@ function App() {
     return () => {
       bottomActions.remove();
     };
-  }, [episode.lessons, lessonIndex, loading, nextLesson, previousLesson]);
+  }, [episode.lessons, episodeIndex, lessonIndex, loading, nextLesson, previousLesson]);
 
   useEffect(() => {
     if (loading) return;

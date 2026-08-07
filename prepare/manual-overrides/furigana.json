@@ -80,5 +80,24 @@
     "とか",
     { "kanji": "行", "reading": "い" },
     "ってないの？"
+  ],
+  "wolf-01-0722": [
+    "Mikakoちゃんに",
+    { "kanji": "渡", "reading": "わた" },
+    "した Who-ya",
+    { "kanji": "君", "reading": "くん" }
+  ],
+  "wolf-01-0969": [
+    { "kanji": "１人", "reading": "ひとり" },
+    "…",
+    { "kanji": "２人", "reading": "ふたり" },
+    "？"
+  ],
+  "wolf-01-1008": [
+    { "kanji": "最終", "reading": "さいしゅう" },
+    { "kanji": "告白", "reading": "こくはく" },
+    "までの",
+    { "kanji": "間", "reading": "あいだ" },
+    "に"
   ]
 }

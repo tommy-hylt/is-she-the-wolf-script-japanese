@@ -12524,7 +12524,7 @@
       "した Who-ya",
       {
         "kanji": "君",
-        "reading": "きみ"
+        "reading": "くん"
       }
     ],
     "english": "Who-ya gave it to Mikako-chan",
@@ -14992,36 +14992,6 @@
     "notes": []
   },
   {
-    "id": "wolf-01-0870",
-    "time": "00:44:06,644",
-    "timeEnd": "00:44:08,062",
-    "character": "ロビン",
-    "segments": [
-      {
-        "kanji": "代",
-        "reading": "か"
-      },
-      "わりに ",
-      {
-        "kanji": "素敵",
-        "reading": "すてき"
-      },
-      "な ダイヤモンド",
-      {
-        "kanji": "富士",
-        "reading": "ふじ"
-      },
-      "が",
-      {
-        "kanji": "撮",
-        "reading": "と"
-      },
-      "れるようにね"
-    ],
-    "english": "I hope I can take pictures of the wonderful Diamond Fuji instead.",
-    "notes": []
-  },
-  {
     "id": "wolf-01-0871",
     "time": "00:44:06,644",
     "timeEnd": "00:44:08,062",
@@ -16539,15 +16509,14 @@
     "timeEnd": "00:50:40,203",
     "character": "",
     "segments": [
-      "１",
       {
-        "kanji": "人",
-        "reading": "にん"
+        "kanji": "１人",
+        "reading": "ひとり"
       },
-      "… ２",
+      "…",
       {
-        "kanji": "人",
-        "reading": "にん"
+        "kanji": "２人",
+        "reading": "ふたり"
       },
       "？"
     ],
@@ -17250,7 +17219,7 @@
       "までの",
       {
         "kanji": "間",
-        "reading": "ま"
+        "reading": "あいだ"
       },
       "に"
     ],
